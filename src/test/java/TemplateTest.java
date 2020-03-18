@@ -11,12 +11,12 @@ class TemplateTest {
     private final Template template = new Template();
 
     @ParameterizedTest
-    @MethodSource("sumSource")
+    @MethodSource("source")
     void sum(int a, int b, int result) {
         assertEquals(result, template.sum(a, b));
     }
 
-    private static Stream<Arguments> sumSource() {
+    private static Stream<Arguments> source() {
         return Stream.of(
                 Arguments.of(1, 1, 2),
                 Arguments.of(Integer.MAX_VALUE, 1, 0)

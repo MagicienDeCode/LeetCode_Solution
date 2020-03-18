@@ -8,14 +8,14 @@ internal class TemplateKTest {
     private val templateK = TemplateK()
 
     @ParameterizedTest
-    @MethodSource("sumSource")
+    @MethodSource("source")
     fun sum(a: Int, b: Int, result: Int) {
         assertEquals(result, templateK.sum(a, b))
     }
 
     companion object {
         @JvmStatic
-        fun sumSource() = listOf(
+        fun source() = listOf(
             Arguments.of(1, 1, 2),
             Arguments.of(Int.MAX_VALUE, 1, 0)
         )
