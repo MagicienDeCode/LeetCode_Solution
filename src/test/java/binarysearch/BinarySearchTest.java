@@ -12,10 +12,18 @@ class BinarySearchTest {
 
     private final BinarySearch binarySearch = new BinarySearch();
 
+    private final BinarySearchK binarySearchK = new BinarySearchK();
+
     @ParameterizedTest
     @MethodSource("source")
     void binary_search(int[] nums, int target, int result) {
         assertEquals(result, binarySearch.search(nums, target));
+    }
+
+    @ParameterizedTest
+    @MethodSource("source")
+    void binary_search_kotlin(int[] nums, int target, int result) {
+        assertEquals(result, binarySearchK.search(nums, target));
     }
 
     private static Stream<Arguments> source() {
