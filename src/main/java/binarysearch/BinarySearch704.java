@@ -1,6 +1,6 @@
 package binarysearch;
 
-public class BinarySearch {
+public class BinarySearch704 {
     public int search(int[] nums, int target) {
         if (nums == null || nums.length == 0) {
             return -1;

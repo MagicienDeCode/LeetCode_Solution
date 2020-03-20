@@ -8,22 +8,22 @@ import java.util.stream.Stream;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
-class BinarySearchTest {
+class BinarySearch704Test {
 
-    private final BinarySearch binarySearch = new BinarySearch();
+    private final BinarySearch704 binarySearch704 = new BinarySearch704();
 
-    private final BinarySearchK binarySearchK = new BinarySearchK();
+    private final BinarySearchKotlin704 binarySearchKotlin704 = new BinarySearchKotlin704();
 
     @ParameterizedTest
     @MethodSource("source")
     void binary_search(int[] nums, int target, int result) {
-        assertEquals(result, binarySearch.search(nums, target));
+        assertEquals(result, binarySearch704.search(nums, target));
     }
 
     @ParameterizedTest
     @MethodSource("source")
     void binary_search_kotlin(int[] nums, int target, int result) {
-        assertEquals(result, binarySearchK.search(nums, target));
+        assertEquals(result, binarySearchKotlin704.search(nums, target));
     }
 
     private static Stream<Arguments> source() {

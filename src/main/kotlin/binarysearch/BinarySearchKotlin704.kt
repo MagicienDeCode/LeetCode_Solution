@@ -1,6 +1,6 @@
 package binarysearch
 
-class BinarySearchK {
+class BinarySearchKotlin704 {
     fun search(nums: IntArray, target: Int): Int {
         if (nums.isEmpty()) {
             return -1
