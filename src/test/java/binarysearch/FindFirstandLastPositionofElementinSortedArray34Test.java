@@ -32,8 +32,8 @@ class FindFirstandLastPositionofElementinSortedArray34Test {
         int[] result1 = {3, 4};
         int[] result2 = {-1, -1};
         return Stream.of(
-                Arguments.of(intArray, 8, javaResult),
-                Arguments.of(intArray, 6, kotlinResult)
+                Arguments.of(intArray, 8, result1),
+                Arguments.of(intArray, 6, result2)
         );
     }
 }
