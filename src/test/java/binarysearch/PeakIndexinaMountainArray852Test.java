@@ -11,7 +11,8 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 class PeakIndexinaMountainArray852Test {
     private final PeakIndexinaMountainArray852 java = new PeakIndexinaMountainArray852();
 
-    private final PeakIndexinaMountainArrayKotlin852 kotlin = new PeakIndexinaMountainArrayKotlin852();
+    private final PeakIndexinaMountainArrayKotlin852 kotlin =
+            new PeakIndexinaMountainArrayKotlin852();
 
     @ParameterizedTest
     @MethodSource("source")
