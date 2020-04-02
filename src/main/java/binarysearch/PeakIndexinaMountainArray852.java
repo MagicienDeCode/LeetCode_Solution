@@ -1,20 +1,20 @@
 package binarysearch;
 
 public class PeakIndexinaMountainArray852 {
-    public int peakIndexInMountainArray(int[] A) {
+    public int peakIndexInMountainArray(int[] nums) {
         int left = 0;
-        int right = A.length;
+        int right = nums.length;
         while (left + 1 < right) {
             final int mid = left + (right - left) / 2;
-            if ( A[mid - 1] < A[mid] && A[mid] > A[mid + 1]) {
+            if (nums[mid - 1] < nums[mid] && nums[mid] > nums[mid + 1]) {
                 return mid;
-            } else if (A[mid - 1] < A[mid] && A[mid] < A[mid + 1] ) {
+            } else if (nums[mid - 1] < nums[mid] && nums[mid] < nums[mid + 1]) {
                 left = mid;
             } else {
                 right = mid;
             }
         }
-        if ( A[left] > A[right] && A[left - 1] < A[left]) {
+        if (nums[left] > nums[right] && nums[left - 1] < nums[left]) {
             return left;
         }
         return right;

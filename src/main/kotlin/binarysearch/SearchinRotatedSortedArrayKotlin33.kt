@@ -2,7 +2,7 @@ package binarysearch
 
 class SearchinRotatedSortedArrayKotlin33 {
     fun search(nums: IntArray, target: Int): Int {
-        if(nums.isEmpty()){
+        if (nums.isEmpty()) {
             return -1
         }
         var left = 0
