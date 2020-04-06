@@ -12,7 +12,7 @@ class SearchinRotatedSortedArrayIIKotlin81 {
             when {
                 nums[mid] == target -> return true
                 nums[mid] == nums[left] -> left++
-                nums[mid] == nums[right] -> left--
+                nums[mid] == nums[right] -> right--
                 nums[mid] >= nums[0] -> {
                     if (nums[left] <= target && target <= nums[mid]) {
                         right = mid
