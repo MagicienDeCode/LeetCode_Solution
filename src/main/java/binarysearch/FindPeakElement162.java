@@ -1,7 +1,7 @@
 package binarysearch;
 
-public class PeakIndexinaMountainArray852 {
-    public int peakIndexInMountainArray(int[] nums) {
+public class FindPeakElement162 {
+    public int findPeakElement(int[] nums) {
         int left = 0;
         int right = nums.length - 1;
         while (left + 1 < right) {

@@ -17,4 +17,21 @@ class PeakIndexinaMountainArrayKotlin852 {
             else -> right
         }
     }
+
+    /*
+        var left = 0
+        var right = A.size - 1
+        while (left + 1 < right) {
+            val mid = left + (right - left) / 2
+            when {
+                A[mid - 1] < A[mid] && A[mid] > A[mid + 1] -> return mid
+                A[mid - 1] < A[mid] -> left = mid
+                else -> right = mid
+            }
+        }
+        return when {
+            A[left] > A[right] -> left
+            else -> right
+        }
+     */
 }
