@@ -4,20 +4,20 @@ import java.util.HashMap;
 import java.util.Map;
 
 public class FourSumII454 {
-    public int fourSumCount(int[] A, int[] B, int[] C, int[] D) {
-        if (A == null || A.length == 0) {
+    public int fourSumCount(int[] numsA, int[] numsB, int[] numsC, int[] numsD) {
+        if (numsA == null || numsA.length == 0) {
             return 0;
         }
         final Map<Integer, Integer> cCartesianDMap = new HashMap<>();
-        for (int c : C) {
-            for (int d : D) {
+        for (int c : numsC) {
+            for (int d : numsD) {
                 cCartesianDMap.put(c + d, cCartesianDMap.computeIfAbsent(c + d, value -> 0) + 1);
             }
         }
 
         int result = 0;
-        for (int a : A) {
-            for (int b : B) {
+        for (int a : numsA) {
+            for (int b : numsB) {
                 result += cCartesianDMap.getOrDefault(-a - b, 0);
             }
         }

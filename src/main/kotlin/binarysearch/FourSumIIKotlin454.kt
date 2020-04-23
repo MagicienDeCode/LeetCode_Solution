@@ -25,27 +25,27 @@ class FourSumIIKotlin454 {
        return result
    }
   */
-   fun fourSumCount(A: IntArray, B: IntArray, C: IntArray, D: IntArray): Int {
-       if (A.isEmpty()) {
-           return 0
-       }
-       // S(n*n) O(n*n)
-       val cCartesianD = C.flatMap { c -> D.map { d -> c + d } }.toIntArray()
-       // n*n*log(n*n)
-       cCartesianD.sort()
+    fun fourSumCount(A: IntArray, B: IntArray, C: IntArray, D: IntArray): Int {
+        if (A.isEmpty()) {
+            return 0
+        }
+        // S(n*n) O(n*n)
+        val cCartesianD = C.flatMap { c -> D.map { d -> c + d } }.toIntArray()
+        // n*n*log(n*n)
+        cCartesianD.sort()
 
-       var result = 0
-       // n*n*log(n*n)
-       A.flatMap { a -> B.map { b -> a + b } }.forEach {
-           val firstIndex = searchFirstPosition(cCartesianD, -it)
-           val lastIndex = searchLastPosition(cCartesianD, -it)
-           if (firstIndex != -1) {
-               result = result + lastIndex - firstIndex + 1
-           }
-       }
+        var result = 0
+        // n*n*log(n*n)
+        A.flatMap { a -> B.map { b -> a + b } }.forEach {
+            val firstIndex = searchFirstPosition(cCartesianD, -it)
+            val lastIndex = searchLastPosition(cCartesianD, -it)
+            if (firstIndex != -1) {
+                result = result + lastIndex - firstIndex + 1
+            }
+        }
 
-       return result
-   }
+        return result
+    }
 
     /*
     fun fourSumCount(A: IntArray, B: IntArray, C: IntArray, D: IntArray): Int {
