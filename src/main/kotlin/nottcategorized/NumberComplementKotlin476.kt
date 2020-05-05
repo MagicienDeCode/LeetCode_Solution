@@ -20,7 +20,6 @@ class NumberComplementKotlin476 {
     ==
     0000 ... 0010 ==> 2
 
-
     fun findComplement(num: Int): Int {
         var flag = Int.MAX_VALUE
         while (flag.and(num) != 0) {
@@ -29,7 +28,6 @@ class NumberComplementKotlin476 {
         return (flag.inv()).and(num.inv())
     }
      */
-
 
     /*
     0000 ... 0101 ==> 5 (leadingZero = 32-3 = 29) inv

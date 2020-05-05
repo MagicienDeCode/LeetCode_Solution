@@ -12,4 +12,3 @@ class ComplementofBase10IntegerKotlin1009 {
         return (flag.inv()).and(N.inv())
     }
 }
-
