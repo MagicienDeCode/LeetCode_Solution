@@ -20,4 +20,3 @@ class BubbleSortKotlin {
         return nums
     }
 }
-

@@ -90,7 +90,7 @@ public class QuickSort {
     Note-3
     pivot = 1
     [3(x),1,1,3(y),1]
-    ... < pivot < ...   while arr[left] < pivot  arr[right] > pivot
+    ... <= pivot <= ...   while arr[left] < pivot  arr[right] > pivot
     the first element >= 1 is 3(x)
     from the end, the first element <= 1
     after change

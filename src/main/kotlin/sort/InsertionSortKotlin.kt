@@ -14,4 +14,3 @@ class InsertionSortKotlin {
         return nums
     }
 }
-

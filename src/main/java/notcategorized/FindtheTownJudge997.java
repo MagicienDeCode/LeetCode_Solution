@@ -1,14 +1,14 @@
 package notcategorized;
 
 public class FindtheTownJudge997 {
-    public int findJudge(int N, int[][] trust) {
-        final int[] arrayN = new int[N];
+    public int findJudge(int n, int[][] trust) {
+        final int[] arrayN = new int[n];
         for (int[] ints : trust) {
             arrayN[ints[0] - 1]--;
             arrayN[ints[1] - 1]++;
         }
         for (int index = 0; index < arrayN.length; index++) {
-            if (arrayN[index] == N - 1) {
+            if (arrayN[index] == n - 1) {
                 return index + 1;
             }
         }

@@ -27,7 +27,7 @@ public class MergeSort {
         int right = mid + 1;
         int tempIndex = start;
         while (left <= mid && right <= end) {
-            if (arr[left] < arr[right]) {
+            if (arr[left] <= arr[right]) {
                 temp[tempIndex++] = arr[left++];
             } else {
                 temp[tempIndex++] = arr[right++];
@@ -39,7 +39,14 @@ public class MergeSort {
         while (right <= end) {
             temp[tempIndex++] = arr[right++];
         }
-        if (end + 1 - start >= 0) System.arraycopy(temp, start, arr, start, end + 1 - start);
+        /*
+        for(int i = start; i<=end;i++){
+            arr[i] = temp[i];
+        }
+         */
+        if (end + 1 - start >= 0) {
+            System.arraycopy(temp, start, arr, start, end + 1 - start);
+        }
     }
 
     public static void main(String... args) {
@@ -66,6 +73,6 @@ public class MergeSort {
         final List<Integer> test = List.of(1, 2, 3);
         // Immutable object is passed where mutable is expected
         // Collections.sort(test);
-        System.out.println(Collections.binarySearch(test,10));
+        System.out.println(Collections.binarySearch(test, 10));
     }
 }
