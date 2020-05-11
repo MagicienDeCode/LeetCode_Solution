@@ -9,9 +9,9 @@ fun main() {
     val ixigua = "https://leetcode.com/problems/binary-search/"
 
     val javaLink =
-        "https://github.com/MagicienDeCode/LeetCode_Solution/blob/master/src/main/java/$javaClassName.java"
+        "https://github.com/MagicienDeCode/LeetCode_Solution/blob/master/src/main/java/binary_search/$javaClassName.java"
     val kotlinLink =
-        "https://github.com/MagicienDeCode/LeetCode_Solution/blob/master/src/main/kotlin/binarysearch/$kotlinClassName.kt"
+        "https://github.com/MagicienDeCode/LeetCode_Solution/blob/master/src/main/kotlin/binary_search/$kotlinClassName.kt"
 
     val result = """
             |$lineNumber|[$title]($titleLink)
