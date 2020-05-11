@@ -1,12 +1,52 @@
 package depth_first_search;
 
+import javafx.util.Pair;
+
+import java.util.LinkedList;
+import java.util.Queue;
+
 public class FloodFill733 {
+    public int[][] floodFill(int[][] image, int sr, int sc, int newColor) {
+        final int target = image[sr][sc];
+        if (target == newColor) {
+            return image;
+        }
+        final Queue<Pair<Integer, Integer>> coordinateQueue = new LinkedList<>();
+        coordinateQueue.offer(new Pair<>(sr, sc));
+        while (!coordinateQueue.isEmpty()) {
+            final int currentSize = coordinateQueue.size();
+            for (int i = 0; i < currentSize; i++) {
+                final Pair<Integer, Integer> current = coordinateQueue.poll();
+                final int x = current.getKey();
+                final int y = current.getValue();
+                if (image[x][y] == target) {
+                    image[x][y] = newColor;
+                    if (x >= 1) {
+                        coordinateQueue.offer(new Pair<>(x - 1, y));
+                    }
+                    if (y >= 1) {
+                        coordinateQueue.offer(new Pair<>(x, y - 1));
+                    }
+                    if (x + 1 < image.length) {
+                        coordinateQueue.offer(new Pair<>(x + 1, y));
+                    }
+                    if (y + 1 < image[0].length) {
+                        coordinateQueue.offer(new Pair<>(x, y + 1));
+                    }
+                }
+            }
+        }
+        return image;
+    }
+
+    /*
     public int[][] floodFill(int[][] image, int sr, int sc, int newColor) {
         if (image[sr][sc] != newColor) {
             dfs(image, sr, sc, image[sr][sc], newColor);
         }
         return image;
     }
+     */
     // 0ms
     private void dfs(
             final int[][] image,
