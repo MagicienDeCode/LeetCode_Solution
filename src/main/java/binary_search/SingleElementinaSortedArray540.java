@@ -31,13 +31,13 @@ public class SingleElementinaSortedArray540 {
         return nums[right];
     }
 
-    private boolean isSingle(int[] nums, int index) {
+    private boolean isSingle(final int[] nums, final int index) {
         return nums[index] != nums[index - 1] && nums[index] != nums[index + 1];
     }
 
     // return true ==> single element is in your left, so right = mid
     // return false ==> in your right, so left = mid
-    private boolean singleInLeft(int[] nums, int notSingle) {
+    private boolean singleInLeft(final int[] nums, final int notSingle) {
         if (nums[notSingle] == nums[notSingle - 1] && notSingle % 2 == 0) {
             return true;
         }
