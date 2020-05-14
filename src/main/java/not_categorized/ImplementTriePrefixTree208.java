@@ -57,13 +57,15 @@ public class ImplementTriePrefixTree208 {
     /**
      * Remove a word if exists.
      */
-    public void remove(String word) {
+    public void remove(final String word) {
         if (search(word)) {
             recursionRemove(word, 0, root);
         }
     }
 
-    private void recursionRemove(String word, int index, PrefixTree prefixTree) {
+    private void recursionRemove(final String word,
+                                 final int index,
+                                 final PrefixTree prefixTree) {
         if (index != word.length() - 2) {
             recursionRemove(word, index + 1, prefixTree.getByChar(word.charAt(index)));
         }
@@ -84,15 +86,15 @@ public class ImplementTriePrefixTree208 {
 
         private boolean isEnd = false;
 
-        public void addChar(char c, PrefixTree prefixTree) {
+        public final void addChar(final char c, final PrefixTree prefixTree) {
             this.links[c - 'a'] = prefixTree;
         }
 
-        public PrefixTree getByChar(char c) {
+        public final PrefixTree getByChar(final char c) {
             return this.links[c - 'a'];
         }
 
-        public boolean canDelete() {
+        public final boolean canDelete() {
             for (PrefixTree p : links) {
                 if (p != null) {
                     return false;
@@ -101,7 +103,7 @@ public class ImplementTriePrefixTree208 {
             return true;
         }
 
-        public void remove(char c) {
+        public final void remove(char c) {
             this.links[c - 'a'] = null;
         }
     }
