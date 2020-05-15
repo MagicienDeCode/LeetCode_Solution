@@ -5,7 +5,7 @@
 
 ## Index
 
-* Binary Search
+- Binary Search
 
 | # | Title | Java | Kotlin | Difficulty | Youtube | bilibili | ixiagua |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -56,5 +56,12 @@
 |45|[1292. Maximum Side Length of a Square with Sum Less than or Equal to Threshold](https://leetcode.com/problems/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold/)|[Java](https://github.com/MagicienDeCode/LeetCode_Solution/blob/master/src/main/java/binary_search/MaximumSideLengthofaSquarewithSumLessthanorEqualtoThreshold1292.java)|[Kotlin](https://github.com/MagicienDeCode/LeetCode_Solution/blob/master/src/main/kotlin/binary_search/MaximumSideLengthofaSquarewithSumLessthanorEqualtoThresholdKotlin1292.kt)|Medium|[Youtube](https://www.youtube.com/watch?v=3t7gSc4lR3E)|[bilibili](https://www.bilibili.com/video/BV1qf4y1m7FT/)|[ixigua](https://www.ixigua.com/i6824237791673582087/)|
 |46|[540. Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/)|[Java](https://github.com/MagicienDeCode/LeetCode_Solution/blob/master/src/main/java/binary_search/SingleElementinaSortedArray540.java)|[Kotlin](https://github.com/MagicienDeCode/LeetCode_Solution/blob/master/src/main/kotlin/binary_search/SingleElementinaSortedArrayKotlin540.kt)|Medium|[Youtube](https://www.youtube.com/watch?v=O2zFa0dt_Hg)|[bilibili](https://www.bilibili.com/video/BV1BZ4y1s7e9/)|[ixigua](https://www.ixigua.com/i6825894153688187403/)|
 |47|[4. Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)|[Java](https://github.com/MagicienDeCode/LeetCode_Solution/blob/master/src/main/java/binary_search/MedianofTwoSortedArrays4.java)|[Kotlin](https://github.com/MagicienDeCode/LeetCode_Solution/blob/master/src/main/kotlin/binary_search/MedianofTwoSortedArraysKotlin4.kt)|Hard|[Youtube](https://www.youtube.com/watch?v=lVq-fHMcjbw)|[bilibili](https://www.bilibili.com/video/BV1BK411W7K4/)|[ixigua](https://www.ixigua.com/i6826652950291546638/)|
+
+
+- Dynamic Programming
+
+| # | Title | Java | Kotlin | Difficulty | Youtube | bilibili | ixiagua |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|1|[174. Dungeon Game](https://leetcode.com/problems/dungeon-game/)|[Java](https://github.com/MagicienDeCode/LeetCode_Solution/blob/master/src/main/java/dynamic_programming/MedianofTwoSortedArrays4.java)|[Kotlin](https://github.com/MagicienDeCode/LeetCode_Solution/blob/master/src/main/kotlin/dynamic_programming/MedianofTwoSortedArraysKotlin4.kt)|Hard|[Youtube](https://www.youtube.com/watch?v=clHzHh0ZqM4)|[bilibili](https://www.bilibili.com/video/BV1sg4y1B7zg/)|[ixigua](https://www.ixigua.com/i6827171039122817547/)|
 
 

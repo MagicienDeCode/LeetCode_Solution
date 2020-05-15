@@ -1,23 +1,29 @@
+package dynamic_programming
+
 fun main() {
-    val lineNumber = 0
-    val title = "704. Binary Search"
-    val titleLink = "https://leetcode.com/problems/binary-search/"
-    val javaClassName = "java"
-    val kotlinClassName = "kotlin"
-    val youtube = "https://leetcode.com/problems/binary-search/"
-    val bilibili = "https://leetcode.com/problems/binary-search/"
-    val ixigua = "https://leetcode.com/problems/binary-search/"
+    val lineNumber = 1
+    val title = "174. Dungeon Game"
+    val titleLink = "https://leetcode.com/problems/dungeon-game/"
+    val javaClassName = "MedianofTwoSortedArrays4"
+    val kotlinClassName = "MedianofTwoSortedArraysKotlin4"
+    val youtubeId = "clHzHh0ZqM4"
+    val bilibiliId = "BV1sg4y1B7zg"
+    val ixiguaId = "6827171039122817547"
+
+    val youtube = "https://www.youtube.com/watch?v=$youtubeId"
+    val bilibili = "https://www.bilibili.com/video/$bilibiliId/"
+    val ixigua = "https://www.ixigua.com/i$ixiguaId/"
 
     val javaLink =
-        "https://github.com/MagicienDeCode/LeetCode_Solution/blob/master/src/main/java/binary_search/$javaClassName.java"
+        "https://github.com/MagicienDeCode/LeetCode_Solution/blob/master/src/main/java/dynamic_programming/$javaClassName.java"
     val kotlinLink =
-        "https://github.com/MagicienDeCode/LeetCode_Solution/blob/master/src/main/kotlin/binary_search/$kotlinClassName.kt"
+        "https://github.com/MagicienDeCode/LeetCode_Solution/blob/master/src/main/kotlin/dynamic_programming/$kotlinClassName.kt"
 
     val result = """
             |$lineNumber|[$title]($titleLink)
             |[Java]($javaLink)
             |[Kotlin]($kotlinLink)
-            |Medium
+            |Hard
             |[Youtube]($youtube)
             |[bilibili]($bilibili)
             |[ixigua]($ixigua)
