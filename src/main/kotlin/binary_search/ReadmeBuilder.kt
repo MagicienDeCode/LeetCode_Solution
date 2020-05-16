@@ -1,14 +1,14 @@
 package binary_search
 
 fun main() {
-    val lineNumber = 47
-    val title = "4. Median of Two Sorted Arrays"
-    val titleLink = "https://leetcode.com/problems/median-of-two-sorted-arrays/"
-    val javaClassName = "DungeonGame174"
-    val kotlinClassName = "DungeonGameKotlin174"
-    val youtubeId = "lVq-fHMcjbw"
-    val bilibiliId = "BV1BK411W7K4"
-    val ixiguaId = "6826652950291546638"
+    val lineNumber = 48
+    val title = "315. Count of Smaller Numbers After Self"
+    val titleLink = "https://leetcode.com/problems/count-of-smaller-numbers-after-self/"
+    val javaClassName = "CountofSmallerNumbersAfterSelf315"
+    val kotlinClassName = "CountofSmallerNumbersAfterSelfKotlin315"
+    val youtubeId = "qGXw_WnvSpo"
+    val bilibiliId = "BV18T4y1u7DH"
+    val ixiguaId = "6827570372058022414"
 
     val youtube = "https://www.youtube.com/watch?v=$youtubeId"
     val bilibili = "https://www.bilibili.com/video/$bilibiliId/"
