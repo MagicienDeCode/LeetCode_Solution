@@ -64,4 +64,13 @@
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |1|[174. Dungeon Game](https://leetcode.com/problems/dungeon-game/)|[Java](https://github.com/MagicienDeCode/LeetCode_Solution/blob/master/src/main/java/dynamic_programming/MedianofTwoSortedArrays4.java)|[Kotlin](https://github.com/MagicienDeCode/LeetCode_Solution/blob/master/src/main/kotlin/dynamic_programming/MedianofTwoSortedArraysKotlin4.kt)|Hard|[Youtube](https://www.youtube.com/watch?v=clHzHh0ZqM4)|[bilibili](https://www.bilibili.com/video/BV1sg4y1B7zg/)|[ixigua](https://www.ixigua.com/i6827171039122817547/)|
 
+- Sliding Window
+
+| # | Title | Java | Kotlin | Difficulty | Youtube | bilibili | ixiagua |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|1|[438. Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/)|[Java](https://github.com/MagicienDeCode/LeetCode_Solution/blob/master/src/main/java/sliding_window/FindAllAnagramsinaString438.java)|[Kotlin](https://github.com/MagicienDeCode/LeetCode_Solution/blob/master/src/main/kotlin/sliding_window/FindAllAnagramsinaStringKotlin438.kt)|Medium|[Youtube](https://www.youtube.com/watch?v=Z3UJspzNQtU)|[bilibili](https://www.bilibili.com/video/BV16g4y1B7fe/)|[ixigua](https://www.ixigua.com/i6827840527480652300/)|
+
+
+
+
 
