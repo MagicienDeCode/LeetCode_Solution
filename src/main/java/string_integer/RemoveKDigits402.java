@@ -1,4 +1,4 @@
-package not_categorized;
+package string_integer;
 
 import java.util.Stack;
 

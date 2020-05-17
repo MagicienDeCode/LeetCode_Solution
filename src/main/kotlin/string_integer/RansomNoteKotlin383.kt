@@ -1,4 +1,4 @@
-package not_categorized
+package string_integer
 
 class RansomNoteKotlin383 {
     fun canConstruct(ransomNote: String, magazine: String): Boolean {
