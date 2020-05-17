@@ -1,4 +1,4 @@
-package sort_an_array_912
+package array.sort_an_array_912
 
 class MergeSortKotlin {
     fun sortArray(nums: IntArray): IntArray {
