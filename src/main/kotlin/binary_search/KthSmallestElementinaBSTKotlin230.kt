@@ -1,12 +1,12 @@
 package binary_search
 
-/*
-class TreeNode230(var `val`: Int) {
-    var left: TreeNode230? = null
-    var right: TreeNode230? = null
-}
 
 class KthSmallestElementinaBSTKotlin230 {
+    class TreeNode230(var `val`: Int) {
+        var left: TreeNode230? = null
+        var right: TreeNode230? = null
+    }
+
     fun kthSmallest(root: TreeNode230?, k: Int): Int {
         val leftCount = count(root?.left) + 1
         return when {
@@ -39,7 +39,6 @@ class KthSmallestElementinaBSTKotlin230 {
         result.add(current.`val`)
         searchInOrder(current.right,result)
     }
-
      */
 
 
@@ -67,37 +66,3 @@ class KthSmallestElementinaBSTKotlin230 {
 
      */
 }
-
-
-fun main() {
-    val solution = KthSmallestElementinaBSTKotlin230()
-
-    val root33 = TreeNode230(3)
-    val node111 = TreeNode230(1)
-    val node22 = TreeNode230(2)
-    val node44 = TreeNode230(4)
-    root33.left = node111
-    node111.right = node22
-    root33.right = node44
-    println(solution.kthSmallest(root33, 1))
-
-    val test = TreeNode230(1)
-    val test2 = TreeNode230(2)
-    test2.left = test
-    println(solution.kthSmallest(test2, 1))
-
-    val node1 = TreeNode230(1)
-    val node2 = TreeNode230(2)
-    val node3 = TreeNode230(3)
-    val node4 = TreeNode230(4)
-    val node5 = TreeNode230(5)
-    val node6 = TreeNode230(6)
-    node5.right = node6
-    node5.left = node3
-    node3.left = node2
-    node3.right = node4
-    node2.left = node1
-    println(solution.kthSmallest(node5, 3))
-}
-
- */
