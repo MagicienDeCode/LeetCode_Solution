@@ -1,6 +1,5 @@
 package binary_search
 
-
 class KthSmallestElementinaBSTKotlin230 {
     class TreeNode230(var `val`: Int) {
         var left: TreeNode230? = null
@@ -23,7 +22,6 @@ class KthSmallestElementinaBSTKotlin230 {
         return 1 + count(root.left) + count(root.right)
     }
 
-
     /*
     fun kthSmallest(root: TreeNode230?, k: Int): Int {
         val result = mutableListOf<Int>()
@@ -40,7 +38,6 @@ class KthSmallestElementinaBSTKotlin230 {
         searchInOrder(current.right,result)
     }
      */
-
 
     /*
     var k = 0
@@ -63,6 +60,5 @@ class KthSmallestElementinaBSTKotlin230 {
         }
         return searchInOrder(current.right)
     }
-
      */
 }
