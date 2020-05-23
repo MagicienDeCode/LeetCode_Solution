@@ -1,4 +1,4 @@
-package list;
+package list_array;
 
 public class OddEvenLinkedList328 {
     public ListNode oddEvenList(ListNode head) {

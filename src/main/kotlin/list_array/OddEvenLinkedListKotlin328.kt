@@ -1,4 +1,4 @@
-package list
+package list_array
 
 class OddEvenLinkedListKotlin328 {
     fun oddEvenList(head: ListNode?): ListNode? {
