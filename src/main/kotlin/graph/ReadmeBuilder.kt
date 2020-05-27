@@ -1,29 +1,31 @@
-package binary_search
+package graph
 
 fun main() {
-    val lineNumber = 52
-    val title = "363. Max Sum of Rectangle No Larger Than K"
-    val titleLink = "https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k/"
-    val javaClassName = "MaxSumofRectangleNoLargerThanK363"
-    val kotlinClassName = "MaxSumofRectangleNoLargerThanKKotlin363"
-    val youtubeId = "fu3bKg65DTQ"
-    val bilibiliId = "BV1154y1D7GH"
-    val ixiguaId = "6831291181586973187"
+    val lineNumber = 2
+    val title = "785. Is Graph Bipartite?"
+    val titleLink = "https://leetcode.com/problems/is-graph-bipartite/"
+    val javaClassName = "IsGraphBipartite785"
+    val kotlinClassName = "IsGraphBipartiteKotlin785"
+    val youtubeId = "Py_I87kkbtA"
+    val bilibiliId = "BV1RK411H78J"
+    val ixiguaId = "6831651418248577550"
 
     val youtube = "https://www.youtube.com/watch?v=$youtubeId"
     val bilibili = "https://www.bilibili.com/video/$bilibiliId/"
     val ixigua = "https://www.ixigua.com/i$ixiguaId/"
 
+    val pageName = "graph"
+
     val javaLink =
-        "https://github.com/MagicienDeCode/LeetCode_Solution/blob/master/src/main/java/binary_search/$javaClassName.java"
+        "https://github.com/MagicienDeCode/LeetCode_Solution/blob/master/src/main/java/$pageName/$javaClassName.java"
     val kotlinLink =
-        "https://github.com/MagicienDeCode/LeetCode_Solution/blob/master/src/main/kotlin/binary_search/$kotlinClassName.kt"
+        "https://github.com/MagicienDeCode/LeetCode_Solution/blob/master/src/main/kotlin/$pageName/$kotlinClassName.kt"
 
     val result = """
             |$lineNumber|[$title]($titleLink)
             |[Java]($javaLink)
             |[Kotlin]($kotlinLink)
-            |Hard
+            |Medium
             |[Youtube]($youtube)
             |[bilibili]($bilibili)
             |[ixigua]($ixigua)

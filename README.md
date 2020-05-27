@@ -75,6 +75,12 @@
 |1|[438. Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/)|[Java](https://github.com/MagicienDeCode/LeetCode_Solution/blob/master/src/main/java/sliding_window/FindAllAnagramsinaString438.java)|[Kotlin](https://github.com/MagicienDeCode/LeetCode_Solution/blob/master/src/main/kotlin/sliding_window/FindAllAnagramsinaStringKotlin438.kt)|Medium|[Youtube](https://www.youtube.com/watch?v=Z3UJspzNQtU)|[bilibili](https://www.bilibili.com/video/BV16g4y1B7fe/)|[ixigua](https://www.ixigua.com/i6827840527480652300/)|
 
 
+- Graph
+
+| # | Title | Java | Kotlin | Difficulty | Youtube | bilibili | ixiagua |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|1|[886. Possible Bipartition](https://leetcode.com/problems/possible-bipartition/)|[Java](https://github.com/MagicienDeCode/LeetCode_Solution/blob/master/src/main/java/graph/PossibleBipartition886.java)|[Kotlin](https://github.com/MagicienDeCode/LeetCode_Solution/blob/master/src/main/kotlin/graph/PossibleBipartitionKotlin886.kt)|Medium|[Youtube](https://www.youtube.com/watch?v=Py_I87kkbtA)|[bilibili](https://www.bilibili.com/video/BV1RK411H78J/)|[ixigua](https://www.ixigua.com/i6831651418248577550/)|
+|2|[785. Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/)|[Java](https://github.com/MagicienDeCode/LeetCode_Solution/blob/master/src/main/java/graph/IsGraphBipartite785.java)|[Kotlin](https://github.com/MagicienDeCode/LeetCode_Solution/blob/master/src/main/kotlin/graph/IsGraphBipartiteKotlin785.kt)|Medium|[Youtube](https://www.youtube.com/watch?v=Py_I87kkbtA)|[bilibili](https://www.bilibili.com/video/BV1RK411H78J/)|[ixigua](https://www.ixigua.com/i6831651418248577550/)|
 
 
 
