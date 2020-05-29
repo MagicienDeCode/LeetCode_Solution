@@ -81,6 +81,7 @@
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |1|[886. Possible Bipartition](https://leetcode.com/problems/possible-bipartition/)|[Java](https://github.com/MagicienDeCode/LeetCode_Solution/blob/master/src/main/java/graph/PossibleBipartition886.java)|[Kotlin](https://github.com/MagicienDeCode/LeetCode_Solution/blob/master/src/main/kotlin/graph/PossibleBipartitionKotlin886.kt)|Medium|[Youtube](https://www.youtube.com/watch?v=Py_I87kkbtA)|[bilibili](https://www.bilibili.com/video/BV1RK411H78J/)|[ixigua](https://www.ixigua.com/i6831651418248577550/)|
 |2|[785. Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/)|[Java](https://github.com/MagicienDeCode/LeetCode_Solution/blob/master/src/main/java/graph/IsGraphBipartite785.java)|[Kotlin](https://github.com/MagicienDeCode/LeetCode_Solution/blob/master/src/main/kotlin/graph/IsGraphBipartiteKotlin785.kt)|Medium|[Youtube](https://www.youtube.com/watch?v=Py_I87kkbtA)|[bilibili](https://www.bilibili.com/video/BV1RK411H78J/)|[ixigua](https://www.ixigua.com/i6831651418248577550/)|
+|3|[207. Course Schedule](https://leetcode.com/problems/course-schedule/)|[Java](https://github.com/MagicienDeCode/LeetCode_Solution/blob/master/src/main/java/graph/CourseSchedule207.java)|[Kotlin](https://github.com/MagicienDeCode/LeetCode_Solution/blob/master/src/main/kotlin/graph/CourseScheduleKotlin207.kt)|Medium|[Youtube](https://www.youtube.com/watch?v=wDzNGXe86rw)|[bilibili](https://www.bilibili.com/video/BV15K4y1t7oa/)|[ixigua](https://www.ixigua.com/i6832304426896589315/)|
 
 
 

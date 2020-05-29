@@ -1,14 +1,14 @@
 package graph
 
 fun main() {
-    val lineNumber = 2
-    val title = "785. Is Graph Bipartite?"
-    val titleLink = "https://leetcode.com/problems/is-graph-bipartite/"
-    val javaClassName = "IsGraphBipartite785"
-    val kotlinClassName = "IsGraphBipartiteKotlin785"
-    val youtubeId = "Py_I87kkbtA"
-    val bilibiliId = "BV1RK411H78J"
-    val ixiguaId = "6831651418248577550"
+    val lineNumber = 3
+    val title = "207. Course Schedule"
+    val titleLink = "https://leetcode.com/problems/course-schedule/"
+    val javaClassName = "CourseSchedule207"
+    val kotlinClassName = "CourseScheduleKotlin207"
+    val youtubeId = "wDzNGXe86rw"
+    val bilibiliId = "BV15K4y1t7oa"
+    val ixiguaId = "6832304426896589315"
 
     val youtube = "https://www.youtube.com/watch?v=$youtubeId"
     val bilibili = "https://www.bilibili.com/video/$bilibiliId/"
