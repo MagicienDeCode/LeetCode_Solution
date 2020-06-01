@@ -1,14 +1,14 @@
 package binary_search
 
 fun main() {
-    val lineNumber = 52
-    val title = "363. Max Sum of Rectangle No Larger Than K"
-    val titleLink = "https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k/"
-    val javaClassName = "MaxSumofRectangleNoLargerThanK363"
-    val kotlinClassName = "MaxSumofRectangleNoLargerThanKKotlin363"
-    val youtubeId = "fu3bKg65DTQ"
-    val bilibiliId = "BV1154y1D7GH"
-    val ixiguaId = "6831291181586973187"
+    val lineNumber = 53
+    val title = "410. Split Array Largest Sum"
+    val titleLink = "https://leetcode.com/problems/split-array-largest-sum/"
+    val javaClassName = "SplitArrayLargestSum410"
+    val kotlinClassName = "SplitArrayLargestSumKotlin410"
+    val youtubeId = "rifiw8EDf4c"
+    val bilibiliId = "BV13z411i7rR"
+    val ixiguaId = "6833454043868693004"
 
     val youtube = "https://www.youtube.com/watch?v=$youtubeId"
     val bilibili = "https://www.bilibili.com/video/$bilibiliId/"
