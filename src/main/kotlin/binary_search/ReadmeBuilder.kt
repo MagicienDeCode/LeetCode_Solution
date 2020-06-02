@@ -1,14 +1,14 @@
 package binary_search
 
 fun main() {
-    val lineNumber = 53
-    val title = "410. Split Array Largest Sum"
-    val titleLink = "https://leetcode.com/problems/split-array-largest-sum/"
-    val javaClassName = "SplitArrayLargestSum410"
-    val kotlinClassName = "SplitArrayLargestSumKotlin410"
-    val youtubeId = "rifiw8EDf4c"
-    val bilibiliId = "BV13z411i7rR"
-    val ixiguaId = "6833454043868693004"
+    val lineNumber = 54
+    val title = "483. Smallest Good Base"
+    val titleLink = "https://leetcode.com/problems/smallest-good-base/"
+    val javaClassName = "SmallestGoodBase483"
+    val kotlinClassName = "SmallestGoodBaseKotlin483"
+    val youtubeId = "6k3PgRDm6fo"
+    val bilibiliId = "BV1UV411r7gz"
+    val ixiguaId = "6833818384497377803"
 
     val youtube = "https://www.youtube.com/watch?v=$youtubeId"
     val bilibili = "https://www.bilibili.com/video/$bilibiliId/"
