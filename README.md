@@ -69,6 +69,7 @@
 | # | Title | Java | Kotlin | Difficulty | Youtube | bilibili | ixiagua |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |1|[174. Dungeon Game](https://leetcode.com/problems/dungeon-game/)|[Java](https://github.com/MagicienDeCode/LeetCode_Solution/blob/master/src/main/java/dynamic_programming/MedianofTwoSortedArrays4.java)|[Kotlin](https://github.com/MagicienDeCode/LeetCode_Solution/blob/master/src/main/kotlin/dynamic_programming/MedianofTwoSortedArraysKotlin4.kt)|Hard|[Youtube](https://www.youtube.com/watch?v=clHzHh0ZqM4)|[bilibili](https://www.bilibili.com/video/BV1sg4y1B7zg/)|[ixigua](https://www.ixigua.com/i6827171039122817547/)|
+|2|[1029. Two City Scheduling](https://leetcode.com/problems/two-city-scheduling/)|[Java](https://github.com/MagicienDeCode/LeetCode_Solution/blob/master/src/main/java/dynamic_programming/TwoCityScheduling1029.java)|[Kotlin](https://github.com/MagicienDeCode/LeetCode_Solution/blob/master/src/main/kotlin/dynamic_programming/TwoCitySchedulingKotlin1029.kt)|Easy|[Youtube](https://www.youtube.com/watch?v=ft6bV1sAmTo)|[bilibili](https://www.bilibili.com/video/BV1yV411r7wM/)|[ixigua](https://www.ixigua.com/i6834133761668416013/)|
 
 - Sliding Window
 
