@@ -6,14 +6,14 @@ import java.util.List;
 import java.util.Map;
 
 public class PossibleBipartition886 {
-    public boolean possibleBipartition(int N, int[][] dislikes) {
+    public boolean possibleBipartition(int n, int[][] dislikes) {
         final Map<Integer, List<Integer>> dislikesMap =
                 new HashMap<>();
         for (int[] dislike : dislikes) {
             dislikesMap.computeIfAbsent(dislike[0], v -> new ArrayList<>()).add(dislike[1]);
             dislikesMap.computeIfAbsent(dislike[1], v -> new ArrayList<>()).add(dislike[0]);
         }
-        final int[] hashArray = new int[N + 1];
+        final int[] hashArray = new int[n + 1];
         for (int index = 0; index < hashArray.length; index++) {
             hashArray[index] = index;
         }

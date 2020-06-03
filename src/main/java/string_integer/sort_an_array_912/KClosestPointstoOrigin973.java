@@ -4,7 +4,7 @@ import java.util.Comparator;
 import java.util.PriorityQueue;
 
 public class KClosestPointstoOrigin973 {
-    public int[][] kClosest(int[][] points, int K) {
+    public int[][] kClosest(int[][] points, int k) {
         final PriorityQueue<int[]> priorityQueue =
                 new PriorityQueue<>(
                         points.length,
@@ -13,8 +13,8 @@ public class KClosestPointstoOrigin973 {
         for (int[] p : points) {
             priorityQueue.offer(p);
         }
-        final int[][] result = new int[K][];
-        for (int index = 0; index < K; index++) {
+        final int[][] result = new int[k][];
+        for (int index = 0; index < k; index++) {
             result[index] = priorityQueue.poll();
         }
         return result;
