@@ -1,7 +1,7 @@
 package string_integer
 
 class ReverseStringKotlin344 {
-    fun reverseString(s: CharArray): Unit {
+    fun reverseString(s: CharArray) {
         var left = 0
         var right = s.size - 1
         while (left < right) {
