@@ -1,14 +1,14 @@
 package binary_search
 
 fun main() {
-    val lineNumber = 54
-    val title = "483. Smallest Good Base"
-    val titleLink = "https://leetcode.com/problems/smallest-good-base/"
-    val javaClassName = "SmallestGoodBase483"
-    val kotlinClassName = "SmallestGoodBaseKotlin483"
-    val youtubeId = "6k3PgRDm6fo"
-    val bilibiliId = "BV1UV411r7gz"
-    val ixiguaId = "6833818384497377803"
+    val lineNumber = 55
+    val title = "493. Reverse Pairs"
+    val titleLink = "https://leetcode.com/problems/reverse-pairs/"
+    val javaClassName = "ReversePairs493"
+    val kotlinClassName = "ReversePairsKotlin493"
+    val youtubeId = "AGmV73n-0IQ"
+    val bilibiliId = "BV17Z4y1W7zp"
+    val ixiguaId = "6834569381746311688"
 
     val youtube = "https://www.youtube.com/watch?v=$youtubeId"
     val bilibili = "https://www.bilibili.com/video/$bilibiliId/"
