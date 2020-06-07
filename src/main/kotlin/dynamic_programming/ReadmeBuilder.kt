@@ -1,14 +1,14 @@
 package dynamic_programming
 
 fun main() {
-    val lineNumber = 2
-    val title = "1029. Two City Scheduling"
-    val titleLink = "https://leetcode.com/problems/two-city-scheduling/"
-    val javaClassName = "TwoCityScheduling1029"
-    val kotlinClassName = "TwoCitySchedulingKotlin1029"
-    val youtubeId = "ft6bV1sAmTo"
-    val bilibiliId = "BV1yV411r7wM"
-    val ixiguaId = "6834133761668416013"
+    val lineNumber = 4
+    val title = "518. Coin Change 2"
+    val titleLink = "https://leetcode.com/problems/coin-change-2/"
+    val javaClassName = "CoinChange2518"
+    val kotlinClassName = "CoinChange2Kotlin518"
+    val youtubeId = "e1omSFakK7o"
+    val bilibiliId = "BV1Wt4y1y7Jn"
+    val ixiguaId = "6835596557446808075"
 
     val youtube = "https://www.youtube.com/watch?v=$youtubeId"
     val bilibili = "https://www.bilibili.com/video/$bilibiliId/"
@@ -23,7 +23,7 @@ fun main() {
             |$lineNumber|[$title]($titleLink)
             |[Java]($javaLink)
             |[Kotlin]($kotlinLink)
-            |Easy
+            |Medium
             |[Youtube]($youtube)
             |[bilibili]($bilibili)
             |[ixigua]($ixigua)
