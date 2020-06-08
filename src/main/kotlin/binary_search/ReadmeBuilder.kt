@@ -1,14 +1,14 @@
 package binary_search
 
 fun main() {
-    val lineNumber = 56
-    val title = "668. Kth Smallest Number in Multiplication Table"
-    val titleLink = "https://leetcode.com/problems/kth-smallest-number-in-multiplication-table/"
-    val javaClassName = "KthSmallestNumberinMultiplicationTable668"
-    val kotlinClassName = "KthSmallestNumberinMultiplicationTableKotlin668"
-    val youtubeId = "QFD6Z-8BSPM"
-    val bilibiliId = "BV1aa4y1v7pk"
-    val ixiguaId = "6834886823492190728"
+    val lineNumber = 57
+    val title = "719. Find K-th Smallest Pair Distance"
+    val titleLink = "https://leetcode.com/problems/find-k-th-smallest-pair-distance/"
+    val javaClassName = "FindKthSmallestPairDistance719"
+    val kotlinClassName = "FindKthSmallestPairDistanceKotlin719"
+    val youtubeId = "Ep19tZjat0c"
+    val bilibiliId = "BV1fC4y1h7Xr"
+    val ixiguaId = "6836025818695598604"
 
     val youtube = "https://www.youtube.com/watch?v=$youtubeId"
     val bilibili = "https://www.bilibili.com/video/$bilibiliId/"
