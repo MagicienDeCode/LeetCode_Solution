@@ -1,6 +1,7 @@
 package binary_search
 
 class SumofMutatedArrayClosesttoTargetKotlin1300 {
+    // wrong with valid testcase[2,3,5] target = 11 expected = 5 buy my code return 11
     fun findBestValue(arr: IntArray, target: Int): Int {
         var left = 0
         var right = target
@@ -26,4 +27,14 @@ class SumofMutatedArrayClosesttoTargetKotlin1300 {
         }
         return sum
     }
+}
+
+fun main() {
+    val solution = SumofMutatedArrayClosesttoTargetKotlin1300()
+    // 11 but should be 5
+    println(solution.findBestValue(intArrayOf(2,3,5),11))
+    // 3
+    println(solution.findBestValue(intArrayOf(4,3,9),10))
+    // 5
+    println(solution.findBestValue(intArrayOf(2,3,5),10))
 }
