@@ -32,9 +32,9 @@ class SumofMutatedArrayClosesttoTargetKotlin1300 {
 fun main() {
     val solution = SumofMutatedArrayClosesttoTargetKotlin1300()
     // 11 but should be 5
-    println(solution.findBestValue(intArrayOf(2,3,5),11))
+    println(solution.findBestValue(intArrayOf(2, 3, 5), 11))
     // 3
-    println(solution.findBestValue(intArrayOf(4,3,9),10))
+    println(solution.findBestValue(intArrayOf(4, 3, 9), 10))
     // 5
-    println(solution.findBestValue(intArrayOf(2,3,5),10))
+    println(solution.findBestValue(intArrayOf(2, 3, 5), 10))
 }
