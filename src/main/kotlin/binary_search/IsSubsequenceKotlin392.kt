@@ -1,6 +1,23 @@
 package binary_search
 
 class IsSubsequenceKotlin392 {
+
+    fun isSubsequence(s: String, t: String): Boolean {
+        if (s.isEmpty()) {
+            return true
+        }
+        var indexS = 0
+        t.forEach {
+            if (it == s[indexS]) {
+                if (++indexS == s.length) {
+                    return true
+                }
+            }
+        }
+        return false
+    }
+
+    /*
     fun isSubsequence(s: String, t: String): Boolean {
         val tMap = mutableMapOf<Char, MutableList<Int>>()
         t.forEachIndexed { index, c ->
@@ -35,4 +52,5 @@ class IsSubsequenceKotlin392 {
             else -> -1
         }
     }
+     */
 }
