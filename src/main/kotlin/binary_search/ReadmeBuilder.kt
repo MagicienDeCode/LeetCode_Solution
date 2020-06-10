@@ -8,7 +8,7 @@ fun main() {
     val kotlinClassName = "SwiminRisingWaterKotlin778"
     val youtubeId = "W3gnJo6vHlg"
     val bilibiliId = "BV1uf4y1m73o"
-    val ixiguaId = "6836477625448268300 "
+    val ixiguaId = "6836477625448268300"
 
     val youtube = "https://www.youtube.com/watch?v=$youtubeId"
     val bilibili = "https://www.bilibili.com/video/$bilibiliId/"
