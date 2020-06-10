@@ -1,14 +1,14 @@
 package binary_search
 
 fun main() {
-    val lineNumber = 58
-    val title = "778. Swim in Rising Water"
-    val titleLink = "https://leetcode.com/problems/swim-in-rising-water/"
-    val javaClassName = "SwiminRisingWater778"
-    val kotlinClassName = "SwiminRisingWaterKotlin778"
-    val youtubeId = "W3gnJo6vHlg"
-    val bilibiliId = "BV1uf4y1m73o"
-    val ixiguaId = "6836477625448268300"
+    val lineNumber = 59
+    val title = "786. K-th Smallest Prime Fraction"
+    val titleLink = "https://leetcode.com/problems/k-th-smallest-prime-fraction/"
+    val javaClassName = "KthSmallestPrimeFraction786"
+    val kotlinClassName = "KthSmallestPrimeFractionKotlin786"
+    val youtubeId = "rDCCsV6WD10"
+    val bilibiliId = "BV1yT4y1E7yK"
+    val ixiguaId = "6836775823949693452"
 
     val youtube = "https://www.youtube.com/watch?v=$youtubeId"
     val bilibili = "https://www.bilibili.com/video/$bilibiliId/"
