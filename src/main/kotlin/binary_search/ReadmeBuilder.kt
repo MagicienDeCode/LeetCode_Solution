@@ -1,14 +1,14 @@
 package binary_search
 
 fun main() {
-    val lineNumber = 59
-    val title = "786. K-th Smallest Prime Fraction"
-    val titleLink = "https://leetcode.com/problems/k-th-smallest-prime-fraction/"
-    val javaClassName = "KthSmallestPrimeFraction786"
-    val kotlinClassName = "KthSmallestPrimeFractionKotlin786"
-    val youtubeId = "rDCCsV6WD10"
-    val bilibiliId = "BV1yT4y1E7yK"
-    val ixiguaId = "6836775823949693452"
+    val lineNumber = 60
+    val title = "862. Shortest Subarray with Sum at Least K"
+    val titleLink = "https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/"
+    val javaClassName = "ShortestSubarraywithSumatLeastK862"
+    val kotlinClassName = "ShortestSubarraywithSumatLeastKKotlin862"
+    val youtubeId = "13L3N4OcFKM"
+    val bilibiliId = "BV1PK4y1b7qY"
+    val ixiguaId = "6837158304150454795"
 
     val youtube = "https://www.youtube.com/watch?v=$youtubeId"
     val bilibili = "https://www.bilibili.com/video/$bilibiliId/"
