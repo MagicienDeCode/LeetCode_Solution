@@ -1,14 +1,14 @@
 package dynamic_programming
 
 fun main() {
-    val lineNumber = 4
-    val title = "518. Coin Change 2"
-    val titleLink = "https://leetcode.com/problems/coin-change-2/"
-    val javaClassName = "CoinChange2518"
-    val kotlinClassName = "CoinChange2Kotlin518"
-    val youtubeId = "e1omSFakK7o"
-    val bilibiliId = "BV1Wt4y1y7Jn"
-    val ixiguaId = "6835596557446808075"
+    val lineNumber = 5
+    val title = "368. Largest Divisible Subset"
+    val titleLink = "https://leetcode.com/problems/largest-divisible-subset/"
+    val javaClassName = "LargestDivisibleSubset368"
+    val kotlinClassName = "LargestDivisibleSubsetKotlin368"
+    val youtubeId = "jkX2G669IyI"
+    val bilibiliId = "BV1MV411k7BQ"
+    val ixiguaId = "6837862679437115911"
 
     val youtube = "https://www.youtube.com/watch?v=$youtubeId"
     val bilibili = "https://www.bilibili.com/video/$bilibiliId/"
