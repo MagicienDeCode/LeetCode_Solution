@@ -1,14 +1,14 @@
 package binary_search
 
 fun main() {
-    val lineNumber = 60
-    val title = "862. Shortest Subarray with Sum at Least K"
-    val titleLink = "https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/"
-    val javaClassName = "ShortestSubarraywithSumatLeastK862"
-    val kotlinClassName = "ShortestSubarraywithSumatLeastKKotlin862"
-    val youtubeId = "13L3N4OcFKM"
-    val bilibiliId = "BV1PK4y1b7qY"
-    val ixiguaId = "6837158304150454795"
+    val lineNumber = 61
+    val title = "710. Random Pick with Blacklist"
+    val titleLink = "https://leetcode.com/problems/random-pick-with-blacklist/"
+    val javaClassName = "RandomPickwithBlacklist710"
+    val kotlinClassName = "RandomPickwithBlacklistKotlin710"
+    val youtubeId = "WTeUb87C1iw"
+    val bilibiliId = "BV1Kf4y1176V"
+    val ixiguaId = "6838702538183672332"
 
     val youtube = "https://www.youtube.com/watch?v=$youtubeId"
     val bilibili = "https://www.bilibili.com/video/$bilibiliId/"
