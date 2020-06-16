@@ -1,14 +1,14 @@
 package binary_search
 
 fun main() {
-    val lineNumber = 61
-    val title = "710. Random Pick with Blacklist"
-    val titleLink = "https://leetcode.com/problems/random-pick-with-blacklist/"
-    val javaClassName = "RandomPickwithBlacklist710"
-    val kotlinClassName = "RandomPickwithBlacklistKotlin710"
-    val youtubeId = "WTeUb87C1iw"
-    val bilibiliId = "BV1Kf4y1176V"
-    val ixiguaId = "6838702538183672332"
+    val lineNumber = 62
+    val title = "793. Preimage Size of Factorial Zeroes Function"
+    val titleLink = "https://leetcode.com/problems/preimage-size-of-factorial-zeroes-function/"
+    val javaClassName = "PreimageSizeofFactorialZeroesFunction793"
+    val kotlinClassName = "PreimageSizeofFactorialZeroesFunctionKotlin793"
+    val youtubeId = "1u_UIJYK7aY"
+    val bilibiliId = "BV1W54y1B7xM"
+    val ixiguaId = "6838996225560150532"
 
     val youtube = "https://www.youtube.com/watch?v=$youtubeId"
     val bilibili = "https://www.bilibili.com/video/$bilibiliId/"
