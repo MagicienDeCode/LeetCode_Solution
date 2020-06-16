@@ -1,14 +1,14 @@
 package string_integer;
 
 public class ValidateIPAddress468 {
-    public String validIPAddress(String IP) {
-        if (IP.isEmpty() || IP.length() < 6) {
+    public String validIPAddress(String ip) {
+        if (ip.isEmpty() || ip.length() < 6) {
             return "Neither";
         }
-        final String str5 = IP.substring(0, 6);
+        final String str5 = ip.substring(0, 6);
         if (str5.contains(".")) {
-            final String[] strArray4 = IP.split("\\.");
-            if (strArray4.length == 4 && IP.charAt(IP.length() - 1) != '.') {
+            final String[] strArray4 = ip.split("\\.");
+            if (strArray4.length == 4 && ip.charAt(ip.length() - 1) != '.') {
                 for (String str : strArray4) {
                     if (!isIpV4(str)) {
                         return "Neither";
@@ -20,8 +20,8 @@ public class ValidateIPAddress468 {
             }
         }
         if (str5.contains(":")) {
-            final String[] strArray8 = IP.split(":");
-            if (strArray8.length == 8 && IP.charAt(IP.length() - 1) != ':') {
+            final String[] strArray8 = ip.split(":");
+            if (strArray8.length == 8 && ip.charAt(ip.length() - 1) != ':') {
                 for (String str : strArray8) {
                     if (!isIpV6(str)) {
                         return "Neither";
