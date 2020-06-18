@@ -1,14 +1,14 @@
 package binary_search
 
 fun main() {
-    val lineNumber = 62
-    val title = "793. Preimage Size of Factorial Zeroes Function"
-    val titleLink = "https://leetcode.com/problems/preimage-size-of-factorial-zeroes-function/"
-    val javaClassName = "PreimageSizeofFactorialZeroesFunction793"
-    val kotlinClassName = "PreimageSizeofFactorialZeroesFunctionKotlin793"
-    val youtubeId = "1u_UIJYK7aY"
-    val bilibiliId = "BV1W54y1B7xM"
-    val ixiguaId = "6838996225560150532"
+    val lineNumber = 63
+    val title = "878. Nth Magical Number"
+    val titleLink = "https://leetcode.com/problems/nth-magical-number/"
+    val javaClassName = "NthMagicalNumber878"
+    val kotlinClassName = "NthMagicalNumberKotlin878"
+    val youtubeId = "Uarm4XBes9g"
+    val bilibiliId = "BV1zT4y1J76p"
+    val ixiguaId = "6839697004164022787"
 
     val youtube = "https://www.youtube.com/watch?v=$youtubeId"
     val bilibili = "https://www.bilibili.com/video/$bilibiliId/"
