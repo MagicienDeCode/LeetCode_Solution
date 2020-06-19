@@ -1,14 +1,14 @@
 package binary_search
 
 fun main() {
-    val lineNumber = 63
-    val title = "878. Nth Magical Number"
-    val titleLink = "https://leetcode.com/problems/nth-magical-number/"
-    val javaClassName = "NthMagicalNumber878"
-    val kotlinClassName = "NthMagicalNumberKotlin878"
-    val youtubeId = "Uarm4XBes9g"
-    val bilibiliId = "BV1zT4y1J76p"
-    val ixiguaId = "6839697004164022787"
+    val lineNumber = 64
+    val title = "1044. Longest Duplicate Substring"
+    val titleLink = "https://leetcode.com/problems/longest-duplicate-substring/"
+    val javaClassName = "LongestDuplicateSubstring1044"
+    val kotlinClassName = "LongestDuplicateSubstringKotlin1044"
+    val youtubeId = "VN93iodnwhk"
+    val bilibiliId = "BV1Pz4y1R72d"
+    val ixiguaId = "6840094708799111691"
 
     val youtube = "https://www.youtube.com/watch?v=$youtubeId"
     val bilibili = "https://www.bilibili.com/video/$bilibiliId/"
