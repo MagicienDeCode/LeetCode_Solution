@@ -31,10 +31,13 @@ public class LongestDuplicateSubstring1044 {
 
     private int addNew(final TrieNode node, final int length) {
         final int depth = node.depth;
-        if (length + depth == str.length()) return depth;
+        if (length + depth == str.length()) {
+            return depth;
+        }
         if (node.links == null) {
             node.links = new TrieNode[26];
-            node.links[str.charAt(node.position + node.depth) - 'a'] = new TrieNode(node.position, depth + 1);
+            node.links[str.charAt(node.position + node.depth) - 'a'] =
+                    new TrieNode(node.position, depth + 1);
         }
         final int nextNodeIndex = str.charAt(length + node.depth) - 'a';
         TrieNode nextNode = node.links[nextNodeIndex];

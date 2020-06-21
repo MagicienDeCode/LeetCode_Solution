@@ -17,7 +17,7 @@ class LongestDuplicateSubstringKotlin1044 {
         val root = Trie(null, 0, 0)
         var current = 1
         while (current + max <= S.length) {
-            val result = addNew(root, current);
+            val result = addNew(root, current)
             if (result > max) {
                 max = result
                 maxStart = current
