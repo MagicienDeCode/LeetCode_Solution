@@ -1,14 +1,14 @@
 package binary_search
 
 fun main() {
-    val lineNumber = 64
-    val title = "1044. Longest Duplicate Substring"
-    val titleLink = "https://leetcode.com/problems/longest-duplicate-substring/"
-    val javaClassName = "LongestDuplicateSubstring1044"
-    val kotlinClassName = "LongestDuplicateSubstringKotlin1044"
-    val youtubeId = "VN93iodnwhk"
-    val bilibiliId = "BV1Pz4y1R72d"
-    val ixiguaId = "6840094708799111691"
+    val lineNumber = 65
+    val title = "887. Super Egg Drop"
+    val titleLink = "https://leetcode.com/problems/super-egg-drop/"
+    val javaClassName = "SuperEggDrop887"
+    val kotlinClassName = "SuperEggDropKotlin887"
+    val youtubeId = "vhcAHiaNbc8"
+    val bilibiliId = "BV1BK411p7FA"
+    val ixiguaId = "6840853387588665867"
 
     val youtube = "https://www.youtube.com/watch?v=$youtubeId"
     val bilibili = "https://www.bilibili.com/video/$bilibiliId/"
