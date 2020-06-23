@@ -1,14 +1,14 @@
 package binary_search
 
 fun main() {
-    val lineNumber = 65
-    val title = "887. Super Egg Drop"
-    val titleLink = "https://leetcode.com/problems/super-egg-drop/"
-    val javaClassName = "SuperEggDrop887"
-    val kotlinClassName = "SuperEggDropKotlin887"
+    val lineNumber = 66
+    val title = "927. Three Equal Parts"
+    val titleLink = "https://leetcode.com/problems/three-equal-parts/"
+    val javaClassName = "ThreeEqualParts927"
+    val kotlinClassName = "ThreeEqualPartsKotlin927"
     val youtubeId = "vhcAHiaNbc8"
-    val bilibiliId = "BV1BK411p7FA"
-    val ixiguaId = "6840853387588665867"
+    val bilibiliId = "BV1kD4y1D7PQ"
+    val ixiguaId = "6841588029421781512"
 
     val youtube = "https://www.youtube.com/watch?v=$youtubeId"
     val bilibili = "https://www.bilibili.com/video/$bilibiliId/"
