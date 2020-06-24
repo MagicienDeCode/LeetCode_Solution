@@ -5,7 +5,7 @@ public class UniqueBinarySearchTrees96 {
     // https://en.wikipedia.org/wiki/Catalan_number
     public int numTrees(int n) {
         long result = 1L;
-        for (int index = n + 1; index < n * 2; index++) {
+        for (int index = n + 1; index <= n * 2; index++) {
             result = result * index / (index - n);
         }
         return (int) (result / (n + 1));
