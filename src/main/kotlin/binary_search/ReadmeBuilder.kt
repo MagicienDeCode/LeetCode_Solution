@@ -1,14 +1,14 @@
 package binary_search
 
 fun main() {
-    val lineNumber = 67
-    val title = "1095. Find in Mountain Array"
-    val titleLink = "https://leetcode.com/problems/find-in-mountain-array/"
-    val javaClassName = "FindinMountainArray1095"
-    val kotlinClassName = "FindinMountainArrayKotlin1095"
-    val youtubeId = "EQ-KUHSH05w"
-    val bilibiliId = "BV1ga4y1e7Ck"
-    val ixiguaId = "6841963827249021454"
+    val lineNumber = 68
+    val title = "1157. Online Majority Element In Subarray"
+    val titleLink = "https://leetcode.com/problems/online-majority-element-in-subarray/"
+    val javaClassName = "OnlineMajorityElementInSubarray1157"
+    val kotlinClassName = "OnlineMajorityElementInSubarrayKotlin1157"
+    val youtubeId = "RYd1WJu_hVw"
+    val bilibiliId = "BV1Pk4y1672E"
+    val ixiguaId = "6842349350484443651"
 
     val youtube = "https://www.youtube.com/watch?v=$youtubeId"
     val bilibili = "https://www.bilibili.com/video/$bilibiliId/"
