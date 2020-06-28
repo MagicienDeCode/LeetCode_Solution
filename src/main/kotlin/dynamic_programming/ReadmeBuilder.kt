@@ -1,14 +1,14 @@
 package dynamic_programming
 
 fun main() {
-    val lineNumber = 6
-    val title = "279. Perfect Squares"
-    val titleLink = "https://leetcode.com/problems/perfect-squares/"
-    val javaClassName = "PerfectSquares279"
-    val kotlinClassName = "PerfectSquaresKotlin279"
-    val youtubeId = "0iNMHPXkl7A"
-    val bilibiliId = "BV1SK4y147CX"
-    val ixiguaId = "6843091738060390919"
+    val lineNumber = 7
+    val title = "1235. Maximum Profit in Job Scheduling"
+    val titleLink = "https://leetcode.com/problems/maximum-profit-in-job-scheduling/"
+    val javaClassName = "MaximumProfitinJobScheduling1235"
+    val kotlinClassName = "MaximumProfitinJobSchedulingKotlin1235"
+    val youtubeId = "Ksm598TBRDc"
+    val bilibiliId = "BV1yt4y197rr"
+    val ixiguaId = "6843433397293941260"
 
     val youtube = "https://www.youtube.com/watch?v=$youtubeId"
     val bilibili = "https://www.bilibili.com/video/$bilibiliId/"
