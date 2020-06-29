@@ -119,4 +119,4 @@
 
 | # | Title | Java | Kotlin | Difficulty | Youtube | bilibili | ixiagua |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|1|[980. Unique Paths III](https://leetcode.com/problems/unique-paths-iii/)|[Java](https://github.com/MagicienDeCode/LeetCode_Solution/blob/master/src/main/java/depth_first_search/UniquePathsIII980.java)|[Kotlin](https://github.com/MagicienDeCode/LeetCode_Solution/blob/master/src/main/kotlin/depth_first_search/UniquePathsIIIKotlin980.kt)|Medium|[Youtube](https://www.youtube.com/watch?v=yrTSoMBZFDo)|[bilibili](https://www.bilibili.com/video/BV1g54y1z7rJ/)|[ixigua](https://www.ixigua.com/i6843806657034584589/)|
+|1|[980. Unique Paths III](https://leetcode.com/problems/unique-paths-iii/)|[Java](https://github.com/MagicienDeCode/LeetCode_Solution/blob/master/src/main/java/depth_first_search/UniquePathsIII980.java)|[Kotlin](https://github.com/MagicienDeCode/LeetCode_Solution/blob/master/src/main/kotlin/depth_first_search/UniquePathsIIIKotlin980.kt)|Hard|[Youtube](https://www.youtube.com/watch?v=yrTSoMBZFDo)|[bilibili](https://www.bilibili.com/video/BV1g54y1z7rJ/)|[ixigua](https://www.ixigua.com/i6843806657034584589/)|
