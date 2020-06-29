@@ -1,14 +1,14 @@
 package dynamic_programming
 
 fun main() {
-    val lineNumber = 7
-    val title = "1235. Maximum Profit in Job Scheduling"
-    val titleLink = "https://leetcode.com/problems/maximum-profit-in-job-scheduling/"
-    val javaClassName = "MaximumProfitinJobScheduling1235"
-    val kotlinClassName = "MaximumProfitinJobSchedulingKotlin1235"
-    val youtubeId = "Ksm598TBRDc"
-    val bilibiliId = "BV1yt4y197rr"
-    val ixiguaId = "6843433397293941260"
+    val lineNumber = 8
+    val title = "62. Unique Paths & 63. Unique Paths II"
+    val titleLink = "https://leetcode.com/problems/unique-paths-ii/"
+    val javaClassName = "UniquePathsII63"
+    val kotlinClassName = "UniquePathsIIKotlin63"
+    val youtubeId = "yrTSoMBZFDo"
+    val bilibiliId = "BV1g54y1z7rJ"
+    val ixiguaId = "6843806657034584589"
 
     val youtube = "https://www.youtube.com/watch?v=$youtubeId"
     val bilibili = "https://www.bilibili.com/video/$bilibiliId/"
