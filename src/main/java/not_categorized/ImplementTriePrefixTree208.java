@@ -66,13 +66,15 @@ public class ImplementTriePrefixTree208 {
     private void recursionRemove(final String word,
                                  final int index,
                                  final PrefixTree prefixTree) {
-        if (index != word.length() - 2) {
+        if (word.length() - 2 >= 0 && index != word.length() - 2) {
             recursionRemove(word, index + 1, prefixTree.getByChar(word.charAt(index)));
         }
         final PrefixTree current = prefixTree.getByChar(word.charAt(index));
-        final PrefixTree next = current.getByChar(word.charAt(index + 1));
-        if (next.canDelete()) {
-            current.remove(word.charAt(index + 1));
+        if (index + 1 < word.length()) {
+            final PrefixTree next = current.getByChar(word.charAt(index + 1));
+            if (next.canDelete()) {
+                current.remove(word.charAt(index + 1));
+            }
         }
         if (index == 0 && current.canDelete()) {
             prefixTree.remove(word.charAt(0));

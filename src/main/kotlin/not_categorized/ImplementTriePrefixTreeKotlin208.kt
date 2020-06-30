@@ -48,13 +48,15 @@ class ImplementTriePrefixTreeKotlin208 {
     }
 
     private fun recursionRemove(word: String, index: Int, prefixTree: PrefixTree) {
-        if (index != word.length - 2) {
+        if (word.length - 2 >= 0 && index != word.length - 2) {
             recursionRemove(word, index + 1, prefixTree.getByChar(word[index])!!)
         }
         val current = prefixTree.getByChar(word[index])!!
-        val next = current.getByChar(word[index + 1])!!
-        if (next.canDelete()) {
-            current.remove(word[index + 1])
+        if (index + 1 < word.length) {
+            val next = current.getByChar(word[index + 1])!!
+            if (next.canDelete()) {
+                current.remove(word[index + 1])
+            }
         }
         if (index == 0 && current.canDelete()) {
             prefixTree.remove(word[0])
