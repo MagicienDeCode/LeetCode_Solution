@@ -1,14 +1,14 @@
 package binary_search
 
 fun main() {
-    val lineNumber = 68
-    val title = "1157. Online Majority Element In Subarray"
-    val titleLink = "https://leetcode.com/problems/online-majority-element-in-subarray/"
-    val javaClassName = "OnlineMajorityElementInSubarray1157"
-    val kotlinClassName = "OnlineMajorityElementInSubarrayKotlin1157"
-    val youtubeId = "RYd1WJu_hVw"
-    val bilibiliId = "BV1Pk4y1672E"
-    val ixiguaId = "6842349350484443651"
+    val lineNumber = 69
+    val title = "1482. Minimum Number of Days to Make m Bouquets"
+    val titleLink = "https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/"
+    val javaClassName = "MinimumNumberofDaystoMakemBouquets1482"
+    val kotlinClassName = "MinimumNumberofDaystoMakemBouquetsKotlin1482"
+    val youtubeId = "MqdMvPPQ5pI"
+    val bilibiliId = "BV1CT4y177fA"
+    val ixiguaId = "6844149741412942339"
 
     val youtube = "https://www.youtube.com/watch?v=$youtubeId"
     val bilibili = "https://www.bilibili.com/video/$bilibiliId/"
@@ -23,7 +23,7 @@ fun main() {
             |$lineNumber|[$title]($titleLink)
             |[Java]($javaLink)
             |[Kotlin]($kotlinLink)
-            |Hard
+            |Medium
             |[Youtube]($youtube)
             |[bilibili]($bilibili)
             |[ixigua]($ixigua)
