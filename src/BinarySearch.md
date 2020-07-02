@@ -3,6 +3,8 @@
 - [Please follow me at bilibili](https://space.bilibili.com/520811931)
 - [Please follow me at ixigua](https://www.ixigua.com/home/105169725727/) 
 
+## [Presentation Link](https://github.com/MagicienDeCode/LeetCode_Solution/blob/master/src/BS_ALL_IN_ONE.pdf)
+
 ## Index
 
 - Binary Search
