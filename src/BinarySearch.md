@@ -4,6 +4,12 @@
 
 - Binary Search
 
+| # | Title | Youtube | bilibili | ixiagua |
+|:---:|:---:|:---:|:---:|:---:|
+|0|[All In One](https://github.com/MagicienDeCode/LeetCode_Solution/blob/master/src/BS_ALL_IN_ONE.pdf)|[Youtube](https://www.youtube.com/watch?v=vs4jGMu5djk)|[bilibili](https://www.bilibili.com/video/BV1Va4y1e7Yf/)|[ixigua](https://www.ixigua.com/i6844933379972923908/)|
+
+
+- Template
 ```$java
     public int searchLastPosition(int[] nums, int target) {
         if (nums == null || nums.length == 0) {
