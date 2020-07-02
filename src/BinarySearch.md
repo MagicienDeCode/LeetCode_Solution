@@ -1,9 +1,4 @@
-# Leetcode solution and test using java / kotlin
-- [Subscribe 代码魔术师magiciendecode on Youtube](https://www.youtube.com/channel/UCERe5JqcmPtyo3dzX94by1g?sub_confirmation=1)
-- [Please follow me at bilibili](https://space.bilibili.com/520811931)
-- [Please follow me at ixigua](https://www.ixigua.com/home/105169725727/) 
-
-## [Presentation Link](https://github.com/MagicienDeCode/LeetCode_Solution/blob/master/src/BS_ALL_IN_ONE.pdf)
+# [Presentation Link](https://github.com/MagicienDeCode/LeetCode_Solution/blob/master/src/BS_ALL_IN_ONE.pdf)
 
 ## Index
 
