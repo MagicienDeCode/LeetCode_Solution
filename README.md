@@ -47,10 +47,17 @@
 
 - BFS
 
+- BFS in Binary Tree
+
 | # | Title | Java | Kotlin | Difficulty | Youtube | bilibili | ixiagua |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |1|[129. Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/)|[Java](https://github.com/MagicienDeCode/LeetCode_Solution/blob/master/src/main/java/breadth_first_search/SumRoottoLeafNumbers129.java)|[Kotlin](https://github.com/MagicienDeCode/LeetCode_Solution/blob/master/src/main/kotlin/breadth_first_search/SumRoottoLeafNumbersKotlin129.kt)|Easy|[Youtube](https://www.youtube.com/watch?v=aQkiYEJRAA4)|[bilibili](https://www.bilibili.com/video/BV1qT4y177zb/)|[ixigua](https://www.ixigua.com/i6842691293357801995/)| 
 |2|[1022. Sum of Root To Leaf Binary Numbers](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/)|[Java](https://github.com/MagicienDeCode/LeetCode_Solution/blob/master/src/main/java/breadth_first_search/SumofRootToLeafBinaryNumbers1022.java)|[Kotlin](https://github.com/MagicienDeCode/LeetCode_Solution/blob/master/src/main/kotlin/breadth_first_search/SumofRootToLeafBinaryNumbersKotlin1022.kt)|Easy|[Youtube](https://www.youtube.com/watch?v=aQkiYEJRAA4)|[bilibili](https://www.bilibili.com/video/BV1qT4y177zb/)|[ixigua](https://www.ixigua.com/i6842691293357801995/)|
+|3|[107. Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/)|[Java](https://github.com/MagicienDeCode/LeetCode_Solution/blob/master/src/main/java/breadth_first_search/BinaryTreeLevelOrderTraversalII107.java)|[Kotlin](https://github.com/MagicienDeCode/LeetCode_Solution/blob/master/src/main/kotlin/breadth_first_search/BinaryTreeLevelOrderTraversalIIKotlin107.kt)|Easy|[Youtube](https://www.youtube.com/watch?v=eI3Wb-J-PoY)|[bilibili](https://www.bilibili.com/video/BV1Rp4y1U7Vt/)|[ixigua](https://www.ixigua.com/i6845681356052103694/)|
+
+- BFS in Graph ( Topological Sorting )
+
+- BFS in matrix
 
 - DFS
 
