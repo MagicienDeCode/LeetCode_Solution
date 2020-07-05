@@ -1,14 +1,14 @@
 package breadth_first_search
 
 fun main() {
-    val lineNumber = 3
-    val title = "107. Binary Tree Level Order Traversal II"
-    val titleLink = "https://leetcode.com/problems/binary-tree-level-order-traversal-ii/"
-    val javaClassName = "BinaryTreeLevelOrderTraversalII107"
-    val kotlinClassName = "BinaryTreeLevelOrderTraversalIIKotlin107"
-    val youtubeId = "eI3Wb-J-PoY"
-    val bilibiliId = "BV1Rp4y1U7Vt"
-    val ixiguaId = "6845681356052103694"
+    val lineNumber = 4
+    val title = "101. Symmetric Tree"
+    val titleLink = "https://leetcode.com/problems/symmetric-tree/"
+    val javaClassName = "SymmetricTree101"
+    val kotlinClassName = "SymmetricTreeKotlin101"
+    val youtubeId = "BnlH1gjkpZg"
+    val bilibiliId = "BV1MV411r7mb"
+    val ixiguaId = "6846057729698562564"
 
     val youtube = "https://www.youtube.com/watch?v=$youtubeId"
     val bilibili = "https://www.bilibili.com/video/$bilibiliId/"
