@@ -53,32 +53,3 @@ class SymmetricTreeKotlin101 {
         var right: TreeNode? = null
     }
 }
-
-fun main() {
-    /*
-    val node1 = SymmetricTreeKotlin101.TreeNode(1)
-    val node21 = SymmetricTreeKotlin101.TreeNode(2)
-    val node22 = SymmetricTreeKotlin101.TreeNode(2)
-    val node31 = SymmetricTreeKotlin101.TreeNode(3)
-    val node32 = SymmetricTreeKotlin101.TreeNode(4)
-    node1.left = node21
-    node21.right = node31
-    node1.right = node22
-    node22.right = node32
-     */
-    val node1 = SymmetricTreeKotlin101.TreeNode(1)
-    val node21 = SymmetricTreeKotlin101.TreeNode(2)
-    val node22 = SymmetricTreeKotlin101.TreeNode(2)
-    val node31 = SymmetricTreeKotlin101.TreeNode(3)
-    val node32 = SymmetricTreeKotlin101.TreeNode(3)
-    val node41 = SymmetricTreeKotlin101.TreeNode(4)
-    val node42 = SymmetricTreeKotlin101.TreeNode(4)
-    node1.left = node21
-    // node21.right = node41
-    node21.left = node31
-    node1.right = node22
-    // node22.left = node42
-    node22.left = node32
-    val solution = SymmetricTreeKotlin101()
-    println(solution.isSymmetric(node1))
-}
