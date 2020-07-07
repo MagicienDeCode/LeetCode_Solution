@@ -2,13 +2,16 @@ package breadth_first_search
 
 fun main() {
     val lineNumber = 5
-    val title = "103. Binary Tree Zigzag Level Order Traversal"
-    val titleLink = "https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/"
-    val javaClassName = "BinaryTreeZigzagLevelOrderTraversal103"
-    val kotlinClassName = "BinaryTreeZigzagLevelOrderTraversalKotlin103"
-    val youtubeId = "SM8pbz4PQ5E"
-    val bilibiliId = "BV1g54y1q7w1"
-    val ixiguaId = "6846391749389222404"
+    val title = "127. Word Ladder"
+    val titleLink = "https://leetcode.com/problems/word-ladder/"
+    val javaClassName = "WordLadder127"
+    val kotlinClassName = "WordLadderKotlin127"
+
+    val level = "Medium"
+
+    val youtubeId = "_gh54lc6oCs"
+    val bilibiliId = "BV1jA411e7My"
+    val ixiguaId = "6846832808556495368"
 
     val youtube = "https://www.youtube.com/watch?v=$youtubeId"
     val bilibili = "https://www.bilibili.com/video/$bilibiliId/"
@@ -23,7 +26,7 @@ fun main() {
             |$lineNumber|[$title]($titleLink)
             |[Java]($javaLink)
             |[Kotlin]($kotlinLink)
-            |Easy
+            |$level
             |[Youtube]($youtube)
             |[bilibili]($bilibili)
             |[ixigua]($ixigua)
