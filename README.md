@@ -62,6 +62,7 @@
 | # | Title | Java | Kotlin | Difficulty | Youtube | bilibili | ixiagua |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |1|[127. Word Ladder](https://leetcode.com/problems/word-ladder/)|[Java](https://github.com/MagicienDeCode/LeetCode_Solution/blob/master/src/main/java/breadth_first_search/WordLadder127.java)|[Kotlin](https://github.com/MagicienDeCode/LeetCode_Solution/blob/master/src/main/kotlin/breadth_first_search/WordLadderKotlin127.kt)|Medium|[Youtube](https://www.youtube.com/watch?v=_gh54lc6oCs)|[bilibili](https://www.bilibili.com/video/BV1jA411e7My/)|[ixigua](https://www.ixigua.com/i6846832808556495368/)|
+|2|[126. Word Ladder II](https://leetcode.com/problems/word-ladder-ii/)|[Java](https://github.com/MagicienDeCode/LeetCode_Solution/blob/master/src/main/java/breadth_first_search/WordLadderII126.java)|[Kotlin](https://github.com/MagicienDeCode/LeetCode_Solution/blob/master/src/main/kotlin/breadth_first_search/WordLadderIIKotlin126.kt)|Hard|[Youtube](https://www.youtube.com/watch?v=1_dBljOgpEY)|[bilibili](https://www.bilibili.com/video/BV1HV41167JG/)|[ixigua](https://www.ixigua.com/i6847152853744615944/)|
 
 - BFS in matrix
 
