@@ -2,16 +2,16 @@ package breadth_first_search
 
 fun main() {
     val lineNumber = 5
-    val title = "126. Word Ladder II"
-    val titleLink = "https://leetcode.com/problems/word-ladder-ii/"
-    val javaClassName = "WordLadderII126"
-    val kotlinClassName = "WordLadderIIKotlin126"
+    val title = "133. Clone Graph"
+    val titleLink = "https://leetcode.com/problems/clone-graph/"
+    val javaClassName = "CloneGraph133"
+    val kotlinClassName = "CloneGraphKotlin133"
 
-    val level = "Hard"
+    val level = "Medium"
 
-    val youtubeId = "1_dBljOgpEY"
-    val bilibiliId = "BV1HV41167JG"
-    val ixiguaId = "6847152853744615944"
+    val youtubeId = "s7ZdjW0OIjE"
+    val bilibiliId = "BV1Tv411z7Fk"
+    val ixiguaId = "6847414695230603788"
 
     val youtube = "https://www.youtube.com/watch?v=$youtubeId"
     val bilibili = "https://www.bilibili.com/video/$bilibiliId/"
