@@ -57,14 +57,14 @@ class CloneGraph133 {
             neighbors = new ArrayList<Node>();
         }
 
-        public Node(int _val) {
-            val = _val;
+        public Node(int value) {
+            val = value;
             neighbors = new ArrayList<Node>();
         }
 
-        public Node(int _val, ArrayList<Node> _neighbors) {
-            val = _val;
-            neighbors = _neighbors;
+        public Node(int value, ArrayList<Node> neighborsValue) {
+            val = value;
+            neighbors = neighborsValue;
         }
     }
 }

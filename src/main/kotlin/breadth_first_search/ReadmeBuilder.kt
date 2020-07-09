@@ -2,16 +2,16 @@ package breadth_first_search
 
 fun main() {
     val lineNumber = 5
-    val title = "133. Clone Graph"
-    val titleLink = "https://leetcode.com/problems/clone-graph/"
-    val javaClassName = "CloneGraph133"
-    val kotlinClassName = "CloneGraphKotlin133"
+    val title = "662. Maximum Width of Binary Tree"
+    val titleLink = "https://leetcode.com/problems/maximum-width-of-binary-tree/"
+    val javaClassName = "MaximumWidthofBinaryTree662"
+    val kotlinClassName = "MaximumWidthofBinaryTreeKotlin662"
 
     val level = "Medium"
 
-    val youtubeId = "s7ZdjW0OIjE"
-    val bilibiliId = "BV1Tv411z7Fk"
-    val ixiguaId = "6847414695230603788"
+    val youtubeId = "08AY3Jf1i-s"
+    val bilibiliId = "BV1pD4y1S787"
+    val ixiguaId = "6847500261217272334"
 
     val youtube = "https://www.youtube.com/watch?v=$youtubeId"
     val bilibili = "https://www.bilibili.com/video/$bilibiliId/"
