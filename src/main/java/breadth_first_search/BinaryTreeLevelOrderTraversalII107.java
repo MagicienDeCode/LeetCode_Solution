@@ -31,7 +31,7 @@ public class BinaryTreeLevelOrderTraversalII107 {
         return result;
     }
 
-    public class TreeNode {
+    public static class TreeNode {
         int val;
         TreeNode left;
         TreeNode right;
