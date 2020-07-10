@@ -2,15 +2,15 @@ package breadth_first_search
 
 fun main() {
     val lineNumber = 5
-    val title = "662. Maximum Width of Binary Tree"
-    val titleLink = "https://leetcode.com/problems/maximum-width-of-binary-tree/"
-    val javaClassName = "MaximumWidthofBinaryTree662"
-    val kotlinClassName = "MaximumWidthofBinaryTreeKotlin662"
+    val title = "199. Binary Tree Right Side View"
+    val titleLink = "https://leetcode.com/problems/binary-tree-right-side-view/"
+    val javaClassName = "BinaryTreeRightSideView199"
+    val kotlinClassName = "6847893865706291716"
 
     val level = "Medium"
 
-    val youtubeId = "08AY3Jf1i-s"
-    val bilibiliId = "BV1pD4y1S787"
+    val youtubeId = "bUg3jZ2Fi1s"
+    val bilibiliId = "BV19K4y1s7gx"
     val ixiguaId = "6847500261217272334"
 
     val youtube = "https://www.youtube.com/watch?v=$youtubeId"
