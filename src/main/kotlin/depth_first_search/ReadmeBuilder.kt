@@ -1,14 +1,15 @@
 package depth_first_search
 
 fun main() {
-    val lineNumber = 1
-    val title = "980. Unique Paths III"
-    val titleLink = "https://leetcode.com/problems/unique-paths-iii/"
-    val javaClassName = "UniquePathsIII980"
-    val kotlinClassName = "UniquePathsIIIKotlin980"
-    val youtubeId = "yrTSoMBZFDo"
-    val bilibiliId = "BV1g54y1z7rJ"
-    val ixiguaId = "6843806657034584589"
+    val lineNumber = 2
+    val title = "90. Subsets II"
+    val titleLink = "https://leetcode.com/problems/subsets-ii/"
+    val javaClassName = "SubsetsII90"
+    val kotlinClassName = "SubsetsIIKotlin90"
+
+    val youtubeId = "pfHIwC9gzCs"
+    val bilibiliId = "BV1Ez4y1D7oP"
+    val ixiguaId = "6848235017122873869"
 
     val youtube = "https://www.youtube.com/watch?v=$youtubeId"
     val bilibili = "https://www.bilibili.com/video/$bilibiliId/"
