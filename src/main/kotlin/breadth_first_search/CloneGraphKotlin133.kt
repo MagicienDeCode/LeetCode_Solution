@@ -56,6 +56,7 @@ class CloneGraphKotlin133 {
     }
 }
 
+/*
 fun main() {
     val node1 = CloneGraphKotlin133.Node(1)
     val node2 = CloneGraphKotlin133.Node(2)
@@ -68,3 +69,4 @@ fun main() {
     val solution = CloneGraphKotlin133()
     val r = solution.cloneGraph(node2)
 }
+ */
