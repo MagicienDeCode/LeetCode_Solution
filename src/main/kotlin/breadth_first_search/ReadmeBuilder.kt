@@ -2,16 +2,16 @@ package breadth_first_search
 
 fun main() {
     val lineNumber = 5
-    val title = "199. Binary Tree Right Side View"
-    val titleLink = "https://leetcode.com/problems/binary-tree-right-side-view/"
-    val javaClassName = "BinaryTreeRightSideView199"
-    val kotlinClassName = "6847893865706291716"
+    val title = "200. Number of Islands"
+    val titleLink = "https://leetcode.com/problems/number-of-islands/"
+    val javaClassName = "NumberofIslands200"
+    val kotlinClassName = "NumberofIslandsKotlin200"
 
     val level = "Medium"
 
-    val youtubeId = "bUg3jZ2Fi1s"
-    val bilibiliId = "BV19K4y1s7gx"
-    val ixiguaId = "6847500261217272334"
+    val youtubeId = "V9LFehasEzE"
+    val bilibiliId = "BV1zt4y1Q7Nj"
+    val ixiguaId = "6848559984913941006"
 
     val youtube = "https://www.youtube.com/watch?v=$youtubeId"
     val bilibili = "https://www.bilibili.com/video/$bilibiliId/"
