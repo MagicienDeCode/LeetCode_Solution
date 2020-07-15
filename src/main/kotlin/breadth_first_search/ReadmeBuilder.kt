@@ -2,17 +2,17 @@ package breadth_first_search
 
 fun main() {
     val lineNumber = 5
-    val title = "301. Remove Invalid Parentheses"
-    val titleLink = "https://leetcode.com/problems/remove-invalid-parentheses/"
-    val javaClassName = "RemoveInvalidParentheses301"
-    val kotlinClassName = "RemoveInvalidParenthesesKotlin301"
+    val title = "310. Minimum Height Trees"
+    val titleLink = "https://leetcode.com/problems/minimum-height-trees/"
+    val javaClassName = "MinimumHeightTrees310"
+    val kotlinClassName = "MinimumHeightTreesKotlin310"
 
-    val level = "Hard"
-    // val level = "Medium"
+    // val level = "Hard"
+    val level = "Medium"
 
-    val youtubeId = "EjTbtk6oBgM"
-    val bilibiliId = "BV1Xa4y1h7ec"
-    val ixiguaId = "6849297889592607243"
+    val youtubeId = "KrDPlV9Dq_E"
+    val bilibiliId = "BV1Rk4y1q7uD"
+    val ixiguaId = "6849833683386368524"
 
     val youtube = "https://www.youtube.com/watch?v=$youtubeId"
     val bilibili = "https://www.bilibili.com/video/$bilibiliId/"
