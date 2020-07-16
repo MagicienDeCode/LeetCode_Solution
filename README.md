@@ -75,6 +75,7 @@
 | # | Title | Java | Kotlin | Difficulty | Youtube | bilibili | ixiagua |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |1|[200. Number of Islands](https://leetcode.com/problems/number-of-islands/)|[Java](https://github.com/MagicienDeCode/LeetCode_Solution/blob/master/src/main/java/breadth_first_search/NumberofIslands200.java)|[Kotlin](https://github.com/MagicienDeCode/LeetCode_Solution/blob/master/src/main/kotlin/breadth_first_search/NumberofIslandsKotlin200.kt)|Medium|[Youtube](https://www.youtube.com/watch?v=V9LFehasEzE)|[bilibili](https://www.bilibili.com/video/BV1zt4y1Q7Nj/)|[ixigua](https://www.ixigua.com/i6848559984913941006/)|
+|2|[407. Trapping Rain Water II](https://leetcode.com/problems/trapping-rain-water-ii/)|[Java](https://github.com/MagicienDeCode/LeetCode_Solution/blob/master/src/main/java/breadth_first_search/TrappingRainWaterII407.java)|[Kotlin](https://github.com/MagicienDeCode/LeetCode_Solution/blob/master/src/main/kotlin/breadth_first_search/TrappingRainWaterIIKotlin407.kt)|Hard|[Youtube](https://www.youtube.com/watch?v=lfdLQNNsPBI)|[bilibili](https://www.bilibili.com/video/BV18h411o7hp/)|[ixigua](https://www.ixigua.com/i6850174288016704003/)|
 
 
 

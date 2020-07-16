@@ -1,0 +1,21 @@
+private final int[] deltaX = {0, 0, -1, 1};
+private final int[] deltaY = {-1, 1, 0, 0};
+
+private boolean inBound(
+        char[][] grid,
+        int x,
+        int y
+) {
+    return x >= 0 && y >= 0 && x < grid.length && y < grid[0].length;
+}
+
+
+for (int index = 0; index < 4; index++) {
+    final int nextX = currentNode.x + deltaX[index];
+    final int nextY = currentNode.y + deltaY[index];
+    if (inBound(heightMap, nextX, nextY) &&
+            !visited[nextX][nextY]) {
+        visited[nextX][nextY] = true;
+
+    }
+}
