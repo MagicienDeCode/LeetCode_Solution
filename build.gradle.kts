@@ -10,7 +10,7 @@ plugins {
 }
 
 group = "fr.magiciendecode"
-java.sourceCompatibility = JavaVersion.VERSION_1_8
+java.sourceCompatibility = JavaVersion.VERSION_11
 
 repositories {
     mavenCentral()
@@ -19,6 +19,7 @@ repositories {
 dependencies {
     val junitVersion = "5.4.2"
     implementation(kotlin("stdlib-jdk8"))
+    implementation("org.openjfx:javafx-base:11:linux")
     testImplementation("org.junit.jupiter:junit-jupiter-api:$junitVersion")
     testImplementation("org.junit.jupiter:junit-jupiter-params:$junitVersion")
 
@@ -37,6 +38,6 @@ tasks.withType<Test> {
 tasks.withType<KotlinCompile> {
     kotlinOptions {
         freeCompilerArgs = listOf("-Xjsr305=strict")
-        jvmTarget = "1.8"
+        jvmTarget = "11"
     }
 }
