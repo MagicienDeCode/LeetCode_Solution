@@ -1,7 +1,7 @@
 private val deltaX = intArrayOf(0, 0, -1, 1)
 private val deltaY = intArrayOf(-1, 1, 0, 0)
 private fun inBound(
-    grid: Array<Array<*>>,
+    grid: Array<IntArray>,
     x: Int,
     y: Int
 ) = x >= 0 && y >= 0 && x < grid.size && y < grid[0].size

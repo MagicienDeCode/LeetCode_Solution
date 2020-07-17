@@ -2,7 +2,7 @@ private final int[] deltaX = {0, 0, -1, 1};
 private final int[] deltaY = {-1, 1, 0, 0};
 
 private boolean inBound(
-        char[][] grid,
+        int[][] grid,
         int x,
         int y
 ) {
