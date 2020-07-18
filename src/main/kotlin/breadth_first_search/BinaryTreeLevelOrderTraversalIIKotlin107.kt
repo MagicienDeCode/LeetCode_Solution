@@ -12,10 +12,6 @@ class BinaryTreeLevelOrderTraversalIIKotlin107 {
         treeNodeQueue.offer(root)
         while (treeNodeQueue.isNotEmpty()) {
             val currentLevel = mutableListOf<Int>()
-            /*
-            val currentSize = treeNodeQueue.size
-            for (i in 0 until currentSize) {
-             */
             for (i in 0 until treeNodeQueue.size) {
                 val current = treeNodeQueue.poll()
                 currentLevel.add(current.`val`)

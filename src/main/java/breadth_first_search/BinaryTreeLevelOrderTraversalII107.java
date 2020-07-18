@@ -7,7 +7,7 @@ import java.util.Queue;
 
 public class BinaryTreeLevelOrderTraversalII107 {
     public List<List<Integer>> levelOrderBottom(TreeNode root) {
-        final List<List<Integer>> result = new ArrayList<>();
+        final List<List<Integer>> result = new LinkedList<>();
         if (root == null) {
             return result;
         }
