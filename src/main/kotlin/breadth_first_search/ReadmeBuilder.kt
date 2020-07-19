@@ -2,17 +2,17 @@ package breadth_first_search
 
 fun main() {
     val lineNumber = 5
-    val title = "417. Pacific Atlantic Water Flow"
-    val titleLink = "https://leetcode.com/problems/pacific-atlantic-water-flow/"
-    val javaClassName = "PacificAtlanticWaterFlow417"
-    val kotlinClassName = "PacificAtlanticWaterFlowKotlin417"
+    val title = "529. Minesweeper"
+    val titleLink = "https://leetcode.com/problems/minesweeper/"
+    val javaClassName = "Minesweeper529"
+    val kotlinClassName = "MinesweeperKotlin529"
 
     // val level = "Hard"
     val level = "Medium"
 
-    val youtubeId = "Dv4t3kjR5Pg"
-    val bilibiliId = "BV1Vv411q7cB"
-    val ixiguaId = "6850541818719764996"
+    val youtubeId = "p9dVexj5ByI"
+    val bilibiliId = "BV1jv411q7Gy"
+    val ixiguaId = "6851143010068283917"
 
     val youtube = "https://www.youtube.com/watch?v=$youtubeId"
     val bilibili = "https://www.bilibili.com/video/$bilibiliId/"

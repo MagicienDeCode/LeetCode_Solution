@@ -12,7 +12,8 @@ private fun inBound(
 for (index in 0..3){
     val nextX = currentNode.x + deltaX[index]
     val nextY = currentNode.y + deltaY[index]
-    if (inBound(heightMap,nextX,nextY)){
+    if (inBound(board,nextX,nextY) &&
+            !visited[nextX][nextY]){
 
     }
 }
