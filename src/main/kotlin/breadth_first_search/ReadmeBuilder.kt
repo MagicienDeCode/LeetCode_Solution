@@ -2,17 +2,17 @@ package breadth_first_search
 
 fun main() {
     val lineNumber = 5
-    val title = "542. 01 Matrix"
-    val titleLink = "https://leetcode.com/problems/01-matrix/"
-    val javaClassName = "Matrix01542"
-    val kotlinClassName = "Matrix01Kotlin542"
+    val title = "675. Cut Off Trees for Golf Event"
+    val titleLink = "https://leetcode.com/problems/cut-off-trees-for-golf-event/"
+    val javaClassName = "CutOffTreesforGolfEvent675"
+    val kotlinClassName = "CutOffTreesforGolfEventKotlin675"
 
-    // val level = "Hard"
-    val level = "Medium"
+    val level = "Hard"
+    // val level = "Medium"
 
-    val youtubeId = "Hk8yLBmtpaA"
-    val bilibiliId = "BV1HD4y1D7ct"
-    val ixiguaId = "6851597879988093443"
+    val youtubeId = "6vJEq2F9Dik"
+    val bilibiliId = "BV1tK4y1x7MS"
+    val ixiguaId = "6851942282623451651"
 
     val youtube = "https://www.youtube.com/watch?v=$youtubeId"
     val bilibili = "https://www.bilibili.com/video/$bilibiliId/"
