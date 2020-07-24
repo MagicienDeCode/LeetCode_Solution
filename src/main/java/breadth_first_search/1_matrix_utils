@@ -10,12 +10,21 @@ private boolean inBound(
 }
 
 
-for (int index = 0; index < 4; index++) {
-    final int nextX = currentNode.x + deltaX[index];
-    final int nextY = currentNode.y + deltaY[index];
-    if (inBound(heightMap, nextX, nextY) &&
-            !visited[nextX][nextY]) {
-        visited[nextX][nextY] = true;
+while (!queue.isEmpty()) {
+    final int currentSize = queue.size();
+    for (int size = 0; size < currentSize; size++) {
+        final int[] current = queue.poll();
+        for (int index = 0; index < 4; index++) {
+            final int nextX = current[0] + deltaX[index];
+            final int nextY = current[1] + deltaY[index];
+            if (inBound(grid, nextX, nextY) &&
+                    !visited[nextX][nextY] &&
+                    grid[nextX][nextY] == 0) {
+                queue.offer(new int[]{nextX, nextY});
+                visited[nextX][nextY] = true;
 
+            }
+        }
     }
+    ++level;
 }

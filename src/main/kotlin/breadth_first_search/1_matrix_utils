@@ -7,15 +7,21 @@ private fun inBound(
 ) = x >= 0 && y >= 0 && x < grid.size && y < grid[0].size
 
 
-/*
-
-for (index in 0..3){
-    val nextX = currentNode.x + deltaX[index]
-    val nextY = currentNode.y + deltaY[index]
-    if (inBound(board,nextX,nextY) &&
-            !visited[nextX][nextY]){
-
+while (!queue.isEmpty()){
+    for (size in 0 until queue.size){
+        val current = queue.poll()
+        for (index in 0..3){
+            val nextX = current[0] + deltaX[index]
+            val nextY = current[1] + deltaY[index]
+            if (inBound(grid, nextX, nextY) &&
+                !visited[nextX][nextY] &&
+                grid[nextX][nextY] == 0
+            ) {
+                queue.offer(intArrayOf(nextX, nextY))
+                visited[nextX][nextY] = true
+            }
+        }
     }
+    ++level
 }
 
- */
