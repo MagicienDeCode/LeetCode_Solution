@@ -1,4 +1,4 @@
-package depth_first_search;
+package binary_tree;
 
 public class ConstructBinarySearchTreefromPreorderTraversal1008 {
     public TreeNode bstFromPreorder(int[] preorder) {

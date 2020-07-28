@@ -1,4 +1,4 @@
-package depth_first_search
+package binary_tree
 
 class ConstructBinarySearchTreefromPreorderTraversalKotlin1008 {
     fun bstFromPreorder(preorder: IntArray): TreeNode? {
@@ -9,7 +9,8 @@ class ConstructBinarySearchTreefromPreorderTraversalKotlin1008 {
         if (start > end || start == preorder.size) {
             return null
         }
-        val current = TreeNode(preorder[start])
+        val current =
+            TreeNode(preorder[start])
         var rightIndex = start + 1
         while (rightIndex <= end && current.`val` > preorder[rightIndex]) {
             ++rightIndex
