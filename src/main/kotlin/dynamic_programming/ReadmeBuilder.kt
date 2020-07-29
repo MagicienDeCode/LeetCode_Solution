@@ -2,13 +2,13 @@ package dynamic_programming
 
 fun main() {
     val lineNumber = 8
-    val title = "62. Unique Paths & 63. Unique Paths II"
-    val titleLink = "https://leetcode.com/problems/unique-paths-ii/"
-    val javaClassName = "UniquePathsII63"
-    val kotlinClassName = "UniquePathsIIKotlin63"
-    val youtubeId = "yrTSoMBZFDo"
-    val bilibiliId = "BV1g54y1z7rJ"
-    val ixiguaId = "6843806657034584589"
+    val title = "309. Best Time to Buy and Sell Stock with Cooldown"
+    val titleLink = "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/"
+    val javaClassName = "BestTimetoBuyandSellStockwithCooldown309"
+    val kotlinClassName = "BestTimetoBuyandSellStockwithCooldownKotlin309"
+    val youtubeId = "y8Rpo4R9nLs"
+    val bilibiliId = "BV1xV411z7Hy"
+    val ixiguaId = "6854867822091338244"
 
     val youtube = "https://www.youtube.com/watch?v=$youtubeId"
     val bilibili = "https://www.bilibili.com/video/$bilibiliId/"
