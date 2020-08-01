@@ -2,17 +2,17 @@ package breadth_first_search
 
 fun main() {
     val lineNumber = 5
-    val title = "854. K-Similar Strings"
-    val titleLink = "https://leetcode.com/problems/k-similar-strings/"
-    val javaClassName = "KSimilarStrings854"
-    val kotlinClassName = "KSimilarStringsKotlin854"
+    val title = "863. All Nodes Distance K in Binary Tree"
+    val titleLink = "https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/"
+    val javaClassName = "AllNodesDistanceKinBinaryTreeKotlin863"
+    val kotlinClassName = "AllNodesDistanceKinBinaryTreeKotlinKotlin863"
 
-    val level = "Hard"
-    // val level = "Medium"
+    // val level = "Hard"
+    val level = "Medium"
 
-    val youtubeId = "Wf_I7LjC-AQ"
-    val bilibiliId = "BV1S64y1F7Bc"
-    val ixiguaId = "6855685367777985031"
+    val youtubeId = "6rqbKXKjzkg"
+    val bilibiliId = "BV13a4y1J73G"
+    val ixiguaId = "6855985717081080327"
 
     val youtube = "https://www.youtube.com/watch?v=$youtubeId"
     val bilibili = "https://www.bilibili.com/video/$bilibiliId/"

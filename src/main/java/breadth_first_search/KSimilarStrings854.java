@@ -3,20 +3,20 @@ package breadth_first_search;
 import java.util.*;
 
 public class KSimilarStrings854 {
-    public int kSimilarity(String A, String B) {
+    public int kSimilarity(String a, String b) {
         final Set<String> visited = new HashSet<>();
         final Queue<String> queue = new LinkedList<>();
-        queue.offer(A);
-        visited.add(A);
+        queue.offer(a);
+        visited.add(a);
         int level = 0;
         while (!queue.isEmpty()) {
             final int currentSize = queue.size();
             for (int size = 0; size < currentSize; size++) {
                 final String current = queue.poll();
-                if (current.equals(B)) {
+                if (current.equals(b)) {
                     return level;
                 }
-                for (String next : getNexts(current, B)) {
+                for (String next : getNexts(current, b)) {
                     if (!visited.contains(next)) {
                         queue.offer(next);
                         visited.add(next);
