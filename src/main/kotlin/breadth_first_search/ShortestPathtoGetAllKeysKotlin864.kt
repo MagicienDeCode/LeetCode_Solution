@@ -5,7 +5,7 @@ import java.util.*
 class ShortestPathtoGetAllKeysKotlin864 {
     fun shortestPathAllKeys(grid: Array<String>): Int {
         val myGrid: List<CharArray> = grid.map { it.toCharArray() }
-        val keys = charArrayOf('a', 'b', 'c', 'd', 'e', 'f')
+        val keys = setOf('a', 'b', 'c', 'd', 'e', 'f')
         // get count, start x,y , endKey
         var count = 0
         var startX = 0
