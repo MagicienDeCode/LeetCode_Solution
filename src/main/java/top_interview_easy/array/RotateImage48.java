@@ -1,7 +1,6 @@
 package top_interview_easy.array;
 
 public class RotateImage48 {
-    // 先左上右下为轴 互换，再以中间竖着的轴 左右互换
     public void rotate(int[][] matrix) {
         int n = matrix.length;
 

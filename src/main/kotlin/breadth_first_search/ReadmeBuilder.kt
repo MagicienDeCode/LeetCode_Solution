@@ -2,17 +2,17 @@ package breadth_first_search
 
 fun main() {
     val lineNumber = 5
-    val title = "864. Shortest Path to Get All Keys"
-    val titleLink = "https://leetcode.com/problems/shortest-path-to-get-all-keys/"
-    val javaClassName = "ShortestPathtoGetAllKeys864"
-    val kotlinClassName = "ShortestPathtoGetAllKeysKotlin864"
+    val title = "909. Snakes and Ladders"
+    val titleLink = "https://leetcode.com/problems/snakes-and-ladders/"
+    val javaClassName = "SnakesandLadders909"
+    val kotlinClassName = "SnakesandLaddersKotlin909"
 
-    val level = "Hard"
-    // val level = "Medium"
+    // val level = "Hard"
+    val level = "Medium"
 
-    val youtubeId = "o9xyRi95A5k"
-    val bilibiliId = "BV1TV411z7KY"
-    val ixiguaId = "6856386912954319374"
+    val youtubeId = "0jI7dF6E3js"
+    val bilibiliId = "BV1jA411Y7Fk"
+    val ixiguaId = "6856851009801552392"
 
     val youtube = "https://www.youtube.com/watch?v=$youtubeId"
     val bilibili = "https://www.bilibili.com/video/$bilibiliId/"
