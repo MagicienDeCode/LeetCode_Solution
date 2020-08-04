@@ -2,8 +2,20 @@ package string_integer
 
 class PowerofFourKotlin342 {
     fun isPowerOfFour(num: Int): Boolean {
+        var current = num
+        if (current < 1) {
+            return false
+        }
+        while (current % 4 == 0) {
+            current /= 4
+        }
+        return current == 1
+    }
+    /*
+    fun isPowerOfFour(num: Int): Boolean {
         return num > 0 && (num.and(num - 1)) == 0 && (num.and(0x55555555)) != 0
     }
+     */
 
     /*
     private val set = setOf(

@@ -1,7 +1,17 @@
 package string_integer
 
 class PowerofTwoKotlin231 {
-
+    fun isPowerOfTwo(n: Int): Boolean {
+        var current = n
+        if (current < 1) {
+            return false
+        }
+        while (current % 2 == 0) {
+            current /= 2
+        }
+        return current == 1
+    }
+    /*
     companion object {
         val resultSet = setOf(
             1,
@@ -41,6 +51,7 @@ class PowerofTwoKotlin231 {
     fun isPowerOfTwo(n: Int): Boolean {
         return resultSet.contains(n)
     }
+     */
     /*
    fun isPowerOfTwo(n: Int): Boolean {
        if (n == 1) {
