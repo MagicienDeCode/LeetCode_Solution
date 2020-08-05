@@ -1,4 +1,4 @@
-package not_categorized;
+package binary_tree;
 
 public class ImplementTriePrefixTree208 {
     private final PrefixTree root = new PrefixTree();

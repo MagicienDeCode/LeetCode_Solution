@@ -1,4 +1,4 @@
-package not_categorized
+package binary_tree
 
 class ImplementTriePrefixTreeKotlin208 {
     /** Initialize your data structure here. */
