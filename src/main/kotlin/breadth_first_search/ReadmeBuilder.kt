@@ -2,17 +2,17 @@ package breadth_first_search
 
 fun main() {
     val lineNumber = 5
-    val title = "1091. Shortest Path in Binary Matrix"
-    val titleLink = "https://leetcode.com/problems/shortest-path-in-binary-matrix/"
-    val javaClassName = "ShortestPathinBinaryMatrix1091"
-    val kotlinClassName = "ShortestPathinBinaryMatrixKotlin1091"
+    val title = "1129. Shortest Path with Alternating Colors"
+    val titleLink = "https://leetcode.com/problems/shortest-path-with-alternating-colors/"
+    val javaClassName = "ShortestPathwithAlternatingColors1129"
+    val kotlinClassName = "ShortestPathwithAlternatingColorsKotlin1129"
 
     // val level = "Hard"
     val level = "Medium"
 
-    val youtubeId = "uaUGuGsogbk"
-    val bilibiliId = "BV1Fk4y1U7bU"
-    val ixiguaId = "6858692222892638734"
+    val youtubeId = "xX-fYibsrHI"
+    val bilibiliId = "BV1NA411e7Jg"
+    val ixiguaId = "6858927973685264909"
 
     val youtube = "https://www.youtube.com/watch?v=$youtubeId"
     val bilibili = "https://www.bilibili.com/video/$bilibiliId/"
