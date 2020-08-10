@@ -29,11 +29,12 @@
 |8|[62. Unique Paths & 63. Unique Paths II](https://leetcode.com/problems/unique-paths-ii/)|[Java](https://github.com/MagicienDeCode/LeetCode_Solution/blob/master/src/main/java/dynamic_programming/UniquePathsII63.java)|[Kotlin](https://github.com/MagicienDeCode/LeetCode_Solution/blob/master/src/main/kotlin/dynamic_programming/UniquePathsIIKotlin63.kt)|Medium|[Youtube](https://www.youtube.com/watch?v=yrTSoMBZFDo)|[bilibili](https://www.bilibili.com/video/BV1g54y1z7rJ/)|[ixigua](https://www.ixigua.com/i6843806657034584589/)|
 |9|[309. Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)|[Java](https://github.com/MagicienDeCode/LeetCode_Solution/blob/master/src/main/java/dynamic_programming/BestTimetoBuyandSellStockwithCooldown309.java)|[Kotlin](https://github.com/MagicienDeCode/LeetCode_Solution/blob/master/src/main/kotlin/dynamic_programming/BestTimetoBuyandSellStockwithCooldownKotlin309.kt)|Medium|[Youtube](https://www.youtube.com/watch?v=y8Rpo4R9nLs)|[bilibili](https://www.bilibili.com/video/BV1xV411z7Hy/)|[ixigua](https://www.ixigua.com/i6854867822091338244/)|
 
-- Sliding Window
+- Other
 
 | # | Title | Java | Kotlin | Difficulty | Youtube | bilibili | ixiagua |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |1|[438. Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/)|[Java](https://github.com/MagicienDeCode/LeetCode_Solution/blob/master/src/main/java/sliding_window/FindAllAnagramsinaString438.java)|[Kotlin](https://github.com/MagicienDeCode/LeetCode_Solution/blob/master/src/main/kotlin/sliding_window/FindAllAnagramsinaStringKotlin438.kt)|Medium|[Youtube](https://www.youtube.com/watch?v=Z3UJspzNQtU)|[bilibili](https://www.bilibili.com/video/BV16g4y1B7fe/)|[ixigua](https://www.ixigua.com/i6827840527480652300/)|
+|2|[168. Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/)|[Java](https://github.com/MagicienDeCode/LeetCode_Solution/blob/master/src/main/java/other/ExcelSheetColumnTitle168.java)|[Kotlin](https://github.com/MagicienDeCode/LeetCode_Solution/blob/master/src/main/kotlin/other/ExcelSheetColumnTitleKotlin168.kt)|Easy|[Youtube](https://www.youtube.com/watch?v=RW3Q6nW9JjM)|[bilibili](https://www.bilibili.com/video/BV18t4y1D7AQ/)|[ixigua](https://www.ixigua.com/i6859420847115862536/)|
 
 
 - Graph
