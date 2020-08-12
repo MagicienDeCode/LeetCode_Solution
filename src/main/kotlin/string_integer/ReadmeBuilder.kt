@@ -2,19 +2,19 @@ package string_integer
 
 fun main() {
     val lineNumber = 1
-    val title = "168. Excel Sheet Column Title"
-    val titleLink = "https://leetcode.com/problems/excel-sheet-column-title/"
-    val javaClassName = "ExcelSheetColumnTitle168"
-    val kotlinClassName = "ExcelSheetColumnTitleKotlin168"
-    val youtubeId = "RW3Q6nW9JjM"
-    val bilibiliId = "BV18t4y1D7AQ"
-    val ixiguaId = "6859420847115862536"
+    val title = "1319. Number of Operations to Make Network Connected"
+    val titleLink = "https://leetcode.com/problems/number-of-operations-to-make-network-connected/"
+    val javaClassName = "NumberofOperationstoMakeNetworkConnected1319"
+    val kotlinClassName = "NumberofOperationstoMakeNetworkConnectedKotlin1319"
+    val youtubeId = "Gc85w_Da38U"
+    val bilibiliId = "BV1Gf4y197S8"
+    val ixiguaId = "6860119866456670728"
 
     val youtube = "https://www.youtube.com/watch?v=$youtubeId"
     val bilibili = "https://www.bilibili.com/video/$bilibiliId/"
     val ixigua = "https://www.ixigua.com/i$ixiguaId/"
 
-    val pageName = "other"
+    val pageName = "string_integer"
 
     val javaLink =
         "https://github.com/MagicienDeCode/LeetCode_Solution/blob/master/src/main/java/$pageName/$javaClassName.java"
@@ -25,7 +25,7 @@ fun main() {
             |$lineNumber|[$title]($titleLink)
             |[Java]($javaLink)
             |[Kotlin]($kotlinLink)
-            |Easy
+            |Medium
             |[Youtube]($youtube)
             |[bilibili]($bilibili)
             |[ixigua]($ixigua)
