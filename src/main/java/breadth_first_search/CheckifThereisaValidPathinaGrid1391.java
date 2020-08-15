@@ -76,10 +76,10 @@ public class CheckifThereisaValidPathinaGrid1391 {
     private final int[] deltaX = {-1, 1, 0, 0};
     private final int[] deltaY = {0, 0, -1, 1};
 
-    private final int UP = 0;
-    private final int DOWN = 1;
-    private final int LEFT = 2;
-    private final int RIGHT = 3;
+    private static final int UP = 0;
+    private static final int DOWN = 1;
+    private static final int LEFT = 2;
+    private static final int RIGHT = 3;
 
     private final Map<Integer, Set<Integer>> map =
             Map.of(

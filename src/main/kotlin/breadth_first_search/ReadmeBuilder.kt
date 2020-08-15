@@ -2,17 +2,17 @@ package breadth_first_search
 
 fun main() {
     val lineNumber = 5
-    val title = "1391. Check if There is a Valid Path in a Grid"
-    val titleLink = "https://leetcode.com/problems/check-if-there-is-a-valid-path-in-a-grid/"
-    val javaClassName = "CheckifThereisaValidPathinaGrid1391"
-    val kotlinClassName = "CheckifThereisaValidPathinaGridKotlin1391"
+    val title = "1210. Minimum Moves to Reach Target with Rotations"
+    val titleLink = "https://leetcode.com/problems/minimum-moves-to-reach-target-with-rotations/"
+    val javaClassName = "MinimumMovestoReachTargetwithRotations1210"
+    val kotlinClassName = "MinimumMovestoReachTargetwithRotationsKotlin1210"
 
-    // val level = "Hard"
-    val level = "Medium"
+    val level = "Hard"
+    // val level = "Medium"
 
-    val youtubeId = "bd0Lowwg1R0"
-    val bilibiliId = "BV1bp4y1v7q7"
-    val ixiguaId = "6860492120038638094"
+    val youtubeId = "V1x6t9YhHPs"
+    val bilibiliId = "BV1sC4y187iy"
+    val ixiguaId = "6861199765158396423"
 
     val youtube = "https://www.youtube.com/watch?v=$youtubeId"
     val bilibili = "https://www.bilibili.com/video/$bilibiliId/"
