@@ -1,15 +1,15 @@
 package list_array;
 
 public class DistributeCandiestoPeople1103 {
-    public int[] distributeCandies(int candies, int num_people) {
-        final int[] resultArray = new int[num_people];
+    public int[] distributeCandies(int candies, int numPeople) {
+        final int[] resultArray = new int[numPeople];
         int index = 0;
         int given = 1;
         while (candies > 0) {
             if (candies - given >= 0) {
-                resultArray[index % num_people] += given;
+                resultArray[index % numPeople] += given;
             } else {
-                resultArray[index % num_people] += candies;
+                resultArray[index % numPeople] += candies;
             }
             candies -= given;
             ++index;
