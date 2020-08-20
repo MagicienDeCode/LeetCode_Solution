@@ -2,17 +2,17 @@ package breadth_first_search
 
 fun main() {
     val lineNumber = 5
-    val title = "1298. Maximum Candies You Can Get from Boxes"
-    val titleLink = "https://leetcode.com/problems/maximum-candies-you-can-get-from-boxes/"
-    val javaClassName = "MaximumCandiesYouCanGetfromBoxes1298"
-    val kotlinClassName = "MaximumCandiesYouCanGetfromBoxesKotlin1298"
+    val title = "1345. Jump Game IV"
+    val titleLink = "https://leetcode.com/problems/jump-game-iv/"
+    val javaClassName = "JumpGameIV1345"
+    val kotlinClassName = "JumpGameIVKotlin1345"
 
     val level = "Hard"
     // val level = "Medium"
 
-    val youtubeId = "2QCiAVD4LwU"
-    val bilibiliId = "BV1B54y1U7tX"
-    val ixiguaId = "6862712851807601166"
+    val youtubeId = "Q0j5FDSbRNQ"
+    val bilibiliId = "BV1rZ4y1K7Hp"
+    val ixiguaId = "6863079280818160141"
 
     val youtube = "https://www.youtube.com/watch?v=$youtubeId"
     val bilibili = "https://www.bilibili.com/video/$bilibiliId/"
