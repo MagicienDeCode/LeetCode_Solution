@@ -25,6 +25,12 @@
 |0|[All In One](https://github.com/MagicienDeCode/LeetCode_Solution/blob/master/src/BFS_ALL_IN_ONE.pdf)|[Youtube](https://www.youtube.com/watch?v=pAZrj2pJlO0)|[bilibili](https://www.bilibili.com/video/BV1Dh411d77f/)|[ixigua](https://www.ixigua.com/i6863856731831665159/)|
 
 
+- Tree
+
+| # | Title | Java | Kotlin | Difficulty | Youtube | bilibili | ixiagua |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|1|[208. Implement Trie (Prefix Tree)](https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid/)|[Java](https://github.com/MagicienDeCode/LeetCode_Solution/blob/master/src/main/java/tree/ImplementTriePrefixTree208.java)|[Kotlin](https://github.com/MagicienDeCode/LeetCode_Solution/blob/master/src/main/kotlin/tree/ImplementTriePrefixTreeKotlin208.kt)|Medium|[Youtube](https://www.youtube.com/watch?v=jn9HIItmDwA)|[bilibili](https://www.bilibili.com/video/BV1Vi4y1M7LL/)|[ixigua](https://www.ixigua.com/i6864209917532701198/)|
+
 - Dynamic Programming
 
 | # | Title | Java | Kotlin | Difficulty | Youtube | bilibili | ixiagua |
