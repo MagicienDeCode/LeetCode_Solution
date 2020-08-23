@@ -1,4 +1,4 @@
-package binary_tree
+package tree
 
 class ImplementTriePrefixTreeKotlin208 {
     /** Initialize your data structure here. */

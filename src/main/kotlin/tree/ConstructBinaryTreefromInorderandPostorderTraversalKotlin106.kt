@@ -1,4 +1,4 @@
-package binary_tree
+package tree
 
 class ConstructBinaryTreefromInorderandPostorderTraversalKotlin106 {
     fun buildTree(inorder: IntArray, postorder: IntArray): TreeNode? =

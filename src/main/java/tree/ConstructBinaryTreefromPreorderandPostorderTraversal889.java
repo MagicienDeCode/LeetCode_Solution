@@ -1,4 +1,4 @@
-package binary_tree;
+package tree;
 
 public class ConstructBinaryTreefromPreorderandPostorderTraversal889 {
     int rootIndex = 0;

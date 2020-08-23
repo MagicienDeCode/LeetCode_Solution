@@ -1,29 +1,29 @@
-package binary_tree;
+package tree;
 
-public class ConstructBinaryTreefromPreorderandInorderTraversal105 {
-    public TreeNode buildTree(int[] preorder, int[] inorder) {
+public class ConstructBinaryTreefromInorderandPostorderTraversal106 {
+    public TreeNode buildTree(int[] inorder, int[] postorder) {
         // inorder  left root right
-        // preorder root left right
+        // postorder left right root
         return construct(inorder,
                 0,
                 inorder.length - 1,
-                preorder,
+                postorder,
                 0,
-                preorder.length - 1
+                postorder.length - 1
         );
     }
 
     private TreeNode construct(int[] inorder,
                                int iStart,
                                int iEnd,
-                               int[] preorder,
+                               int[] postorder,
                                int pStart,
                                int pEnd
     ) {
         if (iStart > iEnd || pStart > pEnd) {
             return null;
         }
-        final TreeNode treeNode = new TreeNode(preorder[pStart]);
+        final TreeNode treeNode = new TreeNode(postorder[pEnd]);
         int index = iStart;
         while (iStart < inorder.length && inorder[index] != treeNode.val) {
             ++index;
@@ -32,16 +32,16 @@ public class ConstructBinaryTreefromPreorderandInorderTraversal105 {
                 construct(inorder,
                         iStart,
                         index - 1,
-                        preorder,
-                        pStart + 1,
-                        pStart + index - iStart);
+                        postorder,
+                        pStart,
+                        pStart + index - 1 - iStart);
         treeNode.right =
                 construct(inorder,
                         index + 1,
                         iEnd,
-                        preorder,
-                        pStart + index - iStart + 1,
-                        pEnd);
+                        postorder,
+                        pStart + index - iStart,
+                        pEnd - 1);
         return treeNode;
     }
 

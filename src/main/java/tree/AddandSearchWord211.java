@@ -1,4 +1,4 @@
-package binary_tree;
+package tree;
 
 public class AddandSearchWord211 {
     private final PrefixTree root = new PrefixTree();

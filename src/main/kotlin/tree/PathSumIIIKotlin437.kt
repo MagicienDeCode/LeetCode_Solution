@@ -1,4 +1,4 @@
-package binary_tree
+package tree
 
 class PathSumIIIKotlin437 {
     fun pathSum(root: TreeNode?, sum: Int): Int {

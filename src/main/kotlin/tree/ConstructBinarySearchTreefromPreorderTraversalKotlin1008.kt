@@ -1,4 +1,4 @@
-package binary_tree
+package tree
 
 class ConstructBinarySearchTreefromPreorderTraversalKotlin1008 {
     fun bstFromPreorder(preorder: IntArray): TreeNode? {

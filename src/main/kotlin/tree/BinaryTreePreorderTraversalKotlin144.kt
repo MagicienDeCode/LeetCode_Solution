@@ -1,42 +1,42 @@
-package binary_tree
+package tree
 
 import java.util.*
 
-class BinaryTreeInorderTraversalKotlin94 {
-    fun inorderTraversal(root: TreeNode?): List<Int> {
+class BinaryTreePreorderTraversalKotlin144 {
+    fun preorderTraversal(root: TreeNode?): List<Int> {
         val results: MutableList<Int> = LinkedList()
         val stack: Stack<TreeNode> = Stack()
         var current = root
         while (current != null || stack.isNotEmpty()) {
             while (current != null) {
+                results.add(current.`val`)
                 stack.push(current)
                 current = current.left
             }
             current = stack.pop()
-            results.add(current.`val`)
             current = current.right
         }
         return results
     }
     /*
-    fun inorderTraversal(root: TreeNode?): List<Int> {
+    fun preorderTraversal(root: TreeNode?): List<Int> {
         val results: MutableList<Int> = LinkedList()
         if (root == null) {
             return results
         }
 
-        val leftResults = inorderTraversal(root.left)
-        val rightResults = inorderTraversal(root.right)
+        val leftResults = preorderTraversal(root.left)
+        val rightResults = preorderTraversal(root.right)
 
-        results.addAll(leftResults)
         results.add(root.`val`)
+        results.addAll(leftResults)
         results.addAll(rightResults)
 
         return results
     }
      */
     /*
-    fun inorderTraversal(root: TreeNode?): List<Int> {
+    fun preorderTraversal(root: TreeNode?): List<Int> {
         val results: MutableList<Int> = LinkedList()
         leftRootRight(root,results)
         return results
@@ -46,8 +46,8 @@ class BinaryTreeInorderTraversalKotlin94 {
         if (root == null){
             return
         }
-        leftRootRight(root.left,results)
         results.add(root.`val`)
+        leftRootRight(root.left,results)
         leftRootRight(root.right,results)
     }
      */

@@ -1,4 +1,4 @@
-package binary_tree
+package tree
 
 import java.util.*
 

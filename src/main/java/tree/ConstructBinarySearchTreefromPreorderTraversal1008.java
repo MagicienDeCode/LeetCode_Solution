@@ -1,4 +1,4 @@
-package binary_tree;
+package tree;
 
 public class ConstructBinarySearchTreefromPreorderTraversal1008 {
     public TreeNode bstFromPreorder(int[] preorder) {

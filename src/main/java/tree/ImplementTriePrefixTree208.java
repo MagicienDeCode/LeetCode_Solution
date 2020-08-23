@@ -1,4 +1,4 @@
-package binary_tree;
+package tree;
 
 public class ImplementTriePrefixTree208 {
     private final PrefixTree root = new PrefixTree();

@@ -1,4 +1,4 @@
-package binary_tree
+package tree
 
 class AddandSearchWordKotlin211 {
     /** Initialize your data structure here. */

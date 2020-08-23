@@ -1,4 +1,4 @@
-package binary_tree
+package tree
 
 class ConstructBinaryTreefromPreorderandPostorderTraversalKotlin889 {
     var rootIndex = 0
