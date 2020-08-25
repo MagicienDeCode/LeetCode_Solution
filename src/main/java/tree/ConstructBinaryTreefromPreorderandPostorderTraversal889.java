@@ -1,27 +1,58 @@
 package tree;
 
 public class ConstructBinaryTreefromPreorderandPostorderTraversal889 {
-    int rootIndex = 0;
-
     public TreeNode constructFromPrePost(int[] pre, int[] post) {
-        rootIndex = 0;
-        return construct(pre, post, 0, pre.length - 1);
+        // preorder root left right
+        // postorder  left right root
+        return construct(pre,
+                0,
+                pre.length - 1,
+                post,
+                0,
+                post.length - 1
+        );
     }
 
-    private TreeNode construct(int[] pre, int[] post, int start, int end) {
-        if (start > end) {
+    private TreeNode construct(int[] preorder,
+                               int preStart,
+                               int preEnd,
+                               int[] postorder,
+                               int postStart,
+                               int postEnd
+    ) {
+        if (preStart > preEnd || postStart > postEnd) {
             return null;
         }
-        final TreeNode treeNode = new TreeNode(pre[rootIndex++]);
-        if (start == end) {
+        final TreeNode treeNode = new TreeNode(preorder[preStart]);
+        if (preStart == preEnd) {
             return treeNode;
         }
-        int index = start;
-        while (index < post.length && post[index] != pre[rootIndex]) {
-            ++index;
+        /*
+        preorder = 1 245 367
+        postorder = 452 673 1
+        root = 1
+        leftStartValue = 2
+        then just find the 2 in postorder
+         */
+        int indexInPost = postStart;
+        final int leftStartValue = preorder[preStart + 1];
+        while (indexInPost < preorder.length && postorder[indexInPost] != leftStartValue) {
+            ++indexInPost;
         }
-        treeNode.left = construct(pre, post, start, index);
-        treeNode.right = construct(pre, post, index + 1, end - 1);
+        treeNode.left =
+                construct(preorder,
+                        preStart + 1,
+                        preStart + 1 + indexInPost - postStart,
+                        postorder,
+                        postStart,
+                        indexInPost);
+        treeNode.right =
+                construct(preorder,
+                        preStart + 2 + indexInPost - postStart,
+                        preEnd,
+                        postorder,
+                        indexInPost + 1,
+                        postEnd - 1);
         return treeNode;
     }
 

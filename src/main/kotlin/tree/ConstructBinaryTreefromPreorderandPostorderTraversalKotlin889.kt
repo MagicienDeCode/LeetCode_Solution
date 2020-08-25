@@ -1,12 +1,13 @@
 package tree
 
 class ConstructBinaryTreefromPreorderandPostorderTraversalKotlin889 {
-    var rootIndex = 0
-
     fun constructFromPrePost(pre: IntArray, post: IntArray): TreeNode? {
-        rootIndex = 0
+        // preorder root left right
+        // postorder  left right root
         return construct(
             pre,
+            0,
+            pre.size - 1,
             post,
             0,
             post.size - 1
@@ -14,24 +15,48 @@ class ConstructBinaryTreefromPreorderandPostorderTraversalKotlin889 {
     }
 
     private fun construct(
-        pre: IntArray,
-        post: IntArray,
-        pStart: Int,
-        pEnd: Int
+        preorder: IntArray,
+        preStart: Int,
+        preEnd: Int,
+        postorder: IntArray,
+        postStart: Int,
+        postEnd: Int
     ): TreeNode? {
-        if (pStart > pEnd) {
+        if (preStart > preEnd || postStart > postEnd) {
             return null
         }
-        val treeNode = TreeNode(pre[rootIndex++])
-        if (pStart == pEnd) {
+        val treeNode = TreeNode(preorder[preStart])
+        if (preStart == preEnd) {
             return treeNode
         }
-        var index = pStart
-        while (index < post.size && post[index] != pre[rootIndex]) {
-            ++index
+        /*
+        preorder = 1 245 367
+        postorder = 452 673 1
+        root = 1
+        leftStartValue = 2
+        then just find the 2 in postorder
+         */
+        var indexInPost = postStart
+        val leftStartValue = preorder[preStart + 1]
+        while (indexInPost < preorder.size && postorder[indexInPost] != leftStartValue) {
+            ++indexInPost
         }
-        treeNode.left = construct(pre, post, pStart, index)
-        treeNode.right = construct(pre, post, index + 1, pEnd - 1)
+        treeNode.left = construct(
+            preorder,
+            preStart + 1,
+            preStart + 1 + indexInPost - postStart,
+            postorder,
+            postStart,
+            indexInPost
+        )
+        treeNode.right = construct(
+            preorder,
+            preStart + 2 + indexInPost - postStart,
+            preEnd,
+            postorder,
+            indexInPost + 1,
+            postEnd - 1
+        )
         return treeNode
     }
 
