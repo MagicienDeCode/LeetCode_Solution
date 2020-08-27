@@ -3,12 +3,25 @@ package binary_search;
 import java.util.Arrays;
 
 public class FindRightInterval436 {
+    /*
+       The main idea is to keep the reference of minOf(interval[0])
+       1.for example, we have [[5,7],[2,5],[1,2]], result is [-1,0,1]
+       the minOfStartPoint is 1,
+       the maxOfEndPoint is 7
+       2.now we keep an array size (7-1+1) with default value [-1,-1,-1,-1,-1,-1,-1]
+       3.calculate the diff then set the index [2,1,-1,-1,0,-1,-1]
+       4.fill the array [2,1,0,0,0,-1,-1]
+       5. return the result,
+       for [5,7], result is array[7-1] = -1
+       for [2,5], result is array[5-1] =  0
+       for [1,2], result is array[2-1] =  1
+     */
     public int[] findRightInterval(int[][] intervals) {
         int max = Integer.MIN_VALUE;
         int min = Integer.MAX_VALUE;
         // O(n) find the smallest start point and the max of end point
         for (int[] ints : intervals) {
-            max = Math.max(max, ints[ints.length - 1]);
+            max = Math.max(max, ints[1]);
             min = Math.min(min, ints[0]);
         }
         final int minOfStartPoint = min;
@@ -27,7 +40,7 @@ public class FindRightInterval436 {
         }
         // O(n)
         return Arrays.stream(intervals).mapToInt(ints ->
-                rangeArrayOfIndex[ints[ints.length - 1] - minOfStartPoint]
+                rangeArrayOfIndex[ints[1] - minOfStartPoint]
         ).toArray();
     }
     /*
