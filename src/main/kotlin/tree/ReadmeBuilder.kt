@@ -2,17 +2,18 @@ package tree
 
 fun main() {
     val lineNumber = 1
-    val title = "889. Construct Binary Tree from Preorder and Postorder Traversal"
-    val titleLink = "https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/"
-    val javaClassName = "ConstructBinaryTreefromPreorderandPostorderTraversal889"
-    val kotlinClassName = "ConstructBinaryTreefromPreorderandPostorderTraversalKotlin889"
+    val title = "110. Balanced Binary Tree"
+    val titleLink = "https://leetcode.com/problems/balanced-binary-tree/"
+    val javaClassName = "BalancedBinaryTree110"
+    val kotlinClassName = "BalancedBinaryTreeKotlin110"
 
     // val level = "Hard"
-    val level = "Medium"
+    // val level = "Medium"
+    val level = "Easy"
 
-    val youtubeId = "W5EO9d18iWk"
-    val bilibiliId = "BV1MZ4y1T7Ps"
-    val ixiguaId = "6864895371974279693"
+    val youtubeId = "M3ttEKgz0H4"
+    val bilibiliId = "BV1AK411K7U6"
+    val ixiguaId = "6866056842901094926"
 
     val youtube = "https://www.youtube.com/watch?v=$youtubeId"
     val bilibili = "https://www.bilibili.com/video/$bilibiliId/"
