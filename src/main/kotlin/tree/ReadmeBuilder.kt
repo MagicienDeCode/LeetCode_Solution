@@ -2,18 +2,18 @@ package tree
 
 fun main() {
     val lineNumber = 1
-    val title = "110. Balanced Binary Tree"
-    val titleLink = "https://leetcode.com/problems/balanced-binary-tree/"
-    val javaClassName = "BalancedBinaryTree110"
-    val kotlinClassName = "BalancedBinaryTreeKotlin110"
+    val title = "98. Validate Binary Search Tree"
+    val titleLink = "https://leetcode.com/problems/validate-binary-search-tree/"
+    val javaClassName = "ValidateBinarySearchTree98"
+    val kotlinClassName = "ValidateBinarySearchTreeKotlin98"
 
     // val level = "Hard"
-    // val level = "Medium"
-    val level = "Easy"
+    val level = "Medium"
+    // val level = "Easy"
 
-    val youtubeId = "M3ttEKgz0H4"
-    val bilibiliId = "BV1AK411K7U6"
-    val ixiguaId = "6866056842901094926"
+    val youtubeId = "gNNnCdSIHI4"
+    val bilibiliId = "BV1my4y1C7oM"
+    val ixiguaId = "6866463356945957384"
 
     val youtube = "https://www.youtube.com/watch?v=$youtubeId"
     val bilibili = "https://www.bilibili.com/video/$bilibiliId/"
