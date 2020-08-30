@@ -24,7 +24,7 @@ class BinaryTreeInorderTraversal94 {
     /*
     public List<Integer> inorderTraversal(TreeNode root) {
         final List<Integer> results = new LinkedList<>();
-        Stack<TreeNode> stack = new Stack<>();
+        final Stack<TreeNode> stack = new Stack<>();
         TreeNode current = root;
         while (current != null || !stack.isEmpty()) {
             while (current != null) {
