@@ -2,18 +2,18 @@ package tree
 
 fun main() {
     val lineNumber = 1
-    val title = "99. Recover Binary Search Tree"
-    val titleLink = "https://leetcode.com/problems/recover-binary-search-tree/"
-    val javaClassName = "RecoverBinarySearchTree99"
-    val kotlinClassName = "RecoverBinarySearchTreeKotlin99"
+    val title = "450. Delete Node in a BST"
+    val titleLink = "https://leetcode.com/problems/delete-node-in-a-bst/"
+    val javaClassName = "DeleteNodeinaBST450"
+    val kotlinClassName = "DeleteNodeinaBSTKotlin450"
 
-    val level = "Hard"
-    // val level = "Medium"
+    // val level = "Hard"
+    val level = "Medium"
     // val level = "Easy"
 
-    val youtubeId = "WXsfmPYSow8"
-    val bilibiliId = "BV1zp4y1Y7pN"
-    val ixiguaId = "6866832639144231432"
+    val youtubeId = "RSqI6TNHxaw"
+    val bilibiliId = "BV1zh41197uL"
+    val ixiguaId = "6867175640060133895"
 
     val youtube = "https://www.youtube.com/watch?v=$youtubeId"
     val bilibili = "https://www.bilibili.com/video/$bilibiliId/"
