@@ -1,28 +1,28 @@
-package tree
+package top_interview_easy.array
 
 fun main() {
     val lineNumber = 1
     val title = "113. Path Sum II"
     val titleLink = "https://leetcode.com/problems/path-sum-ii/"
-    val javaClassName = "PathSumII113"
-    val kotlinClassName = "PathSumIIKotlin113"
+    val javaClassName = "DeleteNodeinaBST450"
+    val kotlinClassName = "DeleteNodeinaBSTKotlin450"
 
     // val level = "Hard"
     val level = "Medium"
     // val level = "Easy"
 
-    val youtubeId = "bi0e4gHei7s"
-    val bilibiliId = "BV1NA411H7y2"
-    val ixiguaId = "6867970430674665992"
+    val youtubeId = "RSqI6TNHxaw"
+    val bilibiliId = "BV1zh41197uL"
+    val ixiguaId = "6867175640060133895"
 
     val youtube = "https://www.youtube.com/watch?v=$youtubeId"
     val bilibili = "https://www.bilibili.com/video/$bilibiliId/"
     val ixigua = "https://www.ixigua.com/i$ixiguaId/"
 
     val javaLink =
-        "https://github.com/MagicienDeCode/LeetCode_Solution/blob/master/src/main/java/tree/$javaClassName.java"
+        "https://github.com/MagicienDeCode/LeetCode_Solution/blob/master/src/main/java/top_interview_easy/array/$javaClassName.java"
     val kotlinLink =
-        "https://github.com/MagicienDeCode/LeetCode_Solution/blob/master/src/main/kotlin/tree/$kotlinClassName.kt"
+        "https://github.com/MagicienDeCode/LeetCode_Solution/blob/master/src/main/kotlin/top_interview_easy/array/$kotlinClassName.kt"
 
     val result = """
             |$lineNumber|[$title]($titleLink)
