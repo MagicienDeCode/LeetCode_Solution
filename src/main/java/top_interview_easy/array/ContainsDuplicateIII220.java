@@ -27,6 +27,6 @@ public class ContainsDuplicateIII220 {
         // true
         System.out.println(java.containsNearbyAlmostDuplicate(new int[]{1, 2, 3, 1}, 3, 0));
         // true
-        System.out.println(java.containsNearbyAlmostDuplicate(new int[]{1,0,1,1}, 1, 2));
+        System.out.println(java.containsNearbyAlmostDuplicate(new int[]{1, 0, 1, 1}, 1, 2));
     }
 }
