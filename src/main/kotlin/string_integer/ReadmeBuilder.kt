@@ -2,13 +2,14 @@ package string_integer
 
 fun main() {
     val lineNumber = 1
-    val title = "46. Permutations"
-    val titleLink = "https://leetcode.com/problems/permutations/"
-    val javaClassName = "PermutationsKotlin46"
-    val kotlinClassName = "Permutations46"
-    val youtubeId = "B7Pd0oPbQac"
-    val bilibiliId = "BV1DT4y1L7WN"
-    val ixiguaId = "6867622952582513166"
+    val title = "47. Permutations II"
+    val titleLink = "https://leetcode.com/problems/permutations-ii/"
+    val javaClassName = "PermutationsII47"
+    val kotlinClassName = "PermutationsIIKotlin47"
+
+    val youtubeId = "iDmnH7pmZRE"
+    val bilibiliId = "BV1eD4y1m7Nj"
+    val ixiguaId = "6868291736444076552"
 
     val youtube = "https://www.youtube.com/watch?v=$youtubeId"
     val bilibili = "https://www.bilibili.com/video/$bilibiliId/"
