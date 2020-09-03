@@ -2,18 +2,18 @@ package tree
 
 fun main() {
     val lineNumber = 1
-    val title = "113. Path Sum II"
-    val titleLink = "https://leetcode.com/problems/path-sum-ii/"
-    val javaClassName = "PathSumII113"
-    val kotlinClassName = "PathSumIIKotlin113"
+    val title = "116. Populating Next Right Pointers in Each Node"
+    val titleLink = "https://leetcode.com/problems/populating-next-right-pointers-in-each-node/"
+    val javaClassName = "PopulatingNextRightPointersinEachNode116"
+    val kotlinClassName = "PopulatingNextRightPointersinEachNodeKotlin116"
 
     // val level = "Hard"
     val level = "Medium"
     // val level = "Easy"
 
-    val youtubeId = "bi0e4gHei7s"
-    val bilibiliId = "BV1NA411H7y2"
-    val ixiguaId = "6867970430674665992"
+    val youtubeId = "Mu7xTgqG-Dg"
+    val bilibiliId = "BV1QZ4y1P7mY"
+    val ixiguaId = "6868376105816949261"
 
     val youtube = "https://www.youtube.com/watch?v=$youtubeId"
     val bilibili = "https://www.bilibili.com/video/$bilibiliId/"
