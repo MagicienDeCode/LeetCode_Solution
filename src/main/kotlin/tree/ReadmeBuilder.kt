@@ -2,18 +2,18 @@ package tree
 
 fun main() {
     val lineNumber = 1
-    val title = "124. Binary Tree Maximum Path Sum"
-    val titleLink = "https://leetcode.com/problems/binary-tree-maximum-path-sum/"
-    val javaClassName = "BinaryTreeMaximumPathSum124"
-    val kotlinClassName = "BinaryTreeMaximumPathSumKotlin124"
+    val title = "297. Serialize and Deserialize Binary Tree"
+    val titleLink = "https://leetcode.com/problems/serialize-and-deserialize-binary-tree/"
+    val javaClassName = "SerializeandDeserializeBinaryTree297"
+    val kotlinClassName = "SerializeandDeserializeBinaryTreeKotlin297"
 
     val level = "Hard"
     // val level = "Medium"
     // val level = "Easy"
 
-    val youtubeId = "K85ffarPFE"
-    val bilibiliId = "BV1zA411n7jS"
-    val ixiguaId = "6868764531133252110"
+    val youtubeId = "YaIgb0mE17U"
+    val bilibiliId = "BV1Qh411R7M3"
+    val ixiguaId = "6869502485376008717"
 
     val youtube = "https://www.youtube.com/watch?v=$youtubeId"
     val bilibili = "https://www.bilibili.com/video/$bilibiliId/"
