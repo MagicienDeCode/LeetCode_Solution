@@ -2,14 +2,14 @@ package depth_first_search
 
 fun main() {
     val lineNumber = 2
-    val title = "1519. Number of Nodes in the Sub-Tree With the Same Label"
-    val titleLink = "https://leetcode.com/problems/number-of-nodes-in-the-sub-tree-with-the-same-label/"
-    val javaClassName = "NumberofNodesintheSubTreeWiththeSameLabel1519"
-    val kotlinClassName = "NumberofNodesintheSubTreeWiththeSameLabelKotlin1519"
+    val title = "216. Combination Sum III"
+    val titleLink = "https://leetcode.com/problems/combination-sum-iii/"
+    val javaClassName = "CombinationSumIII216"
+    val kotlinClassName = "CombinationSumIIIKotlin216"
 
-    val youtubeId = "JLmn3SBJim0"
-    val bilibiliId = "BV1za4y1J7Gy"
-    val ixiguaId = "6860867661505495559"
+    val youtubeId = "A6ePeuWJ3RM"
+    val bilibiliId = "BV1pV411m7u8"
+    val ixiguaId = "6871637572901143054"
 
     val youtube = "https://www.youtube.com/watch?v=$youtubeId"
     val bilibili = "https://www.bilibili.com/video/$bilibiliId/"
