@@ -2,14 +2,14 @@ package string_integer
 
 fun main() {
     val lineNumber = 1
-    val title = "47. Permutations II"
-    val titleLink = "https://leetcode.com/problems/permutations-ii/"
-    val javaClassName = "PermutationsII47"
-    val kotlinClassName = "PermutationsIIKotlin47"
+    val title = "58. Length of Last Word"
+    val titleLink = "https://leetcode.com/problems/length-of-last-word/"
+    val javaClassName = "LengthofLastWord58"
+    val kotlinClassName = "LengthofLastWordKotlin58"
 
-    val youtubeId = "iDmnH7pmZRE"
-    val bilibiliId = "BV1eD4y1m7Nj"
-    val ixiguaId = "6868291736444076552"
+    val youtubeId = "oYhh_Bo_CmI"
+    val bilibiliId = "BV1RA411E7Pn"
+    val ixiguaId = "6872728171784241671"
 
     val youtube = "https://www.youtube.com/watch?v=$youtubeId"
     val bilibili = "https://www.bilibili.com/video/$bilibiliId/"
@@ -26,7 +26,7 @@ fun main() {
             |$lineNumber|[$title]($titleLink)
             |[Java]($javaLink)
             |[Kotlin]($kotlinLink)
-            |Medium
+            |Easy
             |[Youtube]($youtube)
             |[bilibili]($bilibili)
             |[ixigua]($ixigua)
