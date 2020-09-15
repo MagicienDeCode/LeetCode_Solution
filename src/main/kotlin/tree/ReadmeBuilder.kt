@@ -2,18 +2,18 @@ package tree
 
 fun main() {
     val lineNumber = 1
-    val title = "337. House Robber III"
-    val titleLink = "https://leetcode.com/problems/house-robber-iii/"
-    val javaClassName = "HouseRobberIII337"
-    val kotlinClassName = "HouseRobberIIIKotlin337"
+    val title = "501. Find Mode in Binary Search Tree"
+    val titleLink = "https://leetcode.com/problems/find-mode-in-binary-search-tree/"
+    val javaClassName = "FindModeinBinarySearchTree501"
+    val kotlinClassName = "FindModeinBinarySearchTreeKotlin501"
 
     // val level = "Hard"
     val level = "Medium"
     // val level = "Easy"
 
-    val youtubeId = "BZpprVA2YQQ"
-    val bilibiliId = "BV1by4y1y7aj"
-    val ixiguaId = "6870550333106422280"
+    val youtubeId = "hrJFa0sNP_Q"
+    val bilibiliId = "BV1dV41127BH"
+    val ixiguaId = "6872851053725876749"
 
     val youtube = "https://www.youtube.com/watch?v=$youtubeId"
     val bilibili = "https://www.bilibili.com/video/$bilibiliId/"
