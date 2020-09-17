@@ -3,6 +3,15 @@ package string_integer
 import java.util.*
 
 class RemoveKDigitsKotlin402 {
+    /*
+    1432219 k=3 1219
+    14
+    13
+    12
+    122
+    121
+    1219
+     */
     fun removeKdigits(num: String, k: Int): String {
         if (num.length == k) {
             return "0"

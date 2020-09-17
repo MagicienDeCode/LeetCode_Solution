@@ -2,18 +2,18 @@ package tree
 
 fun main() {
     val lineNumber = 1
-    val title = "501. Find Mode in Binary Search Tree"
-    val titleLink = "https://leetcode.com/problems/find-mode-in-binary-search-tree/"
-    val javaClassName = "FindModeinBinarySearchTree501"
-    val kotlinClassName = "FindModeinBinarySearchTreeKotlin501"
+    val title = "530. Minimum Absolute Difference in BST"
+    val titleLink = "https://leetcode.com/problems/minimum-absolute-difference-in-bst/"
+    val javaClassName = "MinimumAbsoluteDifferenceinBST530"
+    val kotlinClassName = "MinimumAbsoluteDifferenceinBSTKotlin530"
 
     // val level = "Hard"
     val level = "Medium"
     // val level = "Easy"
 
-    val youtubeId = "hrJFa0sNP_Q"
-    val bilibiliId = "BV1dV41127BH"
-    val ixiguaId = "6872851053725876749"
+    val youtubeId = "UhVFquuyceA"
+    val bilibiliId = "BV13T4y1A7TZ"
+    val ixiguaId = "6873434852750950919"
 
     val youtube = "https://www.youtube.com/watch?v=$youtubeId"
     val bilibili = "https://www.bilibili.com/video/$bilibiliId/"
