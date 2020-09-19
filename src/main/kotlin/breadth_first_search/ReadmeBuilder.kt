@@ -2,17 +2,17 @@ package breadth_first_search
 
 fun main() {
     val lineNumber = 5
-    val title = "1368. Minimum Cost to Make at Least One Valid Path in a Grid"
-    val titleLink = "https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid/"
-    val javaClassName = "MinimumCosttoMakeatLeastOneValidPathinaGrid1368"
-    val kotlinClassName = "MinimumCosttoMakeatLeastOneValidPathinaGridKotlin1368"
+    val title = "1291. Sequential Digits"
+    val titleLink = "https://leetcode.com/problems/sequential-digits/"
+    val javaClassName = "SequentialDigits1291"
+    val kotlinClassName = "SequentialDigitsKotlin1291"
 
-    val level = "Hard"
-    // val level = "Medium"
+    // val level = "Hard"
+    val level = "Medium"
 
-    val youtubeId = "akG-RWBnExw"
-    val bilibiliId = "BV1xV411U7Cm"
-    val ixiguaId = "6863434273815429645"
+    val youtubeId = "dOwfDLcaGBo"
+    val bilibiliId = "BV1eT4y1A7DN"
+    val ixiguaId = "6874239151462416909"
 
     val youtube = "https://www.youtube.com/watch?v=$youtubeId"
     val bilibili = "https://www.bilibili.com/video/$bilibiliId/"
