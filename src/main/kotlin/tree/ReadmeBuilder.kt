@@ -2,18 +2,18 @@ package tree
 
 fun main() {
     val lineNumber = 1
-    val title = "530. Minimum Absolute Difference in BST"
-    val titleLink = "https://leetcode.com/problems/minimum-absolute-difference-in-bst/"
-    val javaClassName = "MinimumAbsoluteDifferenceinBST530"
-    val kotlinClassName = "MinimumAbsoluteDifferenceinBSTKotlin530"
+    val title = "543. Diameter of Binary Tree"
+    val titleLink = "https://leetcode.com/problems/diameter-of-binary-tree/"
+    val javaClassName = "DiameterofBinaryTree543"
+    val kotlinClassName = "DiameterofBinaryTreeKotlin543"
 
     // val level = "Hard"
-    val level = "Medium"
-    // val level = "Easy"
+    // val level = "Medium"
+    val level = "Easy"
 
-    val youtubeId = "UhVFquuyceA"
-    val bilibiliId = "BV13T4y1A7TZ"
-    val ixiguaId = "6873434852750950919"
+    val youtubeId = "2VOaSFJB6sU"
+    val bilibiliId = "BV1dA411E7aK"
+    val ixiguaId = "6874680289419854343"
 
     val youtube = "https://www.youtube.com/watch?v=$youtubeId"
     val bilibili = "https://www.bilibili.com/video/$bilibiliId/"
