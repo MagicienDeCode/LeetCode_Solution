@@ -1,4 +1,4 @@
-package not_categorized_easy;
+package tree;
 
 
 public class SameTree100 {

@@ -1,4 +1,4 @@
-package not_categorized_easy
+package tree
 
 class SameTreeKotlin100 {
     fun isSameTree(p: TreeNode?, q: TreeNode?): Boolean = when {

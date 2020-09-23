@@ -2,18 +2,18 @@ package tree
 
 fun main() {
     val lineNumber = 1
-    val title = "543. Diameter of Binary Tree"
-    val titleLink = "https://leetcode.com/problems/diameter-of-binary-tree/"
-    val javaClassName = "DiameterofBinaryTree543"
-    val kotlinClassName = "DiameterofBinaryTreeKotlin543"
+    val title = "623. Add One Row to Tree"
+    val titleLink = "https://leetcode.com/problems/add-one-row-to-tree/"
+    val javaClassName = "AddOneRowtoTree623"
+    val kotlinClassName = "AddOneRowtoTreeKotlin623"
 
     // val level = "Hard"
-    // val level = "Medium"
-    val level = "Easy"
+    val level = "Medium"
+    // val level = "Easy"
 
-    val youtubeId = "2VOaSFJB6sU"
-    val bilibiliId = "BV1dA411E7aK"
-    val ixiguaId = "6874680289419854343"
+    val youtubeId = "NLJsy4CaEYE"
+    val bilibiliId = "BV1tt4y1q73A"
+    val ixiguaId = "6875720610094252558"
 
     val youtube = "https://www.youtube.com/watch?v=$youtubeId"
     val bilibili = "https://www.bilibili.com/video/$bilibiliId/"
