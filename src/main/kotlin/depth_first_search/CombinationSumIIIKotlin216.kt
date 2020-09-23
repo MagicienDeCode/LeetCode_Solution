@@ -14,11 +14,11 @@ class CombinationSumIIIKotlin216 {
     }
 
     private fun dfs(
-            k: Int,
-            remain: Int,
-            start: Int,
-            subsets: MutableList<Int>,
-            results: MutableList<List<Int>>
+        k: Int,
+        remain: Int,
+        start: Int,
+        subsets: MutableList<Int>,
+        results: MutableList<List<Int>>
     ) {
         if (remain == 0 && k == subsets.size) {
             results.add(ArrayList(subsets))
