@@ -2,18 +2,18 @@ package tree
 
 fun main() {
     val lineNumber = 1
-    val title = "652. Find Duplicate Subtrees"
-    val titleLink = "https://leetcode.com/problems/find-duplicate-subtrees/"
-    val javaClassName = "FindDuplicateSubtrees652"
-    val kotlinClassName = "FindDuplicateSubtreesKotlin652"
+    val title = "653. Two Sum IV - Input is a BST"
+    val titleLink = "https://leetcode.com/problems/two-sum-iv-input-is-a-bst/"
+    val javaClassName = "TwoSumIVInputisaBST653"
+    val kotlinClassName = "TwoSumIVInputisaBSTKotlin653"
 
     // val level = "Hard"
-    val level = "Medium"
-    // val level = "Easy"
+    // val level = "Medium"
+    val level = "Easy"
 
-    val youtubeId = "3cZHaDIZtPw"
-    val bilibiliId = "BV1rp4y1e7Hh"
-    val ixiguaId = "6876081015186522632"
+    val youtubeId = "px6vhES1zo8"
+    val bilibiliId = "BV1vf4y1D7e1"
+    val ixiguaId = "6876172243903185422"
 
     val youtube = "https://www.youtube.com/watch?v=$youtubeId"
     val bilibili = "https://www.bilibili.com/video/$bilibiliId/"
