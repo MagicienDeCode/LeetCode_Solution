@@ -2,18 +2,18 @@ package tree
 
 fun main() {
     val lineNumber = 1
-    val title = "623. Add One Row to Tree"
-    val titleLink = "https://leetcode.com/problems/add-one-row-to-tree/"
-    val javaClassName = "AddOneRowtoTree623"
-    val kotlinClassName = "AddOneRowtoTreeKotlin623"
+    val title = "652. Find Duplicate Subtrees"
+    val titleLink = "https://leetcode.com/problems/find-duplicate-subtrees/"
+    val javaClassName = "FindDuplicateSubtrees652"
+    val kotlinClassName = "FindDuplicateSubtreesKotlin652"
 
     // val level = "Hard"
     val level = "Medium"
     // val level = "Easy"
 
-    val youtubeId = "NLJsy4CaEYE"
-    val bilibiliId = "BV1tt4y1q73A"
-    val ixiguaId = "6875720610094252558"
+    val youtubeId = "3cZHaDIZtPw"
+    val bilibiliId = "BV1rp4y1e7Hh"
+    val ixiguaId = "6876081015186522632"
 
     val youtube = "https://www.youtube.com/watch?v=$youtubeId"
     val bilibili = "https://www.bilibili.com/video/$bilibiliId/"
