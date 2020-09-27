@@ -1,14 +1,14 @@
 package graph
 
 fun main() {
-    val lineNumber = 4
-    val title = "787. Cheapest Flights Within K Stops"
-    val titleLink = "https://leetcode.com/problems/cheapest-flights-within-k-stops/"
-    val javaClassName = "CheapestFlightsWithinKStops787"
-    val kotlinClassName = "CheapestFlightsWithinKStopsKotlin787"
-    val youtubeId = "VAl5YDmBSAE"
-    val bilibiliId = "BV1KT4y1J7Gm"
-    val ixiguaId = "6838257663445303819"
+    val lineNumber = 5
+    val title = "399. Evaluate Division"
+    val titleLink = "https://leetcode.com/problems/evaluate-division/"
+    val javaClassName = "EvaluateDivision399"
+    val kotlinClassName = "EvaluateDivisionKotlin399"
+    val youtubeId = "1HKYTyRKoec"
+    val bilibiliId = "BV1bK411P7KW"
+    val ixiguaId = "6877205563176911368"
 
     val youtube = "https://www.youtube.com/watch?v=$youtubeId"
     val bilibili = "https://www.bilibili.com/video/$bilibiliId/"
