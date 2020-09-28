@@ -2,14 +2,14 @@ package string_integer
 
 fun main() {
     val lineNumber = 1
-    val title = "58. Length of Last Word"
-    val titleLink = "https://leetcode.com/problems/length-of-last-word/"
-    val javaClassName = "LengthofLastWord58"
-    val kotlinClassName = "LengthofLastWordKotlin58"
+    val title = "495. Teemo Attacking"
+    val titleLink = "https://leetcode.com/problems/teemo-attacking/"
+    val javaClassName = "TeemoAttacking495"
+    val kotlinClassName = "TeemoAttackingKotlin495"
 
-    val youtubeId = "oYhh_Bo_CmI"
-    val bilibiliId = "BV1RA411E7Pn"
-    val ixiguaId = "6872728171784241671"
+    val youtubeId = "hVNgxF4cv6c"
+    val bilibiliId = "BV1mk4y1k7yA"
+    val ixiguaId = "6877593990666027534"
 
     val youtube = "https://www.youtube.com/watch?v=$youtubeId"
     val bilibili = "https://www.bilibili.com/video/$bilibiliId/"
