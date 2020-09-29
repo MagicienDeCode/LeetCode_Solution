@@ -2,18 +2,18 @@ package tree
 
 fun main() {
     val lineNumber = 1
-    val title = "653. Two Sum IV - Input is a BST"
-    val titleLink = "https://leetcode.com/problems/two-sum-iv-input-is-a-bst/"
-    val javaClassName = "TwoSumIVInputisaBST653"
-    val kotlinClassName = "TwoSumIVInputisaBSTKotlin653"
+    val title = "655. Print Binary Tree"
+    val titleLink = "https://leetcode.com/problems/print-binary-tree/"
+    val javaClassName = "PrintBinaryTree655"
+    val kotlinClassName = "PrintBinaryTreeKotlin655"
 
     // val level = "Hard"
-    // val level = "Medium"
-    val level = "Easy"
+    val level = "Medium"
+    // val level = "Easy"
 
-    val youtubeId = "px6vhES1zo8"
-    val bilibiliId = "BV1vf4y1D7e1"
-    val ixiguaId = "6876172243903185422"
+    val youtubeId = "N-oE9nGUUlw"
+    val bilibiliId = "BV1zZ4y157uV"
+    val ixiguaId = "6877958242199142919"
 
     val youtube = "https://www.youtube.com/watch?v=$youtubeId"
     val bilibili = "https://www.bilibili.com/video/$bilibiliId/"
