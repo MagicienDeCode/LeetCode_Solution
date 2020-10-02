@@ -2,18 +2,18 @@ package tree
 
 fun main() {
     val lineNumber = 1
-    val title = "655. Print Binary Tree"
-    val titleLink = "https://leetcode.com/problems/print-binary-tree/"
-    val javaClassName = "PrintBinaryTree655"
-    val kotlinClassName = "PrintBinaryTreeKotlin655"
+    val title = "684. Redundant Connection"
+    val titleLink = "https://leetcode.com/problems/redundant-connection/"
+    val javaClassName = "RedundantConnection684"
+    val kotlinClassName = "RedundantConnectionKotlin684"
 
     // val level = "Hard"
     val level = "Medium"
     // val level = "Easy"
 
-    val youtubeId = "N-oE9nGUUlw"
-    val bilibiliId = "BV1zZ4y157uV"
-    val ixiguaId = "6877958242199142919"
+    val youtubeId = "Co6zscZV6iA"
+    val bilibiliId = "BV1eK4y187e3"
+    val ixiguaId = "6879017205132952071"
 
     val youtube = "https://www.youtube.com/watch?v=$youtubeId"
     val bilibili = "https://www.bilibili.com/video/$bilibiliId/"

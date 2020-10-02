@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.LinkedList;
 import java.util.List;
 
-public class PathSumIIKotlin113 {
+class PathSumII113 {
     public List<List<Integer>> pathSum(TreeNode root, int sum) {
         final List<List<Integer>> results = new LinkedList<>();
         final List<Integer> subsets = new LinkedList<>();
