@@ -5,8 +5,8 @@ public class PathSumIII437 {
         if (root == null) {
             return 0;
         }
-        return dfs(root, sum, 0) +
-                pathSum(root.right, sum) +
+        return dfs(root, sum, 0) +  // the path go through the root
+                pathSum(root.right, sum) +  // recursion for left subtrees
                 pathSum(root.left, sum);
     }
 
