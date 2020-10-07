@@ -2,18 +2,18 @@ package tree
 
 fun main() {
     val lineNumber = 1
-    val title = "701. Insert into a Binary Search Tree"
-    val titleLink = "https://leetcode.com/problems/insert-into-a-binary-search-tree/"
-    val javaClassName = "InsertintoaBinarySearchTree701"
-    val kotlinClassName = "InsertintoaBinarySearchTreeKotlin701"
+    val title = "589. N-ary Tree Preorder Traversal"
+    val titleLink = "https://leetcode.com/problems/n-ary-tree-preorder-traversal/"
+    val javaClassName = "NaryTreePreorderTraversal589"
+    val kotlinClassName = "NaryTreePreorderTraversalKotlin589"
 
     // val level = "Hard"
-    val level = "Medium"
-    // val level = "Easy"
+    // val level = "Medium"
+    val level = "Easy"
 
-    val youtubeId = "EowQFqbaZb0"
-    val bilibiliId = "BV1Lp4y1Y7ri"
-    val ixiguaId = "6880478996107592206"
+    val youtubeId = "R_R6QvcoH14"
+    val bilibiliId = "BV1UD4y1R7k6"
+    val ixiguaId = "6880930343860306440"
 
     val youtube = "https://www.youtube.com/watch?v=$youtubeId"
     val bilibili = "https://www.bilibili.com/video/$bilibiliId/"
