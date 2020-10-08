@@ -2,18 +2,18 @@ package tree
 
 fun main() {
     val lineNumber = 1
-    val title = "589. N-ary Tree Preorder Traversal"
-    val titleLink = "https://leetcode.com/problems/n-ary-tree-preorder-traversal/"
-    val javaClassName = "NaryTreePreorderTraversal589"
-    val kotlinClassName = "NaryTreePreorderTraversalKotlin589"
+    val title = "834. Sum of Distances in Tree"
+    val titleLink = "https://leetcode.com/problems/sum-of-distances-in-tree/"
+    val javaClassName = "SumofDistancesinTree834"
+    val kotlinClassName = "SumofDistancesinTreeKotlin834"
 
-    // val level = "Hard"
+    val level = "Hard"
     // val level = "Medium"
-    val level = "Easy"
+    // val level = "Easy"
 
-    val youtubeId = "R_R6QvcoH14"
-    val bilibiliId = "BV1UD4y1R7k6"
-    val ixiguaId = "6880930343860306440"
+    val youtubeId = "tYIuQkki6Js"
+    val bilibiliId = "BV1ei4y1j73u"
+    val ixiguaId = "6881383358694162957"
 
     val youtube = "https://www.youtube.com/watch?v=$youtubeId"
     val bilibili = "https://www.bilibili.com/video/$bilibiliId/"
