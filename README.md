@@ -114,3 +114,9 @@
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |1|[46. Permutations](https://leetcode.com/problems/permutations/)|[Java](https://github.com/MagicienDeCode/LeetCode_Solution/blob/master/src/main/java/string_integer/Permutations46.java)|[Kotlin](https://github.com/MagicienDeCode/LeetCode_Solution/blob/master/src/main/kotlin/string_integer/PermutationsKotlin46.kt)|Medium|[Youtube](https://www.youtube.com/watch?v=B7Pd0oPbQac)|[bilibili](https://www.bilibili.com/video/BV1DT4y1L7WN/)|[ixigua](https://www.ixigua.com/i6867622952582513166/)|
 |1|[47. Permutations II](https://leetcode.com/problems/permutations-ii/)|[Java](https://github.com/MagicienDeCode/LeetCode_Solution/blob/master/src/main/java/string_integer/PermutationsII47.java)|[Kotlin](https://github.com/MagicienDeCode/LeetCode_Solution/blob/master/src/main/kotlin/string_integer/PermutationsIIKotlin47.kt)|Medium|[Youtube](https://www.youtube.com/watch?v=iDmnH7pmZRE)|[bilibili](https://www.bilibili.com/video/BV1eD4y1m7Nj/)|[ixigua](https://www.ixigua.com/i6868291736444076552/)|
+
+- Math
+
+| # | Title | Java | Kotlin | Difficulty | Youtube | bilibili | ixiagua |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|1|[316. Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/)|[Java](https://github.com/MagicienDeCode/LeetCode_Solution/blob/master/src/main/java/stack/RemoveDuplicateLetters316.java)|[Kotlin](https://github.com/MagicienDeCode/LeetCode_Solution/blob/master/src/main/kotlin/stack/RemoveDuplicateLettersKotlin316.kt)|Medium|[Youtube](https://www.youtube.com/watch?v=T1uBIpF9PWo)|[bilibili](https://www.bilibili.com/video/BV1FA411E7NE/)|[ixigua](https://www.ixigua.com/i6882440187146666504/)|
