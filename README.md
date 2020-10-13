@@ -86,6 +86,7 @@
 |7|[1291. Sequential Digits](https://leetcode.com/problems/sequential-digits/)|[Java](https://github.com/MagicienDeCode/LeetCode_Solution/blob/master/src/main/java/breadth_first_search/SequentialDigits1291.java)|[Kotlin](https://github.com/MagicienDeCode/LeetCode_Solution/blob/master/src/main/kotlin/breadth_first_search/SequentialDigitsKotlin1291.kt)|Medium|[Youtube](https://www.youtube.com/watch?v=dOwfDLcaGBo)|[bilibili](https://www.bilibili.com/video/BV1eT4y1A7DN/)|[ixigua](https://www.ixigua.com/i6874239151462416909/)|
 |8|[495. Teemo Attacking](https://leetcode.com/problems/teemo-attacking/)|[Java](https://github.com/MagicienDeCode/LeetCode_Solution/blob/master/src/main/java/string_integer/TeemoAttacking495.java)|[Kotlin](https://github.com/MagicienDeCode/LeetCode_Solution/blob/master/src/main/kotlin/string_integer/TeemoAttackingKotlin495.kt)|Easy|[Youtube](https://www.youtube.com/watch?v=hVNgxF4cv6c)|[bilibili](https://www.bilibili.com/video/BV1mk4y1k7yA/)|[ixigua](https://www.ixigua.com/i6877593990666027534/)|
 |9|[452. Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/)|[Java](https://github.com/MagicienDeCode/LeetCode_Solution/blob/master/src/main/java/list_array/MinimumNumberofArrowstoBurstBalloons452.java)|[Kotlin](https://github.com/MagicienDeCode/LeetCode_Solution/blob/master/src/main/kotlin/list_array/MinimumNumberofArrowstoBurstBalloonsKotlin452.kt)|Medium|[Youtube](https://www.youtube.com/watch?v=6E4BFabgpec)|[bilibili](https://www.bilibili.com/video/BV1qk4y1C79j/)|[ixigua](https://www.ixigua.com/i6882050213356405255/)|
+|10|[148. Sort List](https://leetcode.com/problems/sort-list/)|[Java](https://github.com/MagicienDeCode/LeetCode_Solution/blob/master/src/main/java/list_array/SortList148.java)|[Kotlin](https://github.com/MagicienDeCode/LeetCode_Solution/blob/master/src/main/kotlin/list_array/SortListKotlin148.kt)|Medium|[Youtube](https://www.youtube.com/watch?v=wOctIHDiV2Q)|[bilibili](https://www.bilibili.com/video/BV1EK4y1h7xh/)|[ixigua](https://www.ixigua.com/i6883143330016789000/)|
 
 - Graph
 
@@ -115,7 +116,7 @@
 |1|[46. Permutations](https://leetcode.com/problems/permutations/)|[Java](https://github.com/MagicienDeCode/LeetCode_Solution/blob/master/src/main/java/string_integer/Permutations46.java)|[Kotlin](https://github.com/MagicienDeCode/LeetCode_Solution/blob/master/src/main/kotlin/string_integer/PermutationsKotlin46.kt)|Medium|[Youtube](https://www.youtube.com/watch?v=B7Pd0oPbQac)|[bilibili](https://www.bilibili.com/video/BV1DT4y1L7WN/)|[ixigua](https://www.ixigua.com/i6867622952582513166/)|
 |1|[47. Permutations II](https://leetcode.com/problems/permutations-ii/)|[Java](https://github.com/MagicienDeCode/LeetCode_Solution/blob/master/src/main/java/string_integer/PermutationsII47.java)|[Kotlin](https://github.com/MagicienDeCode/LeetCode_Solution/blob/master/src/main/kotlin/string_integer/PermutationsIIKotlin47.kt)|Medium|[Youtube](https://www.youtube.com/watch?v=iDmnH7pmZRE)|[bilibili](https://www.bilibili.com/video/BV1eD4y1m7Nj/)|[ixigua](https://www.ixigua.com/i6868291736444076552/)|
 
-- Math
+- Stack
 
 | # | Title | Java | Kotlin | Difficulty | Youtube | bilibili | ixiagua |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|

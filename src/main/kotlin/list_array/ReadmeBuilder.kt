@@ -2,18 +2,18 @@ package list_array
 
 fun main() {
     val lineNumber = 1
-    val title = "452. Minimum Number of Arrows to Burst Balloons"
-    val titleLink = "https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/"
-    val javaClassName = "MinimumNumberofArrowstoBurstBalloons452"
-    val kotlinClassName = "MinimumNumberofArrowstoBurstBalloonsKotlin452"
+    val title = "148. Sort List"
+    val titleLink = "https://leetcode.com/problems/sort-list/"
+    val javaClassName = "SortList148"
+    val kotlinClassName = "SortListKotlin148"
 
     // val level = "Hard"
     val level = "Medium"
     // val level = "Easy"
 
-    val youtubeId = "6E4BFabgpec"
-    val bilibiliId = "BV1qk4y1C79j"
-    val ixiguaId = "6882050213356405255"
+    val youtubeId = "wOctIHDiV2Q"
+    val bilibiliId = "BV1EK4y1h7xh"
+    val ixiguaId = "6883143330016789000"
 
     val youtube = "https://www.youtube.com/watch?v=$youtubeId"
     val bilibili = "https://www.bilibili.com/video/$bilibiliId/"
