@@ -1,28 +1,28 @@
-package list_array
+package stack
 
 fun main() {
     val lineNumber = 1
-    val title = "148. Sort List"
-    val titleLink = "https://leetcode.com/problems/sort-list/"
-    val javaClassName = "SortList148"
-    val kotlinClassName = "SortListKotlin148"
+    val title = "316. Remove Duplicate Letters"
+    val titleLink = "https://leetcode.com/problems/remove-duplicate-letters/"
+    val javaClassName = "RemoveDuplicateLetters316"
+    val kotlinClassName = "RemoveDuplicateLettersKotlin316"
 
     // val level = "Hard"
     val level = "Medium"
     // val level = "Easy"
 
-    val youtubeId = "wOctIHDiV2Q"
-    val bilibiliId = "BV1EK4y1h7xh"
-    val ixiguaId = "6883143330016789000"
+    val youtubeId = "T1uBIpF9PWo"
+    val bilibiliId = "BV1FA411E7NE"
+    val ixiguaId = "6882440187146666504"
 
     val youtube = "https://www.youtube.com/watch?v=$youtubeId"
     val bilibili = "https://www.bilibili.com/video/$bilibiliId/"
     val ixigua = "https://www.ixigua.com/i$ixiguaId/"
 
     val javaLink =
-        "https://github.com/MagicienDeCode/LeetCode_Solution/blob/master/src/main/java/list_array/$javaClassName.java"
+        "https://github.com/MagicienDeCode/LeetCode_Solution/blob/master/src/main/java/stack/$javaClassName.java"
     val kotlinLink =
-        "https://github.com/MagicienDeCode/LeetCode_Solution/blob/master/src/main/kotlin/list_array/$kotlinClassName.kt"
+        "https://github.com/MagicienDeCode/LeetCode_Solution/blob/master/src/main/kotlin/stack/$kotlinClassName.kt"
 
     val result = """
             |$lineNumber|[$title]($titleLink)
