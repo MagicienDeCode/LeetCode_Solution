@@ -2,7 +2,6 @@ package list_array
 
 import java.util.*
 
-
 class RemoveCoveredIntervalsKotlin1288 {
     fun removeCoveredIntervals(intervals: Array<IntArray>): Int {
         var result = 1

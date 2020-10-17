@@ -13,7 +13,7 @@ class NaryTreePostorderTraversalKotlin590 {
             return results
         }
         for (child in root.children) {
-            results.addAll(postorder(child)!!)
+            results.addAll(postorder(child))
         }
         results.add(root.`val`)
         return results

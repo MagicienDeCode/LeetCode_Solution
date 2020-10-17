@@ -12,9 +12,10 @@ class FindDuplicateSubtreesKotlin652 {
     }
 
     private fun dfs(
-            node: TreeNode?,
-            map: HashMap<String, Int>,
-            results: MutableList<TreeNode>): String {
+        node: TreeNode?,
+        map: HashMap<String, Int>,
+        results: MutableList<TreeNode>
+    ): String {
         if (node == null) {
             return "#"
         }

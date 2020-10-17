@@ -21,4 +21,3 @@ class SecondMinimumNodeInaBinaryTreeKotlin671 {
         return if (ans < Long.MAX_VALUE) ans.toInt() else -1
     }
 }
-s

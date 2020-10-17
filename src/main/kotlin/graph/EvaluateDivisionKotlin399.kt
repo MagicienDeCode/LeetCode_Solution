@@ -6,9 +6,9 @@ import kotlin.collections.HashSet
 
 class EvaluateDivisionKotlin399 {
     fun calcEquation(
-            equations: List<List<String>>,
-            values: DoubleArray,
-            queries: List<List<String>>
+        equations: List<List<String>>,
+        values: DoubleArray,
+        queries: List<List<String>>
     ): DoubleArray {
         val graph = HashMap<String, MutableList<String>?>()
         val sideValues = HashMap<String, Double>()
@@ -22,9 +22,9 @@ class EvaluateDivisionKotlin399 {
     }
 
     private fun bfs(
-            graph: HashMap<String, MutableList<String>?>,
-            sideValues: HashMap<String, Double>,
-            query: List<String>
+        graph: HashMap<String, MutableList<String>?>,
+        sideValues: HashMap<String, Double>,
+        query: List<String>
     ): Double {
         val start = query[0]
         val end = query[1]
