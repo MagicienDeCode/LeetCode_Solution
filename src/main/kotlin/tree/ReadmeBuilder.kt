@@ -2,18 +2,18 @@ package tree
 
 fun main() {
     val lineNumber = 1
-    val title = "834. Sum of Distances in Tree"
-    val titleLink = "https://leetcode.com/problems/sum-of-distances-in-tree/"
-    val javaClassName = "SumofDistancesinTree834"
+    val title = "894. All Possible Full Binary Trees"
+    val titleLink = "https://leetcode.com/problems/all-possible-full-binary-trees/"
+    val javaClassName = "AllPossibleFullBinaryTrees894"
     val kotlinClassName = "SumofDistancesinTreeKotlin834"
 
-    val level = "Hard"
-    // val level = "Medium"
+    // val level = "Hard"
+    val level = "Medium"
     // val level = "Easy"
 
-    val youtubeId = "tYIuQkki6Js"
-    val bilibiliId = "BV1ei4y1j73u"
-    val ixiguaId = "6881383358694162957"
+    val youtubeId = "hQobOY6NbX8"
+    val bilibiliId = "BV16K4y1h7w2"
+    val ixiguaId = "6885029270838575624"
 
     val youtube = "https://www.youtube.com/watch?v=$youtubeId"
     val bilibili = "https://www.bilibili.com/video/$bilibiliId/"
