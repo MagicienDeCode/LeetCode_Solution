@@ -2,18 +2,18 @@ package stack
 
 fun main() {
     val lineNumber = 1
-    val title = "316. Remove Duplicate Letters"
-    val titleLink = "https://leetcode.com/problems/remove-duplicate-letters/"
-    val javaClassName = "RemoveDuplicateLetters316"
-    val kotlinClassName = "RemoveDuplicateLettersKotlin316"
+    val title = "735. Asteroid Collision"
+    val titleLink = "https://leetcode.com/problems/asteroid-collision/"
+    val javaClassName = "AsteroidCollision735"
+    val kotlinClassName = "AsteroidCollisionKotlin735"
 
     // val level = "Hard"
     val level = "Medium"
     // val level = "Easy"
 
-    val youtubeId = "T1uBIpF9PWo"
-    val bilibiliId = "BV1FA411E7NE"
-    val ixiguaId = "6882440187146666504"
+    val youtubeId = "aMkzAcR0_po"
+    val bilibiliId = "BV1ba411A7dN"
+    val ixiguaId = "6886149959310115342"
 
     val youtube = "https://www.youtube.com/watch?v=$youtubeId"
     val bilibili = "https://www.bilibili.com/video/$bilibiliId/"
