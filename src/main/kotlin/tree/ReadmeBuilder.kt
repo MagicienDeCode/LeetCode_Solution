@@ -2,18 +2,18 @@ package tree
 
 fun main() {
     val lineNumber = 1
-    val title = "919. Complete Binary Tree Inserter"
-    val titleLink = "https://leetcode.com/problems/complete-binary-tree-inserter/"
-    val javaClassName = "CompleteBinaryTreeInserter919"
-    val kotlinClassName = "CompleteBinaryTreeInserterKotlin919"
+    val title = "951. Flip Equivalent Binary Trees"
+    val titleLink = "https://leetcode.com/problems/flip-equivalent-binary-trees/"
+    val javaClassName = "FlipEquivalentBinaryTrees951"
+    val kotlinClassName = "FlipEquivalentBinaryTreesKotlin951"
 
     // val level = "Hard"
     val level = "Medium"
     // val level = "Easy"
 
-    val youtubeId = "-lYKan24CUg"
-    val bilibiliId = "BV1ZZ4y1G7WB"
-    val ixiguaId = "6885782628973150734"
+    val youtubeId = "gK3hKhxZmPY"
+    val bilibiliId = "BV16a411A7NQ"
+    val ixiguaId = "6886547038306042375"
 
     val youtube = "https://www.youtube.com/watch?v=$youtubeId"
     val bilibili = "https://www.bilibili.com/video/$bilibiliId/"
