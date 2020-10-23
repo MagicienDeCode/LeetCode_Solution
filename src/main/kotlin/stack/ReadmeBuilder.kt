@@ -2,18 +2,18 @@ package stack
 
 fun main() {
     val lineNumber = 1
-    val title = "735. Asteroid Collision"
-    val titleLink = "https://leetcode.com/problems/asteroid-collision/"
-    val javaClassName = "AsteroidCollision735"
-    val kotlinClassName = "AsteroidCollisionKotlin735"
+    val title = "456. 132 Pattern"
+    val titleLink = "https://leetcode.com/problems/132-pattern/"
+    val javaClassName = "Pattern132456"
+    val kotlinClassName = "Pattern132Kotlin456"
 
     // val level = "Hard"
     val level = "Medium"
     // val level = "Easy"
 
-    val youtubeId = "aMkzAcR0_po"
-    val bilibiliId = "BV1ba411A7dN"
-    val ixiguaId = "6886149959310115342"
+    val youtubeId = "tlHP-C3MefA"
+    val bilibiliId = "BV1fZ4y1G7Ze"
+    val ixiguaId = "6886927329113670151"
 
     val youtube = "https://www.youtube.com/watch?v=$youtubeId"
     val bilibili = "https://www.bilibili.com/video/$bilibiliId/"
