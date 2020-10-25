@@ -2,18 +2,18 @@ package tree
 
 fun main() {
     val lineNumber = 1
-    val title = "951. Flip Equivalent Binary Trees"
-    val titleLink = "https://leetcode.com/problems/flip-equivalent-binary-trees/"
-    val javaClassName = "FlipEquivalentBinaryTrees951"
-    val kotlinClassName = "FlipEquivalentBinaryTreesKotlin951"
+    val title = "958. Check Completeness of a Binary Tree"
+    val titleLink = "https://leetcode.com/problems/check-completeness-of-a-binary-tree/"
+    val javaClassName = "CheckCompletenessofaBinaryTree958"
+    val kotlinClassName = "CheckCompletenessofaBinaryTreeKotlin958"
 
     // val level = "Hard"
     val level = "Medium"
     // val level = "Easy"
 
-    val youtubeId = "gK3hKhxZmPY"
-    val bilibiliId = "BV16a411A7NQ"
-    val ixiguaId = "6886547038306042375"
+    val youtubeId = "ZPn0BZ2SNog"
+    val bilibiliId = "BV16a4y1L7zd"
+    val ixiguaId = "6887648660562280968"
 
     val youtube = "https://www.youtube.com/watch?v=$youtubeId"
     val bilibili = "https://www.bilibili.com/video/$bilibiliId/"
