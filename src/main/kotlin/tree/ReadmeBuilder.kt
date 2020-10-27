@@ -2,18 +2,18 @@ package tree
 
 fun main() {
     val lineNumber = 1
-    val title = "958. Check Completeness of a Binary Tree"
-    val titleLink = "https://leetcode.com/problems/check-completeness-of-a-binary-tree/"
-    val javaClassName = "CheckCompletenessofaBinaryTree958"
-    val kotlinClassName = "CheckCompletenessofaBinaryTreeKotlin958"
+    val title = "968. Binary Tree Cameras"
+    val titleLink = "https://leetcode.com/problems/binary-tree-cameras/"
+    val javaClassName = "BinaryTreeCameras968"
+    val kotlinClassName = "BinaryTreeCamerasKotlin968"
 
-    // val level = "Hard"
-    val level = "Medium"
+    val level = "Hard"
+    // val level = "Medium"
     // val level = "Easy"
 
-    val youtubeId = "ZPn0BZ2SNog"
-    val bilibiliId = "BV16a4y1L7zd"
-    val ixiguaId = "6887648660562280968"
+    val youtubeId = "qI7VCpnA588"
+    val bilibiliId = "BV1UK411A7cs"
+    val ixiguaId = "6888351567557165582"
 
     val youtube = "https://www.youtube.com/watch?v=$youtubeId"
     val bilibili = "https://www.bilibili.com/video/$bilibiliId/"
