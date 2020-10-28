@@ -2,18 +2,18 @@ package list_array
 
 fun main() {
     val lineNumber = 1
-    val title = "148. Sort List"
-    val titleLink = "https://leetcode.com/problems/sort-list/"
-    val javaClassName = "SortList148"
-    val kotlinClassName = "SortListKotlin148"
+    val title = "142. Linked List Cycle II"
+    val titleLink = "https://leetcode.com/problems/linked-list-cycle-ii/"
+    val javaClassName = "LinkedListCycleII142"
+    val kotlinClassName = "LinkedListCycleIIKotlin142"
 
     // val level = "Hard"
     val level = "Medium"
     // val level = "Easy"
 
     val youtubeId = "wOctIHDiV2Q"
-    val bilibiliId = "BV1EK4y1h7xh"
-    val ixiguaId = "6883143330016789000"
+    val bilibiliId = "BV1rz4y1o7i7"
+    val ixiguaId = "6888751997189620237"
 
     val youtube = "https://www.youtube.com/watch?v=$youtubeId"
     val bilibili = "https://www.bilibili.com/video/$bilibiliId/"
