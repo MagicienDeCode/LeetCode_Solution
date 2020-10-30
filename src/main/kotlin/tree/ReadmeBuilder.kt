@@ -2,18 +2,18 @@ package tree
 
 fun main() {
     val lineNumber = 1
-    val title = "968. Binary Tree Cameras"
-    val titleLink = "https://leetcode.com/problems/binary-tree-cameras/"
-    val javaClassName = "BinaryTreeCameras968"
+    val title = "988. Smallest String Starting From Leaf"
+    val titleLink = "https://leetcode.com/problems/smallest-string-starting-from-leaf/"
+    val javaClassName = "SmallestStringStartingFromLeaf988"
     val kotlinClassName = "BinaryTreeCamerasKotlin968"
 
-    val level = "Hard"
-    // val level = "Medium"
+    // val level = "Hard"
+    val level = "Medium"
     // val level = "Easy"
 
-    val youtubeId = "qI7VCpnA588"
-    val bilibiliId = "BV1UK411A7cs"
-    val ixiguaId = "6888351567557165582"
+    val youtubeId = "1IJ5Dd2GcvA"
+    val bilibiliId = "BV1Wy4y1r7AR"
+    val ixiguaId = "6889470373054644750"
 
     val youtube = "https://www.youtube.com/watch?v=$youtubeId"
     val bilibili = "https://www.bilibili.com/video/$bilibiliId/"
