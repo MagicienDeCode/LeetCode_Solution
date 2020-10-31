@@ -2,13 +2,13 @@ package dynamic_programming
 
 fun main() {
     val lineNumber = 8
-    val title = "213. House Robber II"
-    val titleLink = "https://leetcode.com/problems/house-robber-ii/"
-    val javaClassName = "HouseRobberII213"
-    val kotlinClassName = "HouseRobberIIKotlin213"
-    val youtubeId = "EdwCOZ994ts"
-    val bilibiliId = "BV1by4y1y7aj"
-    val ixiguaId = "6870138063293514247"
+    val title = "673. Number of Longest Increasing Subsequence"
+    val titleLink = "hhttps://leetcode.com/problems/number-of-longest-increasing-subsequence/"
+    val javaClassName = "NumberofLongestIncreasingSubsequence673"
+    val kotlinClassName = "NumberofLongestIncreasingSubsequenceKotlin673"
+    val youtubeId = "axJnqNgBgog"
+    val bilibiliId = "BV1oZ4y1V7vD"
+    val ixiguaId = "6889880205905625613"
 
     val youtube = "https://www.youtube.com/watch?v=$youtubeId"
     val bilibili = "https://www.bilibili.com/video/$bilibiliId/"
