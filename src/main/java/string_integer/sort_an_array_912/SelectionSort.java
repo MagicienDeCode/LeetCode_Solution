@@ -1,4 +1,4 @@
-package array.sort_an_array_912;
+package string_integer.sort_an_array_912;
 
 import java.util.Arrays;
 
