@@ -2,18 +2,18 @@ package tree
 
 fun main() {
     val lineNumber = 1
-    val title = "988. Smallest String Starting From Leaf"
-    val titleLink = "https://leetcode.com/problems/smallest-string-starting-from-leaf/"
-    val javaClassName = "SmallestStringStartingFromLeaf988"
-    val kotlinClassName = "BinaryTreeCamerasKotlin968"
+    val title = "1028. Recover a Tree From Preorder Traversal"
+    val titleLink = "https://leetcode.com/problems/recover-a-tree-from-preorder-traversal/"
+    val javaClassName = "RecoveraTreeFromPreorderTraversal1028"
+    val kotlinClassName = "RecoveraTreeFromPreorderTraversalKotlin1028"
 
-    // val level = "Hard"
-    val level = "Medium"
+    val level = "Hard"
+    // val level = "Medium"
     // val level = "Easy"
 
-    val youtubeId = "1IJ5Dd2GcvA"
-    val bilibiliId = "BV1Wy4y1r7AR"
-    val ixiguaId = "6889470373054644750"
+    val youtubeId = "BKQM3m_C4zs"
+    val bilibiliId = "BV1Fp4y1C7r3"
+    val ixiguaId = "6890980431978562061"
 
     val youtube = "https://www.youtube.com/watch?v=$youtubeId"
     val bilibili = "https://www.bilibili.com/video/$bilibiliId/"
