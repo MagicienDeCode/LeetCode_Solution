@@ -2,18 +2,18 @@ package tree
 
 fun main() {
     val lineNumber = 1
-    val title = "1104. Path In Zigzag Labelled Binary Tree"
-    val titleLink = "https://leetcode.com/problems/path-in-zigzag-labelled-binary-tree/"
-    val javaClassName = "PathInZigzagLabelledBinaryTree1104"
-    val kotlinClassName = "PathInZigzagLabelledBinaryTreeKotlin1104"
+    val title = "1130. Minimum Cost Tree From Leaf Values"
+    val titleLink = "https://leetcode.com/problems/minimum-cost-tree-from-leaf-values/"
+    val javaClassName = "MinimumCostTreeFromLeafValues1130"
+    val kotlinClassName = "MinimumCostTreeFromLeafValuesKotlin1130"
 
     // val level = "Hard"
     val level = "Medium"
     // val level = "Easy"
 
-    val youtubeId = "I9jC9jehTI4"
-    val bilibiliId = "BV1rf4y1i7KE"
-    val ixiguaId = "6891375472651797006"
+    val youtubeId = "abMfdlnCW5c"
+    val bilibiliId = "BV1dy4y1B71N"
+    val ixiguaId = "6892109693905273352"
 
     val youtube = "https://www.youtube.com/watch?v=$youtubeId"
     val bilibili = "https://www.bilibili.com/video/$bilibiliId/"
