@@ -135,7 +135,7 @@
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |1|[316. Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/)|[Java](https://github.com/MagicienDeCode/LeetCode_Solution/blob/master/src/main/java/stack/RemoveDuplicateLetters316.java)|[Kotlin](https://github.com/MagicienDeCode/LeetCode_Solution/blob/master/src/main/kotlin/stack/RemoveDuplicateLettersKotlin316.kt)|Medium|[Youtube](https://www.youtube.com/watch?v=T1uBIpF9PWo)|[bilibili](https://www.bilibili.com/video/BV1FA411E7NE/)|[ixigua](https://www.ixigua.com/i6882440187146666504/)|
 |2|[735. Asteroid Collision](https://leetcode.com/problems/asteroid-collision/)|[Java](https://github.com/MagicienDeCode/LeetCode_Solution/blob/master/src/main/java/stack/AsteroidCollision735.java)|[Kotlin](https://github.com/MagicienDeCode/LeetCode_Solution/blob/master/src/main/kotlin/stack/AsteroidCollisionKotlin735.kt)|Medium|[Youtube](https://www.youtube.com/watch?v=aMkzAcR0_po)|[bilibili](https://www.bilibili.com/video/BV1ba411A7dN/)|[ixigua](https://www.ixigua.com/i6886149959310115342/)|
-
+|1|[445. Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/)|[Java](https://github.com/MagicienDeCode/LeetCode_Solution/blob/master/src/main/java/list_array/AddTwoNumbersII445.java)|-|Medium|[Youtube](https://www.youtube.com/watch?v=lbbGxqkDhVI)|[bilibili](https://www.bilibili.com/video/BV1PV41117VR/)|[ixigua](https://www.ixigua.com/i6892413594806256142/)|
 
 - Two Pointer
 
