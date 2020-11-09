@@ -2,18 +2,18 @@ package tree
 
 fun main() {
     val lineNumber = 1
-    val title = "1130. Minimum Cost Tree From Leaf Values"
-    val titleLink = "https://leetcode.com/problems/minimum-cost-tree-from-leaf-values/"
-    val javaClassName = "MinimumCostTreeFromLeafValues1130"
-    val kotlinClassName = "MinimumCostTreeFromLeafValuesKotlin1130"
+    val title = "1145. Binary Tree Coloring Game"
+    val titleLink = "https://leetcode.com/problems/binary-tree-coloring-game/"
+    val javaClassName = "BinaryTreeColoringGame1145"
+    val kotlinClassName = "*"
 
     // val level = "Hard"
     val level = "Medium"
     // val level = "Easy"
 
-    val youtubeId = "abMfdlnCW5c"
-    val bilibiliId = "BV1dy4y1B71N"
-    val ixiguaId = "6892109693905273352"
+    val youtubeId = "_BZTnV1wtBo"
+    val bilibiliId = "BV1pt4y1e78H"
+    val ixiguaId = "6893185959534264840"
 
     val youtube = "https://www.youtube.com/watch?v=$youtubeId"
     val bilibili = "https://www.bilibili.com/video/$bilibiliId/"
