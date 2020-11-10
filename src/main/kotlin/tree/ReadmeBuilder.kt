@@ -2,18 +2,18 @@ package tree
 
 fun main() {
     val lineNumber = 1
-    val title = "1145. Binary Tree Coloring Game"
-    val titleLink = "https://leetcode.com/problems/binary-tree-coloring-game/"
-    val javaClassName = "BinaryTreeColoringGame1145"
+    val title = "1261. Find Elements in a Contaminated Binary Tree"
+    val titleLink = "https://leetcode.com/problems/find-elements-in-a-contaminated-binary-tree/"
+    val javaClassName = "FindElementsinaContaminatedBinaryTree1261"
     val kotlinClassName = "*"
 
     // val level = "Hard"
     val level = "Medium"
     // val level = "Easy"
 
-    val youtubeId = "_BZTnV1wtBo"
-    val bilibiliId = "BV1pt4y1e78H"
-    val ixiguaId = "6893185959534264840"
+    val youtubeId = "X6I-B3V0trc"
+    val bilibiliId = "BV1gK4y1E7r8"
+    val ixiguaId = "6893599691657708046"
 
     val youtube = "https://www.youtube.com/watch?v=$youtubeId"
     val bilibili = "https://www.bilibili.com/video/$bilibiliId/"
