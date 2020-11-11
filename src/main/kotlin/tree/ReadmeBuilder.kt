@@ -2,18 +2,18 @@ package tree
 
 fun main() {
     val lineNumber = 1
-    val title = "1261. Find Elements in a Contaminated Binary Tree"
-    val titleLink = "https://leetcode.com/problems/find-elements-in-a-contaminated-binary-tree/"
-    val javaClassName = "FindElementsinaContaminatedBinaryTree1261"
-    val kotlinClassName = "*"
+    val title = "1339. Maximum Product of Splitted Binary Tree"
+    val titleLink = "https://leetcode.com/problems/maximum-product-of-splitted-binary-tree/"
+    val javaClassName = "MaximumProductofSplittedBinaryTree1339"
+    val kotlinClassName = "MaximumProductofSplittedBinaryTreeKotlin1339"
 
     // val level = "Hard"
     val level = "Medium"
     // val level = "Easy"
 
-    val youtubeId = "X6I-B3V0trc"
-    val bilibiliId = "BV1gK4y1E7r8"
-    val ixiguaId = "6893599691657708046"
+    val youtubeId = "akYJ31Wi1dA"
+    val bilibiliId = "BV1hK4y1E7P3"
+    val ixiguaId = "6893972717435879950"
 
     val youtube = "https://www.youtube.com/watch?v=$youtubeId"
     val bilibili = "https://www.bilibili.com/video/$bilibiliId/"
