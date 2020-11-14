@@ -2,18 +2,18 @@ package tree
 
 fun main() {
     val lineNumber = 1
-    val title = "1339. Maximum Product of Splitted Binary Tree"
-    val titleLink = "https://leetcode.com/problems/maximum-product-of-splitted-binary-tree/"
-    val javaClassName = "MaximumProductofSplittedBinaryTree1339"
-    val kotlinClassName = "MaximumProductofSplittedBinaryTreeKotlin1339"
+    val title = "1457. Pseudo-Palindromic Paths in a Binary Tree"
+    val titleLink = "https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/"
+    val javaClassName = "PseudoPalindromicPathsinaBinaryTree1457"
+    val kotlinClassName = "-"
 
     // val level = "Hard"
     val level = "Medium"
     // val level = "Easy"
 
-    val youtubeId = "akYJ31Wi1dA"
-    val bilibiliId = "BV1hK4y1E7P3"
-    val ixiguaId = "6893972717435879950"
+    val youtubeId = "jWccAr2Fbv0"
+    val bilibiliId = "BV15K4y1j7aZ"
+    val ixiguaId = "6894978808823153165"
 
     val youtube = "https://www.youtube.com/watch?v=$youtubeId"
     val bilibili = "https://www.bilibili.com/video/$bilibiliId/"
