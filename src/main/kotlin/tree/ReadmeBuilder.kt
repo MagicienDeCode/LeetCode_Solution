@@ -2,18 +2,18 @@ package tree
 
 fun main() {
     val lineNumber = 1
-    val title = "1457. Pseudo-Palindromic Paths in a Binary Tree"
-    val titleLink = "https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/"
-    val javaClassName = "PseudoPalindromicPathsinaBinaryTree1457"
+    val title = "1443. Minimum Time to Collect All Apples in a Tree"
+    val titleLink = "https://leetcode.com/problems/minimum-time-to-collect-all-apples-in-a-tree/"
+    val javaClassName = "MinimumTimetoCollectAllApplesinaTree1443"
     val kotlinClassName = "-"
 
     // val level = "Hard"
     val level = "Medium"
     // val level = "Easy"
 
-    val youtubeId = "jWccAr2Fbv0"
-    val bilibiliId = "BV15K4y1j7aZ"
-    val ixiguaId = "6894978808823153165"
+    val youtubeId = "BYWFsoKl_Xk"
+    val bilibiliId = "BV1xy4y167i9"
+    val ixiguaId = "6895798384649568775"
 
     val youtube = "https://www.youtube.com/watch?v=$youtubeId"
     val bilibili = "https://www.bilibili.com/video/$bilibiliId/"
