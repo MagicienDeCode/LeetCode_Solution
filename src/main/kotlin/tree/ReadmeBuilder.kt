@@ -2,18 +2,18 @@ package tree
 
 fun main() {
     val lineNumber = 1
-    val title = "1466. Reorder Routes to Make All Paths Lead to the City Zero"
-    val titleLink = "https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero/"
-    val javaClassName = "ReorderRoutestoMakeAllPathsLeadtotheCityZero1466"
+    val title = "1600. Throne Inheritance"
+    val titleLink = "https://leetcode.com/problems/throne-inheritance/"
+    val javaClassName = "ThroneInheritance1600"
     val kotlinClassName = "-"
 
     // val level = "Hard"
     val level = "Medium"
     // val level = "Easy"
 
-    val youtubeId = "MTL0or0O4No"
-    val bilibiliId = "BV1Yt4y1a7xX"
-    val ixiguaId = "6896189621126824461"
+    val youtubeId = "9Xh36vNqrPk"
+    val bilibiliId = "BV1wy4y1q7MV"
+    val ixiguaId = "6896570857938747918"
 
     val youtube = "https://www.youtube.com/watch?v=$youtubeId"
     val bilibili = "https://www.bilibili.com/video/$bilibiliId/"
