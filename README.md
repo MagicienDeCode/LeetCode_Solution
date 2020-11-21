@@ -33,14 +33,7 @@
 
 | # | Title | Youtube | bilibili | ixiagua |
 |:---:|:---:|:---:|:---:|:---:|
-|0|[All In One](https://github.com/MagicienDeCode/LeetCode_Solution/blob/master/src/TREE_ALL_IN_ONE.pdf)|[Youtube](https://www.youtube.com/watch?v=pAZrj2pJlO0)|[bilibili](https://www.bilibili.com/video/BV1Dh411d77f/)|[ixigua](https://www.ixigua.com/i6863856731831665159/)|
-
-
-
-
-
-
-
+|0|[All In One](https://github.com/MagicienDeCode/LeetCode_Solution/blob/master/src/TREE_ALL_IN_ONE.pdf)|[Youtube](https://www.youtube.com/watch?v=I0c29ejz7g8)|[bilibili](https://www.bilibili.com/video/BV1oV411h7HN/)|[ixigua](https://www.ixigua.com/i6897631156003406343/)|
 
 
 - Dynamic Programming
