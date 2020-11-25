@@ -2,14 +2,14 @@ package depth_first_search
 
 fun main() {
     val lineNumber = 2
-    val title = "77. Combinations"
-    val titleLink = "https://leetcode.com/problems/combinations/"
-    val javaClassName = "Combinations77"
+    val title = "329. Longest Increasing Path in a Matrix"
+    val titleLink = "https://leetcode.com/problems/longest-increasing-path-in-a-matrix/"
+    val javaClassName = "LongestIncreasingPathinaMatrix329"
     val kotlinClassName = "-"
 
-    val youtubeId = "GD0FxUoPN6o"
-    val bilibiliId = "BV1Ha4y1W7eY"
-    val ixiguaId = "6898428700031713800"
+    val youtubeId = "on_Dbeql250"
+    val bilibiliId = "BV1W54y167uQ"
+    val ixiguaId = "6899100754993218062"
 
     val youtube = "https://www.youtube.com/watch?v=$youtubeId"
     val bilibili = "https://www.bilibili.com/video/$bilibiliId/"
@@ -17,7 +17,7 @@ fun main() {
 
     val javaLink =
         "https://github.com/MagicienDeCode/LeetCode_Solution/blob/master/src/main/java/depth_first_search/$javaClassName.java"
-    val kotlinLink =
+    val kotlinLink = if (kotlinClassName == "-") "-" else
         "https://github.com/MagicienDeCode/LeetCode_Solution/blob/master/src/main/kotlin/depth_first_search/$kotlinClassName.kt"
 
     val result = """
