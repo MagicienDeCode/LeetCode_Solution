@@ -2,14 +2,14 @@ package depth_first_search
 
 fun main() {
     val lineNumber = 2
-    val title = "329. Longest Increasing Path in a Matrix"
-    val titleLink = "https://leetcode.com/problems/longest-increasing-path-in-a-matrix/"
-    val javaClassName = "LongestIncreasingPathinaMatrix329"
+    val title = "472. Concatenated Words"
+    val titleLink = "https://leetcode.com/problems/concatenated-words/"
+    val javaClassName = "ConcatenatedWords472"
     val kotlinClassName = "-"
 
-    val youtubeId = "on_Dbeql250"
-    val bilibiliId = "BV1W54y167uQ"
-    val ixiguaId = "6899100754993218062"
+    val youtubeId = "-B9M299DwJY"
+    val bilibiliId = "BV1uz4y1k72Z"
+    val ixiguaId = "6899908681270297101"
 
     val youtube = "https://www.youtube.com/watch?v=$youtubeId"
     val bilibili = "https://www.bilibili.com/video/$bilibiliId/"
@@ -17,13 +17,16 @@ fun main() {
 
     val javaLink =
         "https://github.com/MagicienDeCode/LeetCode_Solution/blob/master/src/main/java/depth_first_search/$javaClassName.java"
-    val kotlinLink = if (kotlinClassName == "-") "-" else
+    val kotlinLink =
         "https://github.com/MagicienDeCode/LeetCode_Solution/blob/master/src/main/kotlin/depth_first_search/$kotlinClassName.kt"
+
+    val kotlinFinal = if (kotlinClassName == "-") "-" else "[Kotlin]($kotlinLink)"
+
 
     val result = """
             |$lineNumber|[$title]($titleLink)
             |[Java]($javaLink)
-            |[Kotlin]($kotlinLink)
+            |$kotlinFinal
             |Medium
             |[Youtube]($youtube)
             |[bilibili]($bilibili)
