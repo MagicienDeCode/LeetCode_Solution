@@ -115,3 +115,12 @@
 | # | Title | Java | Kotlin | Difficulty | Youtube | bilibili | ixiagua |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |1|[142. Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)|[Java](https://github.com/MagicienDeCode/LeetCode_Solution/blob/master/src/main/java/list_array/LinkedListCycleII142.java)|[Kotlin](https://github.com/MagicienDeCode/LeetCode_Solution/blob/master/src/main/kotlin/list_array/LinkedListCycleIIKotlin142.kt)|Medium|[Youtube](https://www.youtube.com/watch?v=wOctIHDiV2Q)|[bilibili](https://www.bilibili.com/video/BV1rz4y1o7i7/)|[ixigua](https://www.ixigua.com/i6888751997189620237/)|
+
+
+- Deque
+| # | Title | Java | Kotlin | Difficulty | Youtube | bilibili | ixiagua |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|1|[239. Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)|[Java](https://github.com/MagicienDeCode/LeetCode_Solution/blob/master/src/main/java/sliding_window/SlidingWindowMaximum239.java)|[Kotlin](https://github.com/MagicienDeCode/LeetCode_Solution/blob/master/src/main/kotlin/sliding_window/SlidingWindowMaximumKotlin239.kt)|Hard|[Youtube](https://www.youtube.com/watch?v=3_DkjG_KMmw)|[bilibili](https://www.bilibili.com/video/BV1jz4y1k7yQ/)|[ixigua](https://www.ixigua.com/i6900298081410122247/)|
+
+
+

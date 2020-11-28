@@ -2,13 +2,13 @@ package sliding_window
 
 fun main() {
     val lineNumber = 1
-    val title = "438. Find All Anagrams in a String"
-    val titleLink = "https://leetcode.com/problems/find-all-anagrams-in-a-string/"
-    val javaClassName = "FindAllAnagramsinaString438"
-    val kotlinClassName = "FindAllAnagramsinaStringKotlin438"
-    val youtubeId = "Z3UJspzNQtU"
-    val bilibiliId = "BV16g4y1B7fe"
-    val ixiguaId = "6827840527480652300"
+    val title = "239. Sliding Window Maximum"
+    val titleLink = "https://leetcode.com/problems/sliding-window-maximum/"
+    val javaClassName = "SlidingWindowMaximum239"
+    val kotlinClassName = "SlidingWindowMaximumKotlin239"
+    val youtubeId = "3_DkjG_KMmw"
+    val bilibiliId = "BV1jz4y1k7yQ"
+    val ixiguaId = "6900298081410122247"
 
     val youtube = "https://www.youtube.com/watch?v=$youtubeId"
     val bilibili = "https://www.bilibili.com/video/$bilibiliId/"
@@ -25,7 +25,7 @@ fun main() {
             |$lineNumber|[$title]($titleLink)
             |[Java]($javaLink)
             |[Kotlin]($kotlinLink)
-            |Medium
+            |Hard
             |[Youtube]($youtube)
             |[bilibili]($bilibili)
             |[ixigua]($ixigua)
