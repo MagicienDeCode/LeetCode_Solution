@@ -2,14 +2,14 @@ package depth_first_search
 
 fun main() {
     val lineNumber = 2
-    val title = "488. Zuma Game"
-    val titleLink = "https://leetcode.com/problems/zuma-game/"
-    val javaClassName = "ZumaGame488"
+    val title = "491. Increasing Subsequences"
+    val titleLink = "https://leetcode.com/problems/increasing-subsequences/"
+    val javaClassName = "IncreasingSubsequences491"
     val kotlinClassName = "-"
 
-    val youtubeId = "57_lAVHBRi0"
-    val bilibiliId = "BV18i4y1575y"
-    val ixiguaId = "6902151429339742734"
+    val youtubeId = "Pv2LShfHCfY"
+    val bilibiliId = "BV16X4y1M7ds"
+    val ixiguaId = "6902500735439602189"
 
     val youtube = "https://www.youtube.com/watch?v=$youtubeId"
     val bilibili = "https://www.bilibili.com/video/$bilibiliId/"

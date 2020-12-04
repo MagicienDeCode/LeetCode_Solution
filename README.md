@@ -94,6 +94,7 @@
 |8|[472. Concatenated Words](https://leetcode.com/problems/concatenated-words/)|[Java](https://github.com/MagicienDeCode/LeetCode_Solution/blob/master/src/main/java/depth_first_search/ConcatenatedWords472.java)|-|Medium|[Youtube](https://www.youtube.com/watch?v=-B9M299DwJY)|[bilibili](https://www.bilibili.com/video/BV1uz4y1k72Z/)|[ixigua](https://www.ixigua.com/i6899908681270297101/)|
 |*9|[473. Matchsticks to Square](https://leetcode.com/problems/matchsticks-to-square/)|[Java](https://github.com/MagicienDeCode/LeetCode_Solution/blob/master/src/main/java/depth_first_search/MatchstickstoSquare473.java)|-|Medium|[Youtube](https://www.youtube.com/watch?v=gS4jbBdkPAs)|[bilibili](https://www.bilibili.com/video/BV1ZA411x7iD/)|[ixigua](https://www.ixigua.com/i6900970502588727822/)|
 |*10|[488. Zuma Game](https://leetcode.com/problems/zuma-game/)|[Java](https://github.com/MagicienDeCode/LeetCode_Solution/blob/master/src/main/java/depth_first_search/ZumaGame488.java)|-|Hard|[Youtube](https://www.youtube.com/watch?v=57_lAVHBRi0)|[bilibili](https://www.bilibili.com/video/BV18i4y1575y/)|[ixigua](https://www.ixigua.com/i6902151429339742734/)|
+|11|[491. Increasing Subsequences](https://leetcode.com/problems/increasing-subsequences/)|[Java](https://github.com/MagicienDeCode/LeetCode_Solution/blob/master/src/main/java/depth_first_search/IncreasingSubsequences491.java)|-|Hard|[Youtube](https://www.youtube.com/watch?v=Pv2LShfHCfY)|[bilibili](https://www.bilibili.com/video/BV16X4y1M7ds/)|[ixigua](https://www.ixigua.com/i6902500735439602189/)|
 
 - Math
 
