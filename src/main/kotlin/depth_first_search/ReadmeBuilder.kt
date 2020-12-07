@@ -2,14 +2,14 @@ package depth_first_search
 
 fun main() {
     val lineNumber = 2
-    val title = "17. Letter Combinations of a Phone Number"
-    val titleLink = "https://leetcode.com/problems/letter-combinations-of-a-phone-number/"
-    val javaClassName = "LetterCombinationsofaPhoneNumber17"
-    val kotlinClassName = "LetterCombinationsofaPhoneNumberKotlin17"
+    val title = "494. Target Sum"
+    val titleLink = "https://leetcode.com/problems/target-sum/"
+    val javaClassName = "TargetSum494"
+    val kotlinClassName = "TargetSumKotlin494"
 
-    val youtubeId = "2ElsPS2hDH8"
-    val bilibiliId = "BV1ey4y1S7qk"
-    val ixiguaId = "6903175859121685005"
+    val youtubeId = "X4-WvPWkifU"
+    val bilibiliId = "BV1Ly4y1S746"
+    val ixiguaId = "6903610206534828558"
 
     val youtube = "https://www.youtube.com/watch?v=$youtubeId"
     val bilibili = "https://www.bilibili.com/video/$bilibiliId/"
@@ -27,7 +27,7 @@ fun main() {
             |$lineNumber|[$title]($titleLink)
             |[Java]($javaLink)
             |$kotlinFinal
-            |Hard
+            |Medium
             |[Youtube]($youtube)
             |[bilibili]($bilibili)
             |[ixigua]($ixigua)
