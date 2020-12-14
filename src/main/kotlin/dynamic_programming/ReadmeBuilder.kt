@@ -2,13 +2,14 @@ package dynamic_programming
 
 fun main() {
     val lineNumber = 8
-    val title = "673. Number of Longest Increasing Subsequence"
-    val titleLink = "hhttps://leetcode.com/problems/number-of-longest-increasing-subsequence/"
-    val javaClassName = "NumberofLongestIncreasingSubsequence673"
-    val kotlinClassName = "NumberofLongestIncreasingSubsequenceKotlin673"
-    val youtubeId = "axJnqNgBgog"
-    val bilibiliId = "BV1oZ4y1V7vD"
-    val ixiguaId = "6889880205905625613"
+    val title = "312. Burst Balloons"
+    val titleLink = "https://leetcode.com/problems/burst-balloons/"
+    val javaClassName = "BurstBalloons312"
+    val kotlinClassName = "-"
+
+    val youtubeId = "iD2i-qaBUms"
+    val bilibiliId = "BV18t4y1k7Qi"
+    val ixiguaId = "6906201404054962695"
 
     val youtube = "https://www.youtube.com/watch?v=$youtubeId"
     val bilibili = "https://www.bilibili.com/video/$bilibiliId/"
@@ -19,11 +20,13 @@ fun main() {
     val kotlinLink =
         "https://github.com/MagicienDeCode/LeetCode_Solution/blob/master/src/main/kotlin/dynamic_programming/$kotlinClassName.kt"
 
+    val kotlinFinal = if (kotlinClassName == "-") "-" else "[Kotlin]($kotlinLink)"
+
     val result = """
             |$lineNumber|[$title]($titleLink)
             |[Java]($javaLink)
-            |[Kotlin]($kotlinLink)
-            |Medium
+            |$kotlinFinal
+            |Hard
             |[Youtube]($youtube)
             |[bilibili]($bilibili)
             |[ixigua]($ixigua)
