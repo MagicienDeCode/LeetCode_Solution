@@ -2,14 +2,14 @@ package dynamic_programming
 
 fun main() {
     val lineNumber = 8
-    val title = "312. Burst Balloons"
-    val titleLink = "https://leetcode.com/problems/burst-balloons/"
-    val javaClassName = "BurstBalloons312"
+    val title = "546. Remove Boxes"
+    val titleLink = "https://leetcode.com/problems/remove-boxes/"
+    val javaClassName = "RemoveBoxes546"
     val kotlinClassName = "-"
 
-    val youtubeId = "iD2i-qaBUms"
-    val bilibiliId = "BV18t4y1k7Qi"
-    val ixiguaId = "6906201404054962695"
+    val youtubeId = "wK5SVY1uf9A"
+    val bilibiliId = "BV1vT4y1M73m"
+    val ixiguaId = "6907317725559783944"
 
     val youtube = "https://www.youtube.com/watch?v=$youtubeId"
     val bilibili = "https://www.bilibili.com/video/$bilibiliId/"
