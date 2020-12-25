@@ -2,17 +2,17 @@ package breadth_first_search
 
 fun main() {
     val lineNumber = 5
-    val title = "1291. Sequential Digits"
-    val titleLink = "https://leetcode.com/problems/sequential-digits/"
-    val javaClassName = "SequentialDigits1291"
-    val kotlinClassName = "SequentialDigitsKotlin1291"
+    val title = "498. Diagonal Traverse"
+    val titleLink = "https://leetcode.com/problems/diagonal-traverse/"
+    val javaClassName = "DiagonalTraverse498"
+    val kotlinClassName = "-"
 
     // val level = "Hard"
     val level = "Medium"
 
-    val youtubeId = "dOwfDLcaGBo"
-    val bilibiliId = "BV1eT4y1A7DN"
-    val ixiguaId = "6874239151462416909"
+    val youtubeId = "F3N5PqvlG4s"
+    val bilibiliId = "BV1wK4y1j7JU"
+    val ixiguaId = "6910254879575376392"
 
     val youtube = "https://www.youtube.com/watch?v=$youtubeId"
     val bilibili = "https://www.bilibili.com/video/$bilibiliId/"
