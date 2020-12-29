@@ -1,8 +1,87 @@
 package depth_first_search;
 
-import java.util.*;
+import java.util.Arrays;
+import java.util.Comparator;
+import java.util.LinkedList;
+import java.util.List;
 
 public class ConcatenatedWords472 {
+    public List<String> findAllConcatenatedWordsInADict(String[] words) {
+        // prefix tree root
+        final PrefixTree root = new PrefixTree();
+        // determine if we have iterated a char
+        final boolean[] contains = new boolean[26];
+        Arrays.sort(words, Comparator.comparing(String::length));
+        final List<String> results = new LinkedList<>();
+
+        for (String w : words) {
+            // if visited words can NOT cover the current word, skip the verification
+            boolean hasAllChars = true;
+            for (char c : w.toCharArray()) {
+                if (!contains[c - 'a']) {
+                    hasAllChars = false;
+                    break;
+                }
+            }
+            if (hasAllChars && isValid(root, w, 0, 0)) {
+                results.add(w);
+            }
+            // insert word to prefix tree
+            insert(root, w, contains);
+        }
+        return results;
+    }
+
+    private boolean isValid(
+            final PrefixTree root,
+            final String word,
+            int startIndex,
+            int count
+    ) {
+        if (startIndex == word.length()) {
+            return count > 1;
+        }
+        PrefixTree current = root;
+        for (int i = startIndex; i < word.length(); i++) {
+            final char c = word.charAt(i);
+            if (current.getByChar(c) != null) {
+                current = current.getByChar(c);
+                if (current.isEnd && isValid(root, word, i + 1, count + 1)) {
+                    return true;
+                }
+            } else {
+                break;
+            }
+        }
+        return false;
+    }
+
+    private void insert(final PrefixTree root, final String words, final boolean[] contains) {
+        PrefixTree current = root;
+        for (char c : words.toCharArray()) {
+            contains[c - 'a'] = true;
+            if (current.getByChar(c) == null) {
+                current.addChar(c, new PrefixTree());
+            }
+            current = current.getByChar(c);
+        }
+        current.isEnd = true;
+    }
+
+    static class PrefixTree {
+        private final PrefixTree[] links = new PrefixTree[26];
+        private boolean isEnd;
+
+        public void addChar(char c, PrefixTree prefixTree) {
+            this.links[c - 'a'] = prefixTree;
+        }
+
+        public PrefixTree getByChar(char c) {
+            return this.links[c - 'a'];
+        }
+    }
+
+      /* Time Limit Exceeded
     public List<String> findAllConcatenatedWordsInADict(String[] words) {
         if (words == null || words.length <= 1) {
             return Collections.emptyList();
@@ -31,7 +110,7 @@ public class ConcatenatedWords472 {
         return false;
     }
 
-    /*
+
     private boolean dfs(String word, int i, Set<String> set, List<String> results) {
         final String now = word.substring(i);
         if (now.length() < 1) {
