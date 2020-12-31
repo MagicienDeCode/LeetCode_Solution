@@ -2,18 +2,18 @@ package stack
 
 fun main() {
     val lineNumber = 1
-    val title = "456. 132 Pattern"
-    val titleLink = "https://leetcode.com/problems/132-pattern/"
-    val javaClassName = "Pattern132456"
-    val kotlinClassName = "Pattern132Kotlin456"
+    val title = "84. Largest Rectangle in Histogram"
+    val titleLink = "https://leetcode.com/problems/largest-rectangle-in-histogram/"
+    val javaClassName = "LargestRectangleinHistogram84"
+    val kotlinClassName = "-"
 
-    // val level = "Hard"
-    val level = "Medium"
+    val level = "Hard"
+    // val level = "Medium"
     // val level = "Easy"
 
-    val youtubeId = "tlHP-C3MefA"
-    val bilibiliId = "BV1fZ4y1G7Ze"
-    val ixiguaId = "6886927329113670151"
+    val youtubeId = "nEd-QQFldCo"
+    val bilibiliId = "BV1dA411p7DF"
+    val ixiguaId = "6912403778180383239"
 
     val youtube = "https://www.youtube.com/watch?v=$youtubeId"
     val bilibili = "https://www.bilibili.com/video/$bilibiliId/"
