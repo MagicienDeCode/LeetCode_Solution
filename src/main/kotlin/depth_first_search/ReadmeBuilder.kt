@@ -2,14 +2,14 @@ package depth_first_search
 
 fun main() {
     val lineNumber = 2
-    val title = "472. Concatenated Words"
-    val titleLink = "https://leetcode.com/problems/concatenated-words/"
-    val javaClassName = "ConcatenatedWords472"
+    val title = "576. Out of Boundary Paths"
+    val titleLink = "https://leetcode.com/problems/out-of-boundary-paths/"
+    val javaClassName = "OutofBoundaryPaths576"
     val kotlinClassName = "-"
 
-    val youtubeId = "_zDHviyaXDc"
-    val bilibiliId = "BV1DX4y1u7oS"
-    val ixiguaId = "6911668177613259278"
+    val youtubeId = "vN-H02SLlXI"
+    val bilibiliId = "BV1kp4y1B7xh"
+    val ixiguaId = "6912905390439006734"
 
     val youtube = "https://www.youtube.com/watch?v=$youtubeId"
     val bilibili = "https://www.bilibili.com/video/$bilibiliId/"
