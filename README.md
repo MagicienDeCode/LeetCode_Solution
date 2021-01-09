@@ -104,6 +104,7 @@
 |15|[546. Remove Boxes](https://leetcode.com/problems/remove-boxes/)|[Java](https://github.com/MagicienDeCode/LeetCode_Solution/blob/master/src/main/java/dynamic_programming/RemoveBoxes546.java)|-|Hard|[Youtube](https://www.youtube.com/watch?v=wK5SVY1uf9A)|[bilibili](https://www.bilibili.com/video/BV1vT4y1M73m/)|[ixigua](https://www.ixigua.com/i6907317725559783944/)|
 |16|[547. Friend Circles](https://leetcode.com/problems/friend-circles/)|[Java](https://github.com/MagicienDeCode/LeetCode_Solution/blob/master/src/main/java/depth_first_search/FriendCircles547.java)|-|Medium|[Youtube](https://www.youtube.com/watch?v=Xf1rCNFdmRQ)|[bilibili](https://www.bilibili.com/video/BV1Nt4y1k79W/)|[ixigua](https://www.ixigua.com/i6908082170514899470/)|
 |17|[576. Out of Boundary Paths](https://leetcode.com/problems/out-of-boundary-paths/)|[Java](https://github.com/MagicienDeCode/LeetCode_Solution/blob/master/src/main/java/depth_first_search/OutofBoundaryPaths576.java)|-|Medium|[Youtube](https://www.youtube.com/watch?v=vN-H02SLlXI)|[bilibili](https://www.bilibili.com/video/BV1kp4y1B7xh/)|[ixigua](https://www.ixigua.com/i6912905390439006734/)|
+|18|[721. Accounts Merge](https://leetcode.com/problems/accounts-merge/)|[Java](https://github.com/MagicienDeCode/LeetCode_Solution/blob/master/src/main/java/depth_first_search/AccountsMerge721.java)|-|Medium|[Youtube](https://www.youtube.com/watch?v=1d2q3hS79vM)|[bilibili](https://www.bilibili.com/video/BV1AK411u7H7/)|[ixigua](https://www.ixigua.com/i6915873299855573512/)|
 
 - Math
 

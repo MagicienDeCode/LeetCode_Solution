@@ -1,5 +1,8 @@
 package depth_first_search;
 
+import java.util.LinkedList;
+import java.util.Queue;
+
 public class MaxAreaofIsland695 {
     public int maxAreaOfIsland(int[][] grid) {
         if (grid.length == 0) {

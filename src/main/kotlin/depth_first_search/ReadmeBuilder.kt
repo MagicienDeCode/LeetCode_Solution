@@ -2,14 +2,14 @@ package depth_first_search
 
 fun main() {
     val lineNumber = 2
-    val title = "576. Out of Boundary Paths"
-    val titleLink = "https://leetcode.com/problems/out-of-boundary-paths/"
-    val javaClassName = "OutofBoundaryPaths576"
+    val title = "721. Accounts Merge"
+    val titleLink = "https://leetcode.com/problems/accounts-merge/"
+    val javaClassName = "AccountsMerge721"
     val kotlinClassName = "-"
 
-    val youtubeId = "vN-H02SLlXI"
-    val bilibiliId = "BV1kp4y1B7xh"
-    val ixiguaId = "6912905390439006734"
+    val youtubeId = "1d2q3hS79vM"
+    val bilibiliId = "BV1AK411u7H7"
+    val ixiguaId = "6915873299855573512"
 
     val youtube = "https://www.youtube.com/watch?v=$youtubeId"
     val bilibili = "https://www.bilibili.com/video/$bilibiliId/"
