@@ -132,9 +132,14 @@
 
 
 - Deque
+
 | # | Title | Java | Kotlin | Difficulty | Youtube | bilibili | ixiagua |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |1|[239. Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)|[Java](https://github.com/MagicienDeCode/LeetCode_Solution/blob/master/src/main/java/sliding_window/SlidingWindowMaximum239.java)|[Kotlin](https://github.com/MagicienDeCode/LeetCode_Solution/blob/master/src/main/kotlin/sliding_window/SlidingWindowMaximumKotlin239.kt)|Hard|[Youtube](https://www.youtube.com/watch?v=3_DkjG_KMmw)|[bilibili](https://www.bilibili.com/video/BV1jz4y1k7yQ/)|[ixigua](https://www.ixigua.com/i6900298081410122247/)|
 
 
+- Data Structure
 
+| # | Title | Java | Kotlin | Difficulty | Youtube | bilibili | ixiagua |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|1|[Binary Indexed Tree (Fenwick Tree)](#)|-|-|Hard|[Youtube](https://www.youtube.com/watch?v=pUy8Q_m_HLo)|[bilibili](https://www.bilibili.com/video/BV1oz4y1z791/)|[ixigua](https://www.ixigua.com/i6916631742375789064/)|

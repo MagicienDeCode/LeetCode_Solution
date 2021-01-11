@@ -2,7 +2,7 @@ package bit_operation
 
 fun main() {
     val lineNumber = 1
-    val title = "187. Repeated DNA Sequences"
+    val title = "Binary Indexed Tree (Fenwick Tree)"
     val titleLink = "https://leetcode.com/problems/repeated-dna-sequences/"
     val javaClassName = "RepeatedDNASequences187"
     val kotlinClassName = "RepeatedDNASequencesKotlin187"
@@ -11,9 +11,9 @@ fun main() {
     val level = "Medium"
     // val level = "Easy"
 
-    val youtubeId = "kL8GevQ7Rg4"
-    val bilibiliId = "BV1Na4y1L7eZ"
-    val ixiguaId = "6884589266194661895"
+    val youtubeId = "pUy8Q_m_HLo"
+    val bilibiliId = "BV1oz4y1z791"
+    val ixiguaId = "6916631742375789064"
 
     val youtube = "https://www.youtube.com/watch?v=$youtubeId"
     val bilibili = "https://www.bilibili.com/video/$bilibiliId/"
