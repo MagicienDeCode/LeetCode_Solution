@@ -2,18 +2,18 @@ package bit_operation
 
 fun main() {
     val lineNumber = 1
-    val title = "Binary Indexed Tree (Fenwick Tree)"
-    val titleLink = "https://leetcode.com/problems/repeated-dna-sequences/"
-    val javaClassName = "RepeatedDNASequences187"
-    val kotlinClassName = "RepeatedDNASequencesKotlin187"
+    val title = "1649. Create Sorted Array through Instructions"
+    val titleLink = "https://leetcode.com/problems/create-sorted-array-through-instructions/"
+    val javaClassName = "CreateSortedArraythroughInstructions1649"
+    val kotlinClassName = "-"
 
-    // val level = "Hard"
-    val level = "Medium"
+    val level = "Hard"
+    // val level = "Medium"
     // val level = "Easy"
 
-    val youtubeId = "pUy8Q_m_HLo"
-    val bilibiliId = "BV1oz4y1z791"
-    val ixiguaId = "6916631742375789064"
+    val youtubeId = "R-poYDH0-TM"
+    val bilibiliId = "BV1JU4y1472N"
+    val ixiguaId = "6916981350280987149"
 
     val youtube = "https://www.youtube.com/watch?v=$youtubeId"
     val bilibili = "https://www.bilibili.com/video/$bilibiliId/"

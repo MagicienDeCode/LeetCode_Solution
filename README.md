@@ -143,3 +143,5 @@
 | # | Title | Java | Kotlin | Difficulty | Youtube | bilibili | ixiagua |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |1|[Binary Indexed Tree (Fenwick Tree)](#)|-|-|Hard|[Youtube](https://www.youtube.com/watch?v=pUy8Q_m_HLo)|[bilibili](https://www.bilibili.com/video/BV1oz4y1z791/)|[ixigua](https://www.ixigua.com/i6916631742375789064/)|
+|1|[1649. Create Sorted Array through Instructions](https://leetcode.com/problems/create-sorted-array-through-instructions/)|[Java](https://github.com/MagicienDeCode/LeetCode_Solution/blob/master/src/main/java/bit_operation/CreateSortedArraythroughInstructions1649.java)|-|Hard|[Youtube](https://www.youtube.com/watch?v=R-poYDH0-TM)|[bilibili](https://www.bilibili.com/video/BV1JU4y1472N/)|[ixigua](https://www.ixigua.com/i6916981350280987149/)|
+
