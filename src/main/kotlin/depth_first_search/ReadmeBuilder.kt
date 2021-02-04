@@ -2,14 +2,14 @@ package depth_first_search
 
 fun main() {
     val lineNumber = 2
-    val title = "721. Accounts Merge"
-    val titleLink = "https://leetcode.com/problems/accounts-merge/"
-    val javaClassName = "AccountsMerge721"
+    val title = "802. Find Eventual Safe States"
+    val titleLink = "https://leetcode.com/problems/find-eventual-safe-states/"
+    val javaClassName = "FindEventualSafeStates802"
     val kotlinClassName = "-"
 
-    val youtubeId = "1d2q3hS79vM"
-    val bilibiliId = "BV1AK411u7H7"
-    val ixiguaId = "6915873299855573512"
+    val youtubeId = "_fjJFJl46uQ"
+    val bilibiliId = "BV1hT4y1P76x"
+    val ixiguaId = "6924752143366750733"
 
     val youtube = "https://www.youtube.com/watch?v=$youtubeId"
     val bilibili = "https://www.bilibili.com/video/$bilibiliId/"

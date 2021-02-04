@@ -105,6 +105,7 @@
 |16|[547. Friend Circles](https://leetcode.com/problems/friend-circles/)|[Java](https://github.com/MagicienDeCode/LeetCode_Solution/blob/master/src/main/java/depth_first_search/FriendCircles547.java)|-|Medium|[Youtube](https://www.youtube.com/watch?v=Xf1rCNFdmRQ)|[bilibili](https://www.bilibili.com/video/BV1Nt4y1k79W/)|[ixigua](https://www.ixigua.com/i6908082170514899470/)|
 |17|[576. Out of Boundary Paths](https://leetcode.com/problems/out-of-boundary-paths/)|[Java](https://github.com/MagicienDeCode/LeetCode_Solution/blob/master/src/main/java/depth_first_search/OutofBoundaryPaths576.java)|-|Medium|[Youtube](https://www.youtube.com/watch?v=vN-H02SLlXI)|[bilibili](https://www.bilibili.com/video/BV1kp4y1B7xh/)|[ixigua](https://www.ixigua.com/i6912905390439006734/)|
 |18|[721. Accounts Merge](https://leetcode.com/problems/accounts-merge/)|[Java](https://github.com/MagicienDeCode/LeetCode_Solution/blob/master/src/main/java/depth_first_search/AccountsMerge721.java)|-|Medium|[Youtube](https://www.youtube.com/watch?v=1d2q3hS79vM)|[bilibili](https://www.bilibili.com/video/BV1AK411u7H7/)|[ixigua](https://www.ixigua.com/i6915873299855573512/)|
+|19|[802. Find Eventual Safe States](https://leetcode.com/problems/find-eventual-safe-states/)|[Java](https://github.com/MagicienDeCode/LeetCode_Solution/blob/master/src/main/java/depth_first_search/FindEventualSafeStates802.java)|-|Medium|[Youtube](https://www.youtube.com/watch?v=_fjJFJl46uQ)|[bilibili](https://www.bilibili.com/video/BV1hT4y1P76x/)|[ixigua](https://www.ixigua.com/i6924752143366750733/)|
 
 - Math
 
@@ -152,3 +153,6 @@
 | # | Title | Java | Kotlin | Difficulty | Youtube | bilibili | ixiagua |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |1|[1675. Minimize Deviation in Array](https://leetcode.com/problems/minimize-deviation-in-array/)|[Java](https://github.com/MagicienDeCode/LeetCode_Solution/blob/master/src/main/java/priority_queue/MinimizeDeviationinArray1675.java)|-|Hard|[Youtube](https://www.youtube.com/watch?v=mg8Qzmxq83s)|[bilibili](https://www.bilibili.com/video/BV1nU4y1s7Nr/)|[ixigua](https://www.ixigua.com/i6923956820977385992/)|
+|2|[632. Smallest Range Covering Elements from K Lists](https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists/)|[Java](https://github.com/MagicienDeCode/LeetCode_Solution/blob/master/src/main/java/priority_queue/SmallestRangeCoveringElementsfromKLists632.java)|-|Hard|[Youtube](https://www.youtube.com/watch?v=daW5QGyXyqU)|[bilibili](https://www.bilibili.com/video/BV1Sv4y1o7Bw/)|[ixigua](https://www.ixigua.com/i6925512245250097677/)|
+
+
