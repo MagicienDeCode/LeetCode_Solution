@@ -2,18 +2,18 @@ package stack
 
 fun main() {
     val lineNumber = 1
-    val title = "1673. Find the Most Competitive Subsequence"
-    val titleLink = "https://leetcode.com/problems/find-the-most-competitive-subsequence/"
-    val javaClassName = "FindtheMostCompetitiveSubsequence1673"
+    val title = "71. Simplify Path"
+    val titleLink = "https://leetcode.com/problems/simplify-path/"
+    val javaClassName = "SimplifyPath71"
     val kotlinClassName = "-"
 
     // val level = "Hard"
     val level = "Medium"
     // val level = "Easy"
 
-    val youtubeId = "C5XWuqAvih8"
-    val bilibiliId = "BV1Gv411s7Us"
-    val ixiguaId = "6920329367486726669"
+    val youtubeId = "6wKdXkVVIEQ"
+    val bilibiliId = "BV16N411R7Z4"
+    val ixiguaId = "6925900483559162382"
 
     val youtube = "https://www.youtube.com/watch?v=$youtubeId"
     val bilibili = "https://www.bilibili.com/video/$bilibiliId/"
