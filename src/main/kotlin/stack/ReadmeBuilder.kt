@@ -2,18 +2,18 @@ package stack
 
 fun main() {
     val lineNumber = 1
-    val title = "71. Simplify Path"
-    val titleLink = "https://leetcode.com/problems/simplify-path/"
-    val javaClassName = "SimplifyPath71"
+    val title = "1249. Minimum Remove to Make Valid Parentheses"
+    val titleLink = "https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/"
+    val javaClassName = "MinimumRemovetoMakeValidParentheses1249"
     val kotlinClassName = "-"
 
     // val level = "Hard"
     val level = "Medium"
     // val level = "Easy"
 
-    val youtubeId = "6wKdXkVVIEQ"
-    val bilibiliId = "BV16N411R7Z4"
-    val ixiguaId = "6925900483559162382"
+    val youtubeId = "_572SKOnkB0"
+    val bilibiliId = "BV11N411X72c"
+    val ixiguaId = "6931468161703215630"
 
     val youtube = "https://www.youtube.com/watch?v=$youtubeId"
     val bilibili = "https://www.bilibili.com/video/$bilibiliId/"
