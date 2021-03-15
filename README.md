@@ -149,7 +149,8 @@
 | # | Title | Java | Kotlin | Difficulty | Youtube | bilibili | ixiagua |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |1|[Binary Indexed Tree (Fenwick Tree)](#)|-|-|Hard|[Youtube](https://www.youtube.com/watch?v=pUy8Q_m_HLo)|[bilibili](https://www.bilibili.com/video/BV1oz4y1z791/)|[ixigua](https://www.ixigua.com/i6916631742375789064/)|
-|1|[1649. Create Sorted Array through Instructions](https://leetcode.com/problems/create-sorted-array-through-instructions/)|[Java](https://github.com/MagicienDeCode/LeetCode_Solution/blob/master/src/main/java/bit_operation/CreateSortedArraythroughInstructions1649.java)|-|Hard|[Youtube](https://www.youtube.com/watch?v=R-poYDH0-TM)|[bilibili](https://www.bilibili.com/video/BV1JU4y1472N/)|[ixigua](https://www.ixigua.com/i6916981350280987149/)|
+|2|[1649. Create Sorted Array through Instructions](https://leetcode.com/problems/create-sorted-array-through-instructions/)|[Java](https://github.com/MagicienDeCode/LeetCode_Solution/blob/master/src/main/java/bit_operation/CreateSortedArraythroughInstructions1649.java)|-|Hard|[Youtube](https://www.youtube.com/watch?v=R-poYDH0-TM)|[bilibili](https://www.bilibili.com/video/BV1JU4y1472N/)|[ixigua](https://www.ixigua.com/i6916981350280987149/)|
+|3|[535. Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl/)|[Java](https://github.com/MagicienDeCode/LeetCode_Solution/blob/master/src/main/java/hash_map_set/EncodeandDecodeTinyURL535.java)|-|Medium|[Youtube](https://www.youtube.com/watch?v=Pkf_y3RXq1o)|[bilibili](https://www.bilibili.com/video/BV1NV411e7NK/)|[ixigua](https://www.ixigua.com/i6939974258395185672/)|
 
 
 - PriorityQueue
