@@ -2,14 +2,14 @@ package dynamic_programming
 
 fun main() {
     val lineNumber = 8
-    val title = "823. Binary Trees With Factors"
-    val titleLink = "https://leetcode.com/problems/binary-trees-with-factors/"
-    val javaClassName = "BinaryTreesWithFactors823"
+    val title = "474. Ones and Zeroes"
+    val titleLink = "https://leetcode.com/problems/ones-and-zeroes/"
+    val javaClassName = "OnesandZeroes474"
     val kotlinClassName = "-"
 
-    val youtubeId = "1XD7Q8VYtus"
-    val bilibiliId = "BV1Kb4y197CE"
-    val ixiguaId = "6939236891304657422"
+    val youtubeId = "bbhysQuTOqc"
+    val bilibiliId = "BV1x5411A7ou"
+    val ixiguaId = "6946683619238740494"
 
     val youtube = "https://www.youtube.com/watch?v=$youtubeId"
     val bilibili = "https://www.bilibili.com/video/$bilibiliId/"
