@@ -1,34 +1,31 @@
-package stack
 
 fun main() {
-    val lineNumber = 1
-    val title = "856. Score of Parentheses"
-    val titleLink = "https://leetcode.com/problems/score-of-parentheses/"
-    val javaClassName = "ScoreofParentheses856"
+    val lineNumber = 8
+    val title = "32. Longest Valid Parentheses"
+    val titleLink = "https://leetcode.com/problems/longest-valid-parentheses/"
+    val javaClassName = "LongestValidParentheses32"
     val kotlinClassName = "-"
 
-    // val level = "Hard"
-    val level = "Medium"
-    // val level = "Easy"
-
-    val youtubeId = "BtLe9RVdDEU"
-    val bilibiliId = "BV1i5411N7Gp"
-    val ixiguaId = "6933306340374741517"
+    val youtubeId = "AVS8pNDQhwE"
+    val bilibiliId = "BV1mv411j74z"
+    val ixiguaId = "6947021442621899272"
 
     val youtube = "https://www.youtube.com/watch?v=$youtubeId"
     val bilibili = "https://www.bilibili.com/video/$bilibiliId/"
     val ixigua = "https://www.ixigua.com/i$ixiguaId/"
 
     val javaLink =
-        "https://github.com/MagicienDeCode/LeetCode_Solution/blob/master/src/main/java/stack/$javaClassName.java"
+            "https://github.com/MagicienDeCode/LeetCode_Solution/blob/master/src/main/java/stack/$javaClassName.java"
     val kotlinLink =
-        "https://github.com/MagicienDeCode/LeetCode_Solution/blob/master/src/main/kotlin/stack/$kotlinClassName.kt"
+            "https://github.com/MagicienDeCode/LeetCode_Solution/blob/master/src/main/kotlin/stack/$kotlinClassName.kt"
+
+    val kotlinFinal = if (kotlinClassName == "-") "-" else "[Kotlin]($kotlinLink)"
 
     val result = """
             |$lineNumber|[$title]($titleLink)
             |[Java]($javaLink)
-            |[Kotlin]($kotlinLink)
-            |$level
+            |$kotlinFinal
+            |Medium
             |[Youtube]($youtube)
             |[bilibili]($bilibili)
             |[ixigua]($ixigua)
