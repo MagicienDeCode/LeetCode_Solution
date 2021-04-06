@@ -1,23 +1,24 @@
+package design
 
 fun main() {
     val lineNumber = 8
-    val title = "678. Valid Parenthesis String"
-    val titleLink = "https://leetcode.com/problems/valid-parenthesis-string/"
-    val javaClassName = "ValidParenthesisString678"
+    val title = "622. Design Circular Queue"
+    val titleLink = "https://leetcode.com/problems/design-circular-queue/"
+    val javaClassName = "DesignCircularQueue622"
     val kotlinClassName = "-"
 
-    val youtubeId = "1SLSAeSDpLo"
-    val bilibiliId = "BV1vh411D7vr"
-    val ixiguaId = "6948166588960866852"
+    val youtubeId = "dhnZa06NRs0"
+    val bilibiliId = "BV1eK411w7ev"
+    val ixiguaId = "6947311401853682213"
 
     val youtube = "https://www.youtube.com/watch?v=$youtubeId"
     val bilibili = "https://www.bilibili.com/video/$bilibiliId/"
     val ixigua = "https://www.ixigua.com/i$ixiguaId/"
 
     val javaLink =
-            "https://github.com/MagicienDeCode/LeetCode_Solution/blob/master/src/main/java/stack/$javaClassName.java"
+        "https://github.com/MagicienDeCode/LeetCode_Solution/blob/master/src/main/java/design/$javaClassName.java"
     val kotlinLink =
-            "https://github.com/MagicienDeCode/LeetCode_Solution/blob/master/src/main/kotlin/stack/$kotlinClassName.kt"
+        "https://github.com/MagicienDeCode/LeetCode_Solution/blob/master/src/main/kotlin/design/$kotlinClassName.kt"
 
     val kotlinFinal = if (kotlinClassName == "-") "-" else "[Kotlin]($kotlinLink)"
 

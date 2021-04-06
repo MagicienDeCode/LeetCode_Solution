@@ -144,6 +144,7 @@
 | # | Title | Java | Kotlin | Difficulty | Youtube | bilibili | ixiagua |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |1|[239. Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)|[Java](https://github.com/MagicienDeCode/LeetCode_Solution/blob/master/src/main/java/sliding_window/SlidingWindowMaximum239.java)|[Kotlin](https://github.com/MagicienDeCode/LeetCode_Solution/blob/master/src/main/kotlin/sliding_window/SlidingWindowMaximumKotlin239.kt)|Hard|[Youtube](https://www.youtube.com/watch?v=3_DkjG_KMmw)|[bilibili](https://www.bilibili.com/video/BV1jz4y1k7yQ/)|[ixigua](https://www.ixigua.com/i6900298081410122247/)|
+|2|[678. Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/)|[Java](https://github.com/MagicienDeCode/LeetCode_Solution/blob/master/src/main/java/stack/ValidParenthesisString678.java)|-|Medium|[Youtube](https://www.youtube.com/watch?v=1SLSAeSDpLo)|[bilibili](https://www.bilibili.com/video/BV1vh411D7vr/)|[ixigua](https://www.ixigua.com/i6948166588960866852/)|
 
 
 - Data Structure
@@ -153,6 +154,7 @@
 |1|[Binary Indexed Tree (Fenwick Tree)](#)|-|-|Hard|[Youtube](https://www.youtube.com/watch?v=pUy8Q_m_HLo)|[bilibili](https://www.bilibili.com/video/BV1oz4y1z791/)|[ixigua](https://www.ixigua.com/i6916631742375789064/)|
 |2|[1649. Create Sorted Array through Instructions](https://leetcode.com/problems/create-sorted-array-through-instructions/)|[Java](https://github.com/MagicienDeCode/LeetCode_Solution/blob/master/src/main/java/bit_operation/CreateSortedArraythroughInstructions1649.java)|-|Hard|[Youtube](https://www.youtube.com/watch?v=R-poYDH0-TM)|[bilibili](https://www.bilibili.com/video/BV1JU4y1472N/)|[ixigua](https://www.ixigua.com/i6916981350280987149/)|
 |3|[535. Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl/)|[Java](https://github.com/MagicienDeCode/LeetCode_Solution/blob/master/src/main/java/hash_map_set/EncodeandDecodeTinyURL535.java)|-|Medium|[Youtube](https://www.youtube.com/watch?v=Pkf_y3RXq1o)|[bilibili](https://www.bilibili.com/video/BV1NV411e7NK/)|[ixigua](https://www.ixigua.com/i6939974258395185672/)|
+|4|[622. Design Circular Queue](https://leetcode.com/problems/design-circular-queue/)|[Java](https://github.com/MagicienDeCode/LeetCode_Solution/blob/master/src/main/java/design/DesignCircularQueue622.java)|-|Medium|[Youtube](https://www.youtube.com/watch?v=dhnZa06NRs0)|[bilibili](https://www.bilibili.com/video/BV1eK411w7ev/)|[ixigua](https://www.ixigua.com/i6947311401853682213/)|
 
 
 - PriorityQueue
