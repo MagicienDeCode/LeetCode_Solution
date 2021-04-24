@@ -1,30 +1,31 @@
 package graph
 
 fun main() {
-    val lineNumber = 5
-    val title = "399. Evaluate Division"
-    val titleLink = "https://leetcode.com/problems/evaluate-division/"
-    val javaClassName = "EvaluateDivision399"
-    val kotlinClassName = "EvaluateDivisionKotlin399"
-    val youtubeId = "1HKYTyRKoec"
-    val bilibiliId = "BV1bK411P7KW"
-    val ixiguaId = "6877205563176911368"
+    val lineNumber = 8
+    val title = "1192. Critical Connections in a Network"
+    val titleLink = "https://leetcode.com/problems/critical-connections-in-a-network/"
+    val javaClassName = "CriticalConnectionsinaNetwork1192"
+    val kotlinClassName = "-"
+
+    val youtubeId = "eoHEQvicvKU"
+    val bilibiliId = "BV1H84y1F7uS"
+    val ixiguaId = "6954662732184420877"
 
     val youtube = "https://www.youtube.com/watch?v=$youtubeId"
     val bilibili = "https://www.bilibili.com/video/$bilibiliId/"
     val ixigua = "https://www.ixigua.com/i$ixiguaId/"
 
-    val pageName = "graph"
-
     val javaLink =
-        "https://github.com/MagicienDeCode/LeetCode_Solution/blob/master/src/main/java/$pageName/$javaClassName.java"
+            "https://github.com/MagicienDeCode/LeetCode_Solution/blob/master/src/main/java/graph/$javaClassName.java"
     val kotlinLink =
-        "https://github.com/MagicienDeCode/LeetCode_Solution/blob/master/src/main/kotlin/$pageName/$kotlinClassName.kt"
+            "https://github.com/MagicienDeCode/LeetCode_Solution/blob/master/src/main/kotlin/graph/$kotlinClassName.kt"
+
+    val kotlinFinal = if (kotlinClassName == "-") "-" else "[Kotlin]($kotlinLink)"
 
     val result = """
             |$lineNumber|[$title]($titleLink)
             |[Java]($javaLink)
-            |[Kotlin]($kotlinLink)
+            |$kotlinFinal
             |Medium
             |[Youtube]($youtube)
             |[bilibili]($bilibili)
