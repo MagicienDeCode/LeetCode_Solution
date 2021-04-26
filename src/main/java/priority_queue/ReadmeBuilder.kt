@@ -2,14 +2,14 @@ package priority_queue
 
 fun main() {
     val lineNumber = 2
-    val title = "632. Smallest Range Covering Elements from K Lists"
-    val titleLink = "https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists/"
-    val javaClassName = "SmallestRangeCoveringElementsfromKLists632"
+    val title = "1642. Furthest Building You Can Reach"
+    val titleLink = "https://leetcode.com/problems/furthest-building-you-can-reach/"
+    val javaClassName = "FurthestBuildingYouCanReach1642"
     val kotlinClassName = "-"
 
-    val youtubeId = "daW5QGyXyqU"
-    val bilibiliId = "BV1Sv4y1o7Bw"
-    val ixiguaId = "6925512245250097677"
+    val youtubeId = "c435cqiPgDM"
+    val bilibiliId = "BV1364y1U7Ds"
+    val ixiguaId = "6955465383868367368"
 
     val youtube = "https://www.youtube.com/watch?v=$youtubeId"
     val bilibili = "https://www.bilibili.com/video/$bilibiliId/"
