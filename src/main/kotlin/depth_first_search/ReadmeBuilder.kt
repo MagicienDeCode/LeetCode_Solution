@@ -2,14 +2,14 @@ package depth_first_search
 
 fun main() {
     val lineNumber = 2
-    val title = "802. Find Eventual Safe States"
-    val titleLink = "https://leetcode.com/problems/find-eventual-safe-states/"
-    val javaClassName = "FindEventualSafeStates802"
+    val title = "756. Pyramid Transition Matrix"
+    val titleLink = "https://leetcode.com/problems/pyramid-transition-matrix/"
+    val javaClassName = "PyramidTransitionMatrix756"
     val kotlinClassName = "-"
 
-    val youtubeId = "_fjJFJl46uQ"
-    val bilibiliId = "BV1hT4y1P76x"
-    val ixiguaId = "6924752143366750733"
+    val youtubeId = "KBxxK3DirqY"
+    val bilibiliId = "BV1KK4y1N7Fm"
+    val ixiguaId = "6956993207439720974"
 
     val youtube = "https://www.youtube.com/watch?v=$youtubeId"
     val bilibili = "https://www.bilibili.com/video/$bilibiliId/"
