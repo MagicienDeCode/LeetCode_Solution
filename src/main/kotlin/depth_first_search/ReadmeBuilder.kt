@@ -2,14 +2,14 @@ package depth_first_search
 
 fun main() {
     val lineNumber = 2
-    val title = "756. Pyramid Transition Matrix"
-    val titleLink = "https://leetcode.com/problems/pyramid-transition-matrix/"
-    val javaClassName = "PyramidTransitionMatrix756"
+    val title = "947. Most Stones Removed with Same Row or Column"
+    val titleLink = "https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/"
+    val javaClassName = "MostStonesRemovedwithSameRoworColumn947"
     val kotlinClassName = "-"
 
-    val youtubeId = "KBxxK3DirqY"
-    val bilibiliId = "BV1KK4y1N7Fm"
-    val ixiguaId = "6956993207439720974"
+    val youtubeId = "4ZrFVSuYQzk"
+    val bilibiliId = "BV1eQ4y1d7Jv"
+    val ixiguaId = "6959291684106535438"
 
     val youtube = "https://www.youtube.com/watch?v=$youtubeId"
     val bilibili = "https://www.bilibili.com/video/$bilibiliId/"
