@@ -2,14 +2,14 @@ package depth_first_search
 
 fun main() {
     val lineNumber = 2
-    val title = "947. Most Stones Removed with Same Row or Column"
-    val titleLink = "https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/"
-    val javaClassName = "MostStonesRemovedwithSameRoworColumn947"
+    val title = "959. Regions Cut By Slashes"
+    val titleLink = "https://leetcode.com/problems/regions-cut-by-slashes/"
+    val javaClassName = "RegionsCutBySlashes959"
     val kotlinClassName = "-"
 
-    val youtubeId = "4ZrFVSuYQzk"
-    val bilibiliId = "BV1eQ4y1d7Jv"
-    val ixiguaId = "6959291684106535438"
+    val youtubeId = "uUlGow0Q1r8"
+    val bilibiliId = "BV1U541137VJ"
+    val ixiguaId = "6960735581097689630"
 
     val youtube = "https://www.youtube.com/watch?v=$youtubeId"
     val bilibili = "https://www.bilibili.com/video/$bilibiliId/"
