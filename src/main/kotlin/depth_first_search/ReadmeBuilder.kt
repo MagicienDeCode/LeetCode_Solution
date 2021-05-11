@@ -2,14 +2,14 @@ package depth_first_search
 
 fun main() {
     val lineNumber = 2
-    val title = "959. Regions Cut By Slashes"
-    val titleLink = "https://leetcode.com/problems/regions-cut-by-slashes/"
-    val javaClassName = "RegionsCutBySlashes959"
+    val title = "1034. Coloring A Border"
+    val titleLink = "https://leetcode.com/problems/coloring-a-border/"
+    val javaClassName = "ColoringABorder1034"
     val kotlinClassName = "-"
 
-    val youtubeId = "uUlGow0Q1r8"
-    val bilibiliId = "BV1U541137VJ"
-    val ixiguaId = "6960735581097689630"
+    val youtubeId = "aVdz0uoBYik"
+    val bilibiliId = "BV1oK4y1d7qg"
+    val ixiguaId = "6961150508794905101"
 
     val youtube = "https://www.youtube.com/watch?v=$youtubeId"
     val bilibili = "https://www.bilibili.com/video/$bilibiliId/"
