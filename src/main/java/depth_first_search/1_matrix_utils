@@ -8,5 +8,3 @@ private boolean inBound(
 ) {
     return x >= 0 && y >= 0 && x < grid.length && y < grid[0].length;
 }
-
-
