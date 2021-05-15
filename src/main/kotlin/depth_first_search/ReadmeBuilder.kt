@@ -2,9 +2,9 @@ package depth_first_search
 
 fun main() {
     val lineNumber = 2
-    val title = "1034. Coloring A Border"
-    val titleLink = "https://leetcode.com/problems/coloring-a-border/"
-    val javaClassName = "ColoringABorder1034"
+    val title = "1254. Number of Closed Islands"
+    val titleLink = "https://leetcode.com/problems/number-of-closed-islands/"
+    val javaClassName = "NumberofClosedIslands1254"
     val kotlinClassName = "-"
 
     val youtubeId = "aVdz0uoBYik"

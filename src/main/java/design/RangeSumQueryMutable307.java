@@ -1,4 +1,4 @@
-package string_integer;
+package design;
 
 public class RangeSumQueryMutable307 {
 
