@@ -256,6 +256,7 @@
 | # | Title | Java | Kotlin | Difficulty | Youtube | bilibili | ixiagua |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |*1|[208. Implement Trie (Prefix Tree)](https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid/)|[Java](https://github.com/MagicienDeCode/LeetCode_Solution/blob/master/src/main/java/tree/ImplementTriePrefixTree208.java)|[Kotlin](https://github.com/MagicienDeCode/LeetCode_Solution/blob/master/src/main/kotlin/tree/ImplementTriePrefixTreeKotlin208.kt)|Medium|[Youtube](https://www.youtube.com/watch?v=jn9HIItmDwA)|[bilibili](https://www.bilibili.com/video/BV1Vi4y1M7LL/)|[ixigua](https://www.ixigua.com/i6864209917532701198/)|
+|2|[307. Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query-mutable/)|[Java](https://github.com/MagicienDeCode/LeetCode_Solution/blob/master/src/main/java/design/RangeSumQueryMutable307.java)|-|Medium|[Youtube](https://www.youtube.com/watch?v=sjOBpoxcioo)|[bilibili](https://www.bilibili.com/video/BV1B64y127jq/)|[ixigua](https://www.ixigua.com/i6947311401853682213/)|
 
 
 - Depth First Search, return result of children
@@ -372,6 +373,7 @@
 |22|[947. Most Stones Removed with Same Row or Column](https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/)|[Java](https://github.com/MagicienDeCode/LeetCode_Solution/blob/master/src/main/java/depth_first_search/MostStonesRemovedwithSameRoworColumn947.java)|-|Medium|[Youtube](https://www.youtube.com/watch?v=4ZrFVSuYQzk)|[bilibili](https://www.bilibili.com/video/BV1eQ4y1d7Jv/)|[ixigua](https://www.ixigua.com/i6959291684106535438/)|
 |23|[959. Regions Cut By Slashes](https://leetcode.com/problems/regions-cut-by-slashes/)|[Java](https://github.com/MagicienDeCode/LeetCode_Solution/blob/master/src/main/java/depth_first_search/RegionsCutBySlashes959.java)|-|Medium|[Youtube](https://www.youtube.com/watch?v=uUlGow0Q1r8)|[bilibili](https://www.bilibili.com/video/BV1U541137VJ/)|[ixigua](https://www.ixigua.com/i6960735581097689630/)|
 |24|[1034. Coloring A Border](https://leetcode.com/problems/coloring-a-border/)|[Java](https://github.com/MagicienDeCode/LeetCode_Solution/blob/master/src/main/java/depth_first_search/ColoringABorder1034.java)|-|Medium|[Youtube](https://www.youtube.com/watch?v=aVdz0uoBYik)|[bilibili](https://www.bilibili.com/video/BV1oK4y1d7qg/)|[ixigua](https://www.ixigua.com/i6961150508794905101/)|
+|25|[1254. Number of Closed Islands](https://leetcode.com/problems/number-of-closed-islands/)|[Java](https://github.com/MagicienDeCode/LeetCode_Solution/blob/master/src/main/java/depth_first_search/NumberofClosedIslands1254.java)|-|Medium|[Youtube](https://www.youtube.com/watch?v=bFLKrbzLtzA)|[bilibili](https://www.bilibili.com/video/BV13N411Z7ZS/)|[ixigua](https://www.ixigua.com/i6962957535318016542/)|
 
 - Math
 

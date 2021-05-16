@@ -2,13 +2,13 @@ package design
 
 fun main() {
     val lineNumber = 8
-    val title = "622. Design Circular Queue"
-    val titleLink = "https://leetcode.com/problems/design-circular-queue/"
-    val javaClassName = "DesignCircularQueue622"
+    val title = "307. Range Sum Query - Mutable"
+    val titleLink = "https://leetcode.com/problems/range-sum-query-mutable/"
+    val javaClassName = "RangeSumQueryMutable307"
     val kotlinClassName = "-"
 
-    val youtubeId = "dhnZa06NRs0"
-    val bilibiliId = "BV1eK411w7ev"
+    val youtubeId = "sjOBpoxcioo"
+    val bilibiliId = "BV1B64y127jq"
     val ixiguaId = "6947311401853682213"
 
     val youtube = "https://www.youtube.com/watch?v=$youtubeId"

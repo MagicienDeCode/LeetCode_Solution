@@ -7,9 +7,9 @@ fun main() {
     val javaClassName = "NumberofClosedIslands1254"
     val kotlinClassName = "-"
 
-    val youtubeId = "aVdz0uoBYik"
-    val bilibiliId = "BV1oK4y1d7qg"
-    val ixiguaId = "6961150508794905101"
+    val youtubeId = "bFLKrbzLtzA"
+    val bilibiliId = "BV13N411Z7ZS"
+    val ixiguaId = "6962957535318016542"
 
     val youtube = "https://www.youtube.com/watch?v=$youtubeId"
     val bilibili = "https://www.bilibili.com/video/$bilibiliId/"
