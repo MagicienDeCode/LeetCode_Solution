@@ -1,8 +1,26 @@
 package binary_search;
 
-import java.util.TreeSet;
-
 public class LongestIncreasingSubsequence300 {
+    public int lengthOfLIS(int[] nums) {
+        if (nums.length == 0) {
+            return 0;
+        }
+        final int[] dp = new int[nums.length];
+        dp[0] = 1;
+        int max = 1;
+        for (int i = 1; i < dp.length; i++) {
+            int current = 0;
+            for (int j = 0; j < i; j++) {
+                if (nums[i] > nums[j]) {
+                    current = Math.max(current, dp[j]);
+                }
+            }
+            dp[i] = current + 1;
+            max = Math.max(max, dp[i]);
+        }
+        return max;
+    }
+    /*
     public int lengthOfLIS(int[] nums) {
         if (nums == null || nums.length == 0) {
             return 0;
@@ -18,6 +36,7 @@ public class LongestIncreasingSubsequence300 {
         }
         return result.size();
     }
+     */
     /*
     public int lengthOfLIS(int[] nums) {
         if (nums == null || nums.length == 0) {
