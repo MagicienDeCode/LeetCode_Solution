@@ -1,7 +1,8 @@
 # Leetcode solution and test using java / kotlin
+
 - [Subscribe 代码魔术师magiciendecode on Youtube](https://www.youtube.com/channel/UCERe5JqcmPtyo3dzX94by1g?sub_confirmation=1)
 - [Please follow me at bilibili](https://space.bilibili.com/520811931)
-- [Please follow me at ixigua](https://www.ixigua.com/home/105169725727/) 
+- [Please follow me at ixigua](https://www.ixigua.com/home/105169725727/)
 
 ## Index
 
@@ -10,12 +11,13 @@
     2. search the ( first / last ) ( position / element )
     3. search with complex conditions
     4. binary search the result range with a verification function
-  
+
 | # | Title | Youtube | bilibili | ixiagua |
 |:---:|:---:|:---:|:---:|:---:|
 |0|[All In One](https://github.com/MagicienDeCode/LeetCode_Solution/blob/master/src/BS_ALL_IN_ONE.pdf)|[Youtube](https://www.youtube.com/watch?v=vs4jGMu5djk)|[bilibili](https://www.bilibili.com/video/BV1Va4y1e7Yf/)|[ixigua](https://www.ixigua.com/i6844933379972923908/)|
 
 - Template
+
 ```$java
     public int searchLastPosition(int[] nums, int target) {
         if (nums == null || nums.length == 0) {
@@ -144,12 +146,11 @@
 |8|[436. Find Right Interval](https://leetcode.com/problems/find-right-interval/)|[Java](https://github.com/MagicienDeCode/LeetCode_Solution/blob/master/src/main/java/binary_search/FindRightInterval436.java)|[Kotlin](https://github.com/MagicienDeCode/LeetCode_Solution/blob/master/src/main/kotlin/binary_search/FindRightIntervalKotlin436.kt)|Medium|[Youtube](https://www.youtube.com/watch?v=3iF0bUDVQ0E)|[bilibili](https://www.bilibili.com/video/BV1664y1T7YW/)|[ixigua](https://www.ixigua.com/i6817867831019831819/)|
 |9|[927. Three Equal Parts](https://leetcode.com/problems/three-equal-parts/)|[Java](https://github.com/MagicienDeCode/LeetCode_Solution/blob/master/src/main/java/binary_search/ThreeEqualParts927.java)|[Kotlin](https://github.com/MagicienDeCode/LeetCode_Solution/blob/master/src/main/kotlin/binary_search/ThreeEqualPartsKotlin927.kt)|Hard|[Youtube](https://www.youtube.com/watch?v=vhcAHiaNbc8)|[bilibili](https://www.bilibili.com/video/BV1kD4y1D7PQ/)|[ixigua](https://www.ixigua.com/i6841588029421781512/)|
 
-
 - [Breadth First Search](https://github.com/MagicienDeCode/LeetCode_Solution/blob/master/src/bfs.md)
     1. BFS in Binary Tree
     2. BFS in Graph ( Topological Sorting )
     3. BFS in matrix
-  
+
 | # | Title | Youtube | bilibili | ixiagua |
 |:---:|:---:|:---:|:---:|:---:|
 |0|[All In One](https://github.com/MagicienDeCode/LeetCode_Solution/blob/master/src/BFS_ALL_IN_ONE.pdf)|[Youtube](https://www.youtube.com/watch?v=pAZrj2pJlO0)|[bilibili](https://www.bilibili.com/video/BV1Dh411d77f/)|[ixigua](https://www.ixigua.com/i6863856731831665159/)|
@@ -214,7 +215,6 @@
 |-|[1298. Maximum Candies You Can Get from Boxes](https://leetcode.com/problems/maximum-candies-you-can-get-from-boxes/)|[Java](https://github.com/MagicienDeCode/LeetCode_Solution/blob/master/src/main/java/breadth_first_search/MaximumCandiesYouCanGetfromBoxes1298.java)|[Kotlin](https://github.com/MagicienDeCode/LeetCode_Solution/blob/master/src/main/kotlin/breadth_first_search/MaximumCandiesYouCanGetfromBoxesKotlin1298.kt)|Hard|[Youtube](https://www.youtube.com/watch?v=2QCiAVD4LwU)|[bilibili](https://www.bilibili.com/video/BV1B54y1U7tX/)|[ixigua](https://www.ixigua.com/i6862712851807601166/)|
 |-|[1368. Minimum Cost to Make at Least One Valid Path in a Grid](https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid/)|[Java](https://github.com/MagicienDeCode/LeetCode_Solution/blob/master/src/main/java/breadth_first_search/MinimumCosttoMakeatLeastOneValidPathinaGrid1368.java)|[Kotlin](https://github.com/MagicienDeCode/LeetCode_Solution/blob/master/src/main/kotlin/breadth_first_search/MinimumCosttoMakeatLeastOneValidPathinaGridKotlin1368.kt)|Hard|[Youtube](https://www.youtube.com/watch?v=akG-RWBnExw)|[bilibili](https://www.bilibili.com/video/BV1xV411U7Cm/)|[ixigua](https://www.ixigua.com/i6863434273815429645/)|
 
-
 - [Tree](https://github.com/MagicienDeCode/LeetCode_Solution/blob/master/src/tree.md)
     1. Preorder / Inorder / postorder traversal (and construct)
     2. Data Structure
@@ -224,7 +224,6 @@
 | # | Title | Youtube | bilibili | ixiagua |
 |:---:|:---:|:---:|:---:|:---:|
 |0|[All In One](https://github.com/MagicienDeCode/LeetCode_Solution/blob/master/src/TREE_ALL_IN_ONE.pdf)|[Youtube](https://www.youtube.com/watch?v=I0c29ejz7g8)|[bilibili](https://www.bilibili.com/video/BV1oV411h7HN/)|[ixigua](https://www.ixigua.com/i6897631156003406343/)|
-
 
 - Preorder / Inorder / postorder traversal (and construct)
 
@@ -250,14 +249,12 @@
 |18|[1028. Recover a Tree From Preorder Traversal](https://leetcode.com/problems/recover-a-tree-from-preorder-traversal/)|[Java](https://github.com/MagicienDeCode/LeetCode_Solution/blob/master/src/main/java/tree/RecoveraTreeFromPreorderTraversal1028.java)|[Kotlin](https://github.com/MagicienDeCode/LeetCode_Solution/blob/master/src/main/kotlin/tree/RecoveraTreeFromPreorderTraversalKotlin1028.kt)|Hard|[Youtube](https://www.youtube.com/watch?v=BKQM3m_C4zs)|[bilibili](https://www.bilibili.com/video/BV1Fp4y1C7r3/)|[ixigua](https://www.ixigua.com/i6890980431978562061/)|
 |19|[1104. Path In Zigzag Labelled Binary Tree](https://leetcode.com/problems/path-in-zigzag-labelled-binary-tree/)|[Java](https://github.com/MagicienDeCode/LeetCode_Solution/blob/master/src/main/java/tree/PathInZigzagLabelledBinaryTree1104.java)|[Kotlin](https://github.com/MagicienDeCode/LeetCode_Solution/blob/master/src/main/kotlin/tree/PathInZigzagLabelledBinaryTreeKotlin1104.kt)|Medium|[Youtube](https://www.youtube.com/watch?v=I9jC9jehTI4)|[bilibili](https://www.bilibili.com/video/BV1rf4y1i7KE/)|[ixigua](https://www.ixigua.com/i6891375472651797006/)|
 
-
 - Data Structure
 
 | # | Title | Java | Kotlin | Difficulty | Youtube | bilibili | ixiagua |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |*1|[208. Implement Trie (Prefix Tree)](https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid/)|[Java](https://github.com/MagicienDeCode/LeetCode_Solution/blob/master/src/main/java/tree/ImplementTriePrefixTree208.java)|[Kotlin](https://github.com/MagicienDeCode/LeetCode_Solution/blob/master/src/main/kotlin/tree/ImplementTriePrefixTreeKotlin208.kt)|Medium|[Youtube](https://www.youtube.com/watch?v=jn9HIItmDwA)|[bilibili](https://www.bilibili.com/video/BV1Vi4y1M7LL/)|[ixigua](https://www.ixigua.com/i6864209917532701198/)|
 |2|[307. Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query-mutable/)|[Java](https://github.com/MagicienDeCode/LeetCode_Solution/blob/master/src/main/java/design/RangeSumQueryMutable307.java)|-|Medium|[Youtube](https://www.youtube.com/watch?v=sjOBpoxcioo)|[bilibili](https://www.bilibili.com/video/BV1B64y127jq/)|[ixigua](https://www.ixigua.com/i6947311401853682213/)|
-
 
 - Depth First Search, return result of children
 
@@ -279,7 +276,6 @@
 |14|[1466. Reorder Routes to Make All Paths Lead to the City Zero](https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero/)|[Java](https://github.com/MagicienDeCode/LeetCode_Solution/blob/master/src/main/java/tree/ReorderRoutestoMakeAllPathsLeadtotheCityZero1466.java)|-|Medium|[Youtube](https://www.youtube.com/watch?v=MTL0or0O4No)|[bilibili](https://www.bilibili.com/video/BV1Yt4y1a7xX/)|[ixigua](https://www.ixigua.com/i6896189621126824461/)|
 |15|[1600. Throne Inheritance](https://leetcode.com/problems/throne-inheritance/)|[Java](https://github.com/MagicienDeCode/LeetCode_Solution/blob/master/src/main/java/tree/ThroneInheritance1600.java)|-|Medium|[Youtube](https://www.youtube.com/watch?v=9Xh36vNqrPk)|[bilibili](https://www.bilibili.com/video/BV1wy4y1q7MV/)|[ixigua](https://www.ixigua.com/i6896570857938747918/)|
 
-
 - Breadth First Search
 
 | # | Title | Java | Kotlin | Difficulty | Youtube | bilibili | ixiagua |
@@ -292,7 +288,6 @@
 |6|[958. Check Completeness of a Binary Tree](https://leetcode.com/problems/check-completeness-of-a-binary-tree/)|[Java](https://github.com/MagicienDeCode/LeetCode_Solution/blob/master/src/main/java/tree/CheckCompletenessofaBinaryTree958.java)|[Kotlin](https://github.com/MagicienDeCode/LeetCode_Solution/blob/master/src/main/kotlin/tree/CheckCompletenessofaBinaryTreeKotlin958.kt)|Medium|[Youtube](https://www.youtube.com/watch?v=ZPn0BZ2SNog)|[bilibili](https://www.bilibili.com/video/BV16a4y1L7zd/)|[ixigua](https://www.ixigua.com/i6887648660562280968/)|
 |7|[988. Smallest String Starting From Leaf](https://leetcode.com/problems/smallest-string-starting-from-leaf/)|[Java](https://github.com/MagicienDeCode/LeetCode_Solution/blob/master/src/main/java/tree/SmallestStringStartingFromLeaf988.java)|-|Medium|[Youtube](https://www.youtube.com/watch?v=1IJ5Dd2GcvA)|[bilibili](https://www.bilibili.com/video/BV1Wy4y1r7AR/)|[ixigua](https://www.ixigua.com/i6889470373054644750/)|
 |8|[1261. Find Elements in a Contaminated Binary Tree](https://leetcode.com/problems/find-elements-in-a-contaminated-binary-tree/)|[Java](https://github.com/MagicienDeCode/LeetCode_Solution/blob/master/src/main/java/tree/FindElementsinaContaminatedBinaryTree1261.java)|-|Medium|[Youtube](https://www.youtube.com/watch?v=X6I-B3V0trc)|[bilibili](https://www.bilibili.com/video/BV1gK4y1E7r8/)|[ixigua](https://www.ixigua.com/i6893599691657708046/)|
-
 
 - Dynamic Programming
 
@@ -331,7 +326,6 @@
 |12|[59. Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/)|[Java](https://github.com/MagicienDeCode/LeetCode_Solution/blob/master/src/main/java/list_array/SpiralMatrixII59.java)|[Kotlin](https://github.com/MagicienDeCode/LeetCode_Solution/blob/master/src/main/kotlin/list_array/-.kt)|Medium|[Youtube](https://www.youtube.com/watch?v=iXMukcc1TiI)|[bilibili](https://www.bilibili.com/video/BV1Kf4y1i73g/)|[ixigua](https://www.ixigua.com/i6903987308509266446/)|
 |13|[498. Diagonal Traverse](https://leetcode.com/problems/diagonal-traverse/)|[Java](https://github.com/MagicienDeCode/LeetCode_Solution/blob/master/src/main/java/breadth_first_search/DiagonalTraverse498.java)|-|Medium|[Youtube](https://www.youtube.com/watch?v=F3N5PqvlG4s)|[bilibili](https://www.bilibili.com/video/BV1wK4y1j7JU/)|[ixigua](https://www.ixigua.com/i6910254879575376392/)|
 |14|[1074. Number of Submatrices That Sum to Target](https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/)|[Java](https://github.com/MagicienDeCode/LeetCode_Solution/blob/master/src/main/java/hash_map_set/NumberofSubmatricesThatSumtoTarget1074.java)|-|Medium|[Youtube](https://www.youtube.com/watch?v=-L7eZryufgI)|[bilibili](https://www.bilibili.com/video/BV1A54y187UH/)|[ixigua](https://www.ixigua.com/i6952243172940448287/)|
-
 
 - Graph
 
@@ -375,7 +369,8 @@
 |24|[1034. Coloring A Border](https://leetcode.com/problems/coloring-a-border/)|[Java](https://github.com/MagicienDeCode/LeetCode_Solution/blob/master/src/main/java/depth_first_search/ColoringABorder1034.java)|-|Medium|[Youtube](https://www.youtube.com/watch?v=aVdz0uoBYik)|[bilibili](https://www.bilibili.com/video/BV1oK4y1d7qg/)|[ixigua](https://www.ixigua.com/i6961150508794905101/)|
 |25|[1254. Number of Closed Islands](https://leetcode.com/problems/number-of-closed-islands/)|[Java](https://github.com/MagicienDeCode/LeetCode_Solution/blob/master/src/main/java/depth_first_search/NumberofClosedIslands1254.java)|-|Medium|[Youtube](https://www.youtube.com/watch?v=bFLKrbzLtzA)|[bilibili](https://www.bilibili.com/video/BV13N411Z7ZS/)|[ixigua](https://www.ixigua.com/i6962957535318016542/)|
 |26|[1376. Time Needed to Inform All Employees](https://leetcode.com/problems/time-needed-to-inform-all-employees/)|[Java](https://github.com/MagicienDeCode/LeetCode_Solution/blob/master/src/main/java/depth_first_search/TimeNeededtoInformAllEmployees1376.java)|-|Medium|[Youtube](https://www.youtube.com/watch?v=ZYZ4_KVaGV8)|[bilibili](https://www.bilibili.com/video/BV1rA411g7rc/)|[ixigua](https://www.ixigua.com/i6963322158764261925/)|
-|27|[1722. Minimize Hamming Distance After Swap Operations](https://leetcode.com/problems/minimize-hamming-distance-after-swap-operations/)|[Java](https://github.com/MagicienDeCode/LeetCode_Solution/blob/master/src/main/java/depth_first_search/MinimizeHammingDistanceAfterSwapOperations1722.java)|-|Medium|[Youtube](https://www.youtube.com/watch?v=uwsgrxIfI4w)|[bilibili](https://www.bilibili.com/video/BV1nv411L7fY/)|[ixigua](https://www.ixigua.com/i6964074749378953764/)|
+|*27|[1722. Minimize Hamming Distance After Swap Operations](https://leetcode.com/problems/minimize-hamming-distance-after-swap-operations/)|[Java](https://github.com/MagicienDeCode/LeetCode_Solution/blob/master/src/main/java/depth_first_search/MinimizeHammingDistanceAfterSwapOperations1722.java)|-|Medium|[Youtube](https://www.youtube.com/watch?v=uwsgrxIfI4w)|[bilibili](https://www.bilibili.com/video/BV1nv411L7fY/)|[ixigua](https://www.ixigua.com/i6964074749378953764/)|
+|**28|[51. N-Queens](https://leetcode.com/problems/n-queens/)|[Java](https://github.com/MagicienDeCode/LeetCode_Solution/blob/master/src/main/java/depth_first_search/NQueens51.java)|-|Medium|[Youtube](https://www.youtube.com/watch?v=-eHl4_9H7eo)|[bilibili](https://www.bilibili.com/video/BV1o64y1C7WL/)|[ixigua](https://www.ixigua.com/i6965127533192970788/)|
 
 - Math
 
@@ -406,14 +401,12 @@
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |1|[142. Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)|[Java](https://github.com/MagicienDeCode/LeetCode_Solution/blob/master/src/main/java/list_array/LinkedListCycleII142.java)|[Kotlin](https://github.com/MagicienDeCode/LeetCode_Solution/blob/master/src/main/kotlin/list_array/LinkedListCycleIIKotlin142.kt)|Medium|[Youtube](https://www.youtube.com/watch?v=wOctIHDiV2Q)|[bilibili](https://www.bilibili.com/video/BV1rz4y1o7i7/)|[ixigua](https://www.ixigua.com/i6888751997189620237/)|
 
-
 - Deque
 
 | # | Title | Java | Kotlin | Difficulty | Youtube | bilibili | ixiagua |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |1|[239. Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)|[Java](https://github.com/MagicienDeCode/LeetCode_Solution/blob/master/src/main/java/sliding_window/SlidingWindowMaximum239.java)|[Kotlin](https://github.com/MagicienDeCode/LeetCode_Solution/blob/master/src/main/kotlin/sliding_window/SlidingWindowMaximumKotlin239.kt)|Hard|[Youtube](https://www.youtube.com/watch?v=3_DkjG_KMmw)|[bilibili](https://www.bilibili.com/video/BV1jz4y1k7yQ/)|[ixigua](https://www.ixigua.com/i6900298081410122247/)|
 |2|[678. Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/)|[Java](https://github.com/MagicienDeCode/LeetCode_Solution/blob/master/src/main/java/stack/ValidParenthesisString678.java)|-|Medium|[Youtube](https://www.youtube.com/watch?v=1SLSAeSDpLo)|[bilibili](https://www.bilibili.com/video/BV1vh411D7vr/)|[ixigua](https://www.ixigua.com/i6948166588960866852/)|
-
 
 - Data Structure
 
@@ -423,7 +416,6 @@
 |2|[1649. Create Sorted Array through Instructions](https://leetcode.com/problems/create-sorted-array-through-instructions/)|[Java](https://github.com/MagicienDeCode/LeetCode_Solution/blob/master/src/main/java/bit_operation/CreateSortedArraythroughInstructions1649.java)|-|Hard|[Youtube](https://www.youtube.com/watch?v=R-poYDH0-TM)|[bilibili](https://www.bilibili.com/video/BV1JU4y1472N/)|[ixigua](https://www.ixigua.com/i6916981350280987149/)|
 |3|[535. Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl/)|[Java](https://github.com/MagicienDeCode/LeetCode_Solution/blob/master/src/main/java/hash_map_set/EncodeandDecodeTinyURL535.java)|-|Medium|[Youtube](https://www.youtube.com/watch?v=Pkf_y3RXq1o)|[bilibili](https://www.bilibili.com/video/BV1NV411e7NK/)|[ixigua](https://www.ixigua.com/i6939974258395185672/)|
 |4|[622. Design Circular Queue](https://leetcode.com/problems/design-circular-queue/)|[Java](https://github.com/MagicienDeCode/LeetCode_Solution/blob/master/src/main/java/design/DesignCircularQueue622.java)|-|Medium|[Youtube](https://www.youtube.com/watch?v=dhnZa06NRs0)|[bilibili](https://www.bilibili.com/video/BV1eK411w7ev/)|[ixigua](https://www.ixigua.com/i6947311401853682213/)|
-
 
 - PriorityQueue
 
