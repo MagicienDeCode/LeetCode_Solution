@@ -2,13 +2,13 @@ package priority_queue
 
 fun main() {
     val lineNumber = 2
-    val title = "1354. Construct Target Array With Multiple Sums"
-    val titleLink = "https://leetcode.com/problems/construct-target-array-with-multiple-sums/"
-    val javaClassName = "ConstructTargetArrayWithMultipleSums1354"
+    val title = "1383. Maximum Performance of a Team"
+    val titleLink = "https://leetcode.com/problems/maximum-performance-of-a-team/"
+    val javaClassName = "MaximumPerformanceofaTeam1383"
     val kotlinClassName = "-"
 
-    val youtubeId = "ictNzZ1uwsg"
-    val bilibiliId = "BV1nB4y1F7QJ"
+    val youtubeId = "MgTq9ikqywc"
+    val bilibiliId = "BV1r44y1z7q3"
     val ixiguaId = "6960274325135950343"
 
     val youtube = "https://www.youtube.com/watch?v=$youtubeId"
