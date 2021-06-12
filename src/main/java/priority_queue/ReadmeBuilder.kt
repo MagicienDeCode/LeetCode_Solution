@@ -2,14 +2,14 @@ package priority_queue
 
 fun main() {
     val lineNumber = 2
-    val title = "1383. Maximum Performance of a Team"
-    val titleLink = "https://leetcode.com/problems/maximum-performance-of-a-team/"
-    val javaClassName = "MaximumPerformanceofaTeam1383"
+    val title = "871. Minimum Number of Refueling Stops"
+    val titleLink = "https://leetcode.com/problems/minimum-number-of-refueling-stops/"
+    val javaClassName = "MinimumNumberofRefuelingStops871"
     val kotlinClassName = "-"
 
-    val youtubeId = "MgTq9ikqywc"
-    val bilibiliId = "BV1r44y1z7q3"
-    val ixiguaId = "6960274325135950343"
+    val youtubeId = "mKtDw8HAcag"
+    val bilibiliId = "BV1h44y167Nj"
+    val ixiguaId = "6972954543017427470"
 
     val youtube = "https://www.youtube.com/watch?v=$youtubeId"
     val bilibili = "https://www.bilibili.com/video/$bilibiliId/"
