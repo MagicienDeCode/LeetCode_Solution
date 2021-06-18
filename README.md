@@ -298,7 +298,7 @@
 
 | # | Title | Youtube | bilibili | ixiagua |
 |:---:|:---:|:---:|:---:|:---:|
-|0|[All In One](https://github.com/MagicienDeCode/LeetCode_Solution/blob/master/src/DFS_ALL_IN_ONE.pdf)|[Youtube](https://www.youtube.com/watch?v=pAZrj2pJlO0)|[bilibili](https://www.bilibili.com/video/BV1Dh411d77f/)|[ixigua](https://www.ixigua.com/i6863856731831665159/)|
+|0|[All In One](https://github.com/MagicienDeCode/LeetCode_Solution/blob/master/src/DFS_ALL_IN_ONE.pdf)|[Youtube](https://www.youtube.com/watch?v=g9ya2eGEvJY)|[bilibili](https://www.bilibili.com/video/BV1Fy4y1g7Rm/)|[ixigua](https://www.ixigua.com/i6975262712871780877/)|
 
 
 - DFS - Permutation
