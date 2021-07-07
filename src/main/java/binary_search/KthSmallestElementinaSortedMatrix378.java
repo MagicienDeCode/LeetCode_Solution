@@ -1,6 +1,22 @@
 package binary_search;
 
+import java.util.Collections;
+import java.util.PriorityQueue;
+
 public class KthSmallestElementinaSortedMatrix378 {
+    public int kthSmallest(int[][] matrix, int k) {
+        final PriorityQueue<Integer> priorityQueue = new PriorityQueue<>(Collections.reverseOrder());
+        for (int i = 0; i < matrix.length; i++) {
+            for (int j = 0; j < matrix[0].length; j++) {
+                priorityQueue.offer(matrix[i][j]);
+                if (priorityQueue.size() > k) {
+                    priorityQueue.poll();
+                }
+            }
+        }
+        return priorityQueue.poll();
+    }
+    /*
     public int kthSmallest(int[][] matrix, int k) {
         if (matrix == null ||
                 matrix.length == 0 ||
@@ -55,5 +71,6 @@ public class KthSmallestElementinaSortedMatrix378 {
         }
         return 0;
     }
+     */
 }
 
