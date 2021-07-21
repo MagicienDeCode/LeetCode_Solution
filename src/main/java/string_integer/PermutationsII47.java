@@ -1,11 +1,43 @@
 package string_integer;
 
 import java.util.Arrays;
+import java.util.HashSet;
 import java.util.LinkedList;
 import java.util.List;
 import java.util.stream.Collectors;
 
 public class PermutationsII47 {
+    public List<List<Integer>> permuteUnique(int[] nums) {
+        final List<List<Integer>> results = new LinkedList<>();
+        Arrays.sort(nums);
+        permutate(nums, 0, results, new HashSet<>());
+        return results;
+    }
+
+    private void permutate(int[] nums, int start, List<List<Integer>> results, HashSet<Integer> set) {
+        if (start == nums.length) {
+            results.add(Arrays.stream(nums).boxed().collect(Collectors.toList()));
+        } else {
+            for (int i = start; i < nums.length; i++) {
+                if (set.contains(nums[i])) {
+                    continue;
+                }
+                set.add(nums[i]);
+                swap(nums, i, start);
+                permutate(nums, start + 1, results, set);
+                swap(nums, i, start);
+            }
+        }
+    }
+
+    private void swap(int[] array, int i, int j) {
+        if (i != j) {
+            int temp = array[i];
+            array[i] = array[j];
+            array[j] = temp;
+        }
+    }
+    /*
     public List<List<Integer>> permuteUnique(int[] nums) {
         final List<List<Integer>> results = new LinkedList<>();
         Arrays.sort(nums);
@@ -39,6 +71,7 @@ public class PermutationsII47 {
             array[j] = temp;
         }
     }
+     */
 
     public static void main(String[] args) {
         final PermutationsII47 java = new PermutationsII47();
