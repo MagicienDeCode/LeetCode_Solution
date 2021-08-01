@@ -2,14 +2,14 @@ package depth_first_search
 
 fun main() {
     val lineNumber = 2
-    val title = "97. Interleaving String"
-    val titleLink = "https://leetcode.com/problems/interleaving-string/"
-    val javaClassName = "InterleavingString97"
+    val title = "827. Making A Large Island"
+    val titleLink = "https://leetcode.com/problems/making-a-large-island/"
+    val javaClassName = "MakingALargeIsland827"
     val kotlinClassName = "-"
 
-    val youtubeId = "ojO3Lx4JUaY"
-    val bilibiliId = "BV1M5411M7j2"
-    val ixiguaId = "6969312754427658759"
+    val youtubeId = "sXhmH4_ml6k"
+    val bilibiliId = "BV1b54y17765"
+    val ixiguaId = "6991542734502756895"
 
     val youtube = "https://www.youtube.com/watch?v=$youtubeId"
     val bilibili = "https://www.bilibili.com/video/$bilibiliId/"
