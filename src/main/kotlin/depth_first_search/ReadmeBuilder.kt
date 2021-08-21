@@ -2,14 +2,14 @@ package depth_first_search
 
 fun main() {
     val lineNumber = 2
-    val title = "827. Making A Large Island"
-    val titleLink = "https://leetcode.com/problems/making-a-large-island/"
-    val javaClassName = "MakingALargeIsland827"
+    val title = "37. Sudoku Solver"
+    val titleLink = "https://leetcode.com/problems/sudoku-solver/"
+    val javaClassName = "ValidSudoku36"
     val kotlinClassName = "-"
 
-    val youtubeId = "sXhmH4_ml6k"
-    val bilibiliId = "BV1b54y17765"
-    val ixiguaId = "6991542734502756895"
+    val youtubeId = "Gj_P7lIfoLg"
+    val bilibiliId = "BV1xA411c73b"
+    val ixiguaId = "6998977484288950797"
 
     val youtube = "https://www.youtube.com/watch?v=$youtubeId"
     val bilibili = "https://www.bilibili.com/video/$bilibiliId/"

@@ -290,16 +290,15 @@
 |8|[1261. Find Elements in a Contaminated Binary Tree](https://leetcode.com/problems/find-elements-in-a-contaminated-binary-tree/)|[Java](https://github.com/MagicienDeCode/LeetCode_Solution/blob/master/src/main/java/tree/FindElementsinaContaminatedBinaryTree1261.java)|-|Medium|[Youtube](https://www.youtube.com/watch?v=X6I-B3V0trc)|[bilibili](https://www.bilibili.com/video/BV1gK4y1E7r8/)|[ixigua](https://www.ixigua.com/i6893599691657708046/)|
 
 - Depth First Search
-  1. DFS - Permutation
-  2. DFS - Combination ** & Backtracking **
-  3. DFS - Graph (Tree) **
-  4. DFS - Union Find
-  5. DFS - Other
+    1. DFS - Permutation
+    2. DFS - Combination ** & Backtracking **
+    3. DFS - Graph (Tree) **
+    4. DFS - Union Find
+    5. DFS - Other
 
 | # | Title | Youtube | bilibili | ixiagua |
 |:---:|:---:|:---:|:---:|:---:|
 |0|[All In One](https://github.com/MagicienDeCode/LeetCode_Solution/blob/master/src/DFS_ALL_IN_ONE.pdf)|[Youtube](https://www.youtube.com/watch?v=g9ya2eGEvJY)|[bilibili](https://www.bilibili.com/video/BV1Fy4y1g7Rm/)|[ixigua](https://www.ixigua.com/i6975262712871780877/)|
-
 
 - DFS - Permutation
 
@@ -319,6 +318,7 @@
 |5|[77. Combinations](https://leetcode.com/problems/combinations/)|[Java](https://github.com/MagicienDeCode/LeetCode_Solution/blob/master/src/main/java/depth_first_search/Combinations77.java)|-|Medium|[Youtube](https://www.youtube.com/watch?v=GD0FxUoPN6o)|[bilibili](https://www.bilibili.com/video/BV1Ha4y1W7eY/)|[ixigua](https://www.ixigua.com/i6898428700031713800/)|
 |6|[491. Increasing Subsequences](https://leetcode.com/problems/increasing-subsequences/)|[Java](https://github.com/MagicienDeCode/LeetCode_Solution/blob/master/src/main/java/depth_first_search/IncreasingSubsequences491.java)|-|Medium|[Youtube](https://www.youtube.com/watch?v=Pv2LShfHCfY)|[bilibili](https://www.bilibili.com/video/BV16X4y1M7ds/)|[ixigua](https://www.ixigua.com/i6902500735439602189/)|
 |**7|[51. N-Queens](https://leetcode.com/problems/n-queens/)|[Java](https://github.com/MagicienDeCode/LeetCode_Solution/blob/master/src/main/java/depth_first_search/NQueens51.java)|-|Medium|[Youtube](https://www.youtube.com/watch?v=-eHl4_9H7eo)|[bilibili](https://www.bilibili.com/video/BV1o64y1C7WL/)|[ixigua](https://www.ixigua.com/i6965127533192970788/)|
+|**8|[37. Sudoku Solver](https://leetcode.com/problems/sudoku-solver/)|[Java](https://github.com/MagicienDeCode/LeetCode_Solution/blob/master/src/main/java/depth_first_search/ValidSudoku36.java)|-|Medium|[Youtube](https://www.youtube.com/watch?v=Gj_P7lIfoLg)|[bilibili](https://www.bilibili.com/video/BV1xA411c73b/)|[ixigua](https://www.ixigua.com/i6998977484288950797/)|
 
 - DFS - Graph (Tree & Grid) **
 
@@ -360,8 +360,6 @@
 |9|[1766. Tree of Coprimes](https://leetcode.com/problems/tree-of-coprimes/)|[Java](https://github.com/MagicienDeCode/LeetCode_Solution/blob/master/src/main/java/depth_first_search/TreeofCoprimes1766.java)|-|Medium|[Youtube](https://www.youtube.com/watch?v=Kzsj3z2XgrE)|[bilibili](https://www.bilibili.com/video/BV18B4y1u7U5/)|[ixigua](https://www.ixigua.com/i6967792303322694152/)|
 |10|[1268. Search Suggestions System](https://leetcode.com/problems/search-suggestions-system/)|[Java](https://github.com/MagicienDeCode/LeetCode_Solution/blob/master/src/main/java/depth_first_search/SearchSuggestionsSystem1268.java)|-|Medium|[Youtube](https://www.youtube.com/watch?v=mZtYQqb9tFs)|[bilibili](https://www.bilibili.com/video/BV14h411e7hi/)|[ixigua](https://www.ixigua.com/i6968855726374519333/)|
 |11*|[97. Interleaving String](https://leetcode.com/problems/interleaving-string/)|[Java](https://github.com/MagicienDeCode/LeetCode_Solution/blob/master/src/main/java/depth_first_search/InterleavingString97.java)|-|Medium|[Youtube](https://www.youtube.com/watch?v=ojO3Lx4JUaY)|[bilibili](https://www.bilibili.com/video/BV1M5411M7j2/)|[ixigua](https://www.ixigua.com/i6969312754427658759/)|
-
-
 
 - Dynamic Programming
 
@@ -413,7 +411,6 @@
 |5|[847. Shortest Path Visiting All Nodes](https://leetcode.com/problems/shortest-path-visiting-all-nodes/)|[Java](https://github.com/MagicienDeCode/LeetCode_Solution/blob/master/src/main/java/breadth_first_search/ShortestPathVisitingAllNodes847.java)|[Kotlin](https://github.com/MagicienDeCode/LeetCode_Solution/blob/master/src/main/kotlin/breadth_first_search/ShortestPathVisitingAllNodesKotlin847.kt)|Hard|[Youtube](https://www.youtube.com/watch?v=4RidrIinlqg)|[bilibili](https://www.bilibili.com/video/BV1ri4y1u7Mo/)|[ixigua](https://www.ixigua.com/i6854977715146064395/)|
 |6|[399. Evaluate Division](https://leetcode.com/problems/evaluate-division/)|[Java](https://github.com/MagicienDeCode/LeetCode_Solution/blob/master/src/main/java/graph/EvaluateDivision399.java)|[Kotlin](https://github.com/MagicienDeCode/LeetCode_Solution/blob/master/src/main/kotlin/graph/EvaluateDivisionKotlin399.kt)|Medium|[Youtube](https://www.youtube.com/watch?v=1HKYTyRKoec)|[bilibili](https://www.bilibili.com/video/BV1bK411P7KW/)|[ixigua](https://www.ixigua.com/i6877205563176911368/)|
 |7|[1192. Critical Connections in a Network](https://leetcode.com/problems/critical-connections-in-a-network/)|[Java](https://github.com/MagicienDeCode/LeetCode_Solution/blob/master/src/main/java/graph/CriticalConnectionsinaNetwork1192.java)|-|Medium|[Youtube](https://www.youtube.com/watch?v=eoHEQvicvKU)|[bilibili](https://www.bilibili.com/video/BV1H84y1F7uS/)|[ixigua](https://www.ixigua.com/i6954662732184420877/)|
-
 
 - Math
 

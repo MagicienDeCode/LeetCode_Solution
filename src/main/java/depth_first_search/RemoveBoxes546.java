@@ -1,7 +1,31 @@
 package depth_first_search;
 
 public class RemoveBoxes546 {
+    public int removeBoxes(int[] boxes) {
+        final int[][][] dp = new int[boxes.length][boxes.length][boxes.length];
+        for (int i = 0; i < boxes.length; i++) {
+            for (int j = 0; j <= i; j++) {
+                dp[i][i][j] = (1 + j) * (j + 1);
+            }
+        }
 
+        for (int i = 1; i < boxes.length; i++) {
+            for (int j = i; j < boxes.length; j++) {
+                final int d = j - i;
+                for (int k = 0; k <= d; k++) {
+                    int result = (1 + k) * (k + 1) + dp[d + 1][j][0];
+                    for (int l = d + 1; l <= j; l++) {
+                        if (boxes[l] == boxes[d]) {
+                            result = Math.max(result, dp[d + 1][l - 1][0] + dp[l][j][k + 1]);
+                        }
+                    }
+                    dp[d][j][k] = result;
+                }
+            }
+        }
+        return boxes.length == 0 ? 0 : dp[0][boxes.length - 1][0];
+    }
+    /*
     private int[] boxes;
     private int[][][] dp;
 
@@ -32,4 +56,5 @@ public class RemoveBoxes546 {
         dp[left][right][k] = result;
         return result;
     }
+     */
 }
