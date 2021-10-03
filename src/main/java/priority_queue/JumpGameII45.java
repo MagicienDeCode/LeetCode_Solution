@@ -2,6 +2,21 @@ package priority_queue;
 
 public class JumpGameII45 {
     public int jump(int[] nums) {
+        int result = 0;
+        int maxReached = 0;
+        int current = 0;
+        while (maxReached < nums.length - 1) {
+            ++result;
+            final int temp = maxReached;
+            while (current <= temp) {
+                maxReached = Math.max(maxReached, current + nums[current]);
+                ++current;
+            }
+        }
+        return result;
+    }
+    /*
+    public int jump(int[] nums) {
         if (nums.length == 1) {
             return 0;
         }
@@ -24,6 +39,7 @@ public class JumpGameII45 {
             ++count;
         }
     }
+     */
     /*
     public int jump(int[] nums) {
         if (nums.length == 1) {
